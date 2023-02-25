@@ -10,4 +10,4 @@ const AccountSchema = new Schema({
     password : {type: String, required: true}
 });
 
-const userModel = mongoose.model("Account", AccountSchema);
+const accountModel = mongoose.model("Account", AccountSchema);
