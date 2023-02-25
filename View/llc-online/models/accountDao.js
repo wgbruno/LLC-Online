@@ -1,4 +1,5 @@
 const mongoose = require("mongoose");
+const { NativeModules } = require("react-native-web");
 
 const Schema = mongoose.Schema; 
 
