@@ -2,23 +2,22 @@ import logo from './logo.svg';
 import './App.css';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import React from 'react';
-import home from './screens/home';
+import Header from "./components/header"
+import Footer from "./components/footer"
+import Hero from "./components/header"
+
 
 function App() {
   return (
-    <div className="wrapper">
+    <div className="App">
+      <Header />
+      <Footer />
+      <Hero />
 
-      <Router>
-
-        <Routes>
-
-          <Route path="/" element={home} />
-
-        </Routes>
-
-      </Router>
-
-    </div>
+      <Route exact path="/header" element={<Header />} />
+      <Route exact path="/footer" element={<Footer />} />
+      <Route exact path="/hero" element={<Hero />} />
+  </div>
   );
 }
 
