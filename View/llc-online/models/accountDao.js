@@ -3,7 +3,8 @@ const { NativeModules } = require("react-native-web");
 
 const Schema = mongoose.Schema; 
 
-const AccountSchema = new Schema({
+const AccountSchema = new Schema
+({
     first_name : {type: String, required: true, maxLength: 100},
     last_name : {type: String, required: true, maxLength: 100},
     account_type : {type: String, required: true},
@@ -12,3 +13,22 @@ const AccountSchema = new Schema({
 });
 
 const accountModel = mongoose.model("Account", AccountSchema);
+
+exports.create = async function( newAccount )
+{
+    const user = new accountModel( newAccount );
+    const createdAccount = await account.save( );
+    return createdAccount;
+}
+
+exports.login = async function( email, password )
+{
+    let account = await userModel.findOne( { email: email, password: password } );
+    return account;
+}
+
+exports.searchAccounts = async function( id )
+{
+    let foundAccount = await accountModel.findById( id );
+    return foundAccount;
+}
