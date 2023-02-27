@@ -1,12 +1,8 @@
-import React, { Component } from 'react'; 
+import React from 'react'; 
 
-class Footer extends Component {
+export default function Footer(){
+    return (
 
-    render() {
-
-        return (
-
-//This is the area where you paste your HTML codes
         <div>
         <footer id="footer">
           <div className="footer-newsletter">
@@ -83,10 +79,8 @@ class Footer extends Component {
           </div>
         </footer>{/* End Footer */}
       </div>
-        )
-
-    }
+    )
 
 }
 
-export default Footer;
+

@@ -1,13 +1,8 @@
-import React, { Component } from 'react'; 
+import React from 'react'; 
 
-class Header extends Component {
-
-    render() {
-
-        return (
-
-            <body>
-
+export default function Header(){
+    return (
+            <div>
             {/*<!-- ======= Header ======= -->*/}
             <header id="header" class="fixed-top">
             <div class="container d-flex align-items-center justify-content-between">
@@ -47,11 +42,7 @@ class Header extends Component {
 
             </div>
             </header>{/*<!-- End Header -->*/}
-            </body>
-        )
-
-    }
+            </div>
+    )
 
 }
-
-export default Header;

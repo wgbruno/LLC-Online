@@ -1,7 +1,9 @@
-var Home = React.createClass({
-    render: function() {
-      return (
-        <div>
+import React from "react";
+
+export default function Home(){
+    return (
+        <>
+            <div>
           <meta charSet="utf-8" />
           <meta content="width=device-width, initial-scale=1.0" name="viewport" />
           <title>Butterfly Bootstrap Template - Index</title>
@@ -26,57 +28,7 @@ var Home = React.createClass({
     * Author: BootstrapMade.com
     * License: https://bootstrapmade.com/license/
     ======================================================== */}
-          {/* ======= Header ======= */}
-          <header id="header" className="fixed-top">
-            <div className="container d-flex align-items-center justify-content-between">
-              <a href="index.html" className="logo"><img src="assets/img/logo.png" alt="" className="img-fluid" /></a>
-              {/* Uncomment below if you prefer to use text as a logo */}
-              {/* <h1 class="logo"><a href="index.html">Butterfly</a></h1> */}
-              <nav id="navbar" className="navbar">
-                <ul>
-                  <li><a className="nav-link scrollto active" href="#hero">Home</a></li>
-                  <li><a className="nav-link scrollto" href="#about">About</a></li>
-                  <li><a className="nav-link scrollto" href="#services">Services</a></li>
-                  <li><a className="nav-link scrollto " href="#portfolio">Portfolio</a></li>
-                  <li><a className="nav-link scrollto" href="#team">Team</a></li>
-                  <li className="dropdown"><a href="#"><span>Drop Down</span> <i className="bi bi-chevron-down" /></a>
-                    <ul>
-                      <li><a href="#">Drop Down 1</a></li>
-                      <li className="dropdown"><a href="#"><span>Deep Drop Down</span> <i className="bi bi-chevron-right" /></a>
-                        <ul>
-                          <li><a href="#">Deep Drop Down 1</a></li>
-                          <li><a href="#">Deep Drop Down 2</a></li>
-                          <li><a href="#">Deep Drop Down 3</a></li>
-                          <li><a href="#">Deep Drop Down 4</a></li>
-                          <li><a href="#">Deep Drop Down 5</a></li>
-                        </ul>
-                      </li>
-                      <li><a href="#">Drop Down 2</a></li>
-                      <li><a href="#">Drop Down 3</a></li>
-                      <li><a href="#">Drop Down 4</a></li>
-                    </ul>
-                  </li>
-                  <li><a className="nav-link scrollto" href="#contact">Contact</a></li>
-                </ul>
-                <i className="bi bi-list mobile-nav-toggle" />
-              </nav>{/* .navbar */}
-            </div>
-          </header>{/* End Header */}
-          {/* ======= Hero Section ======= */}
-          <section id="hero" className="d-flex align-items-center">
-            <div className="container">
-              <div className="row">
-                <div className="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
-                  <h1>Creating websites that make you stop &amp; stare</h1>
-                  <h2>Accusantium quam, aliquam ultricies eget tempor id, aliquam eget nibh et. Maecen aliquam, risus at semper. Proin iaculis purus consequat sem cure digni ssim. Donec porttitora entum.</h2>
-                  <div><a href="#about" className="btn-get-started scrollto">Get Started</a></div>
-                </div>
-                <div className="col-lg-6 order-1 order-lg-2 hero-img">
-                  <img src="assets/img/hero-img.png" className="img-fluid" alt="" />
-                </div>
-              </div>
-            </div>
-          </section>{/* End Hero */}
+          
           <main id="main">
             {/* ======= About Section ======= */}
             <section id="about" className="about">
@@ -178,87 +130,10 @@ var Home = React.createClass({
             </section>{/* End Gallery Section */}
         
           </main>{/* End #main */}
-          {/* ======= Footer ======= */}
-          <footer id="footer">
-            <div className="footer-newsletter">
-              <div className="container">
-                <div className="row justify-content-center">
-                  <div className="col-lg-6">
-                    <h4>Join Our Newsletter</h4>
-                    <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
-                    <form action method="post">
-                      <input type="email" name="email" /><input type="submit" defaultValue="Subscribe" />
-                    </form>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="footer-top">
-              <div className="container">
-                <div className="row">
-                  <div className="col-lg-3 col-md-6 footer-contact">
-                    <h3>Butterfly</h3>
-                    <p>
-                      A108 Adam Street <br />
-                      New York, NY 535022<br />
-                      United States <br /><br />
-                      <strong>Phone:</strong> +1 5589 55488 55<br />
-                      <strong>Email:</strong> info@example.com<br />
-                    </p>
-                  </div>
-                  <div className="col-lg-3 col-md-6 footer-links">
-                    <h4>Useful Links</h4>
-                    <ul>
-                      <li><i className="bx bx-chevron-right" /> <a href="#">Home</a></li>
-                      <li><i className="bx bx-chevron-right" /> <a href="#">About us</a></li>
-                      <li><i className="bx bx-chevron-right" /> <a href="#">Services</a></li>
-                      <li><i className="bx bx-chevron-right" /> <a href="#">Terms of service</a></li>
-                      <li><i className="bx bx-chevron-right" /> <a href="#">Privacy policy</a></li>
-                    </ul>
-                  </div>
-                  <div className="col-lg-3 col-md-6 footer-links">
-                    <h4>Our Services</h4>
-                    <ul>
-                      <li><i className="bx bx-chevron-right" /> <a href="#">Web Design</a></li>
-                      <li><i className="bx bx-chevron-right" /> <a href="#">Web Development</a></li>
-                      <li><i className="bx bx-chevron-right" /> <a href="#">Product Management</a></li>
-                      <li><i className="bx bx-chevron-right" /> <a href="#">Marketing</a></li>
-                      <li><i className="bx bx-chevron-right" /> <a href="#">Graphic Design</a></li>
-                    </ul>
-                  </div>
-                  <div className="col-lg-3 col-md-6 footer-links">
-                    <h4>Our Social Networks</h4>
-                    <p>Cras fermentum odio eu feugiat lide par naso tierra videa magna derita valies</p>
-                    <div className="social-links mt-3">
-                      <a href="#" className="twitter"><i className="bx bxl-twitter" /></a>
-                      <a href="#" className="facebook"><i className="bx bxl-facebook" /></a>
-                      <a href="#" className="instagram"><i className="bx bxl-instagram" /></a>
-                      <a href="#" className="google-plus"><i className="bx bxl-skype" /></a>
-                      <a href="#" className="linkedin"><i className="bx bxl-linkedin" /></a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="container py-4">
-              <div className="copyright">
-                © Copyright <strong><span>Butterfly</span></strong>. All Rights Reserved
-              </div>
-              <div className="credits">
-                {/* All the links in the footer should remain intact. */}
-                {/* You can delete the links only if you purchased the pro version. */}
-                {/* Licensing information: https://bootstrapmade.com/license/ */}
-                {/* Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/butterfly-free-bootstrap-theme/ */}
-                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-              </div>
-            </div>
-          </footer>{/* End Footer */}
           <a href="#" className="back-to-top d-flex align-items-center justify-content-center"><i className="bi bi-arrow-up-short" /></a>
           {/* Vendor JS Files */}
           {/* Template Main JS File */}
         </div>
-      );
-    }
-  });
-
-export default Home
+        </>
+    );
+}

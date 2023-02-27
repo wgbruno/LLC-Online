@@ -6,7 +6,7 @@ class Hero extends Component {
 
         return (
 
-            <body>
+            <div>
 
             {/* ======= Hero Section ======= */}
                 <div className="container">
@@ -23,7 +23,7 @@ class Hero extends Component {
                 </div>
             {/* End Hero */}
 
-            </body>
+            </div>
         )
     }
 }
