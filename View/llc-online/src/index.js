@@ -4,11 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import NavBar from './components/NavBar';
-import Footer from './components/Footer';
-import Header from './components/Header';
-import Home from "./screens/Home"
-import Test from "./components/Test"
+import Home from "../../screens/Home"
 
 /*
 ReactDOM.render(
