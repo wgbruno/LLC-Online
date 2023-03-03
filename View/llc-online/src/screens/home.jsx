@@ -4,6 +4,8 @@ import Header from "../components/Header";
 import Footer from "../components/Footer";
 import Gallery from "../components/Gallery";
 import Hero from "../components/hero";
+import Login from "../components/Login";
+import Register from "../components/Register";
 
 export default function Home(){
     return (
@@ -11,6 +13,8 @@ export default function Home(){
           <NavBar />
           <Header /> 
           <Hero />
+          <Login />
+          <Register />
           <Gallery />
           <Footer />
       </div>
