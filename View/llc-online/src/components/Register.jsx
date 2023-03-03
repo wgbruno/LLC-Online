@@ -1,4 +1,4 @@
-export const Register = () =>
+export default function Register()
 {
     return
     (
