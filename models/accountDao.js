@@ -1,9 +1,7 @@
 const mongoose = require("mongoose");
-const { NativeModules } = require("react-native-web");
-
 const Schema = mongoose.Schema; 
 
-const AccountSchema = new Schema
+const AccountSchema = new mongoose.Schema
 ({
     first_name : {type: String, required: true, maxLength: 100},
     last_name : {type: String, required: true, maxLength: 100},
