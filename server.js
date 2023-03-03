@@ -1,17 +1,10 @@
 require('dotenv').config();
-
 const db_conn = require('./models/index.js');
 
-const mongoose = require('mongoose');
+db_conn.connect();
 
-exports.connect = async function(){
-    let uri = process.env.DB_URI; //production DB
+const ExpressApp = require('./App');
 
-    await mongoose.connect(uri,function(err){
-        if(err) console.log(err);
-    });
-}
-
-exports.disconnect = async function(){
-    await mongoose.connection.close();
-}
+ExpressApp.app.listen(process.env.PORT,process.env.HOSTNAME,function(){ 
+    console.log(`Server Running on ${process.env.HOSTNAME}:${process.env.PORT}...`);
+});
