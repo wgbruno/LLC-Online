@@ -4,7 +4,8 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import Home from "./screens/home"
+import Home from "./screens/Home"
+import LoginPage from "./screens/loginpage";
 
 /*
 ReactDOM.render(
@@ -23,6 +24,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
       <Home />
+      <Login />
   </React.StrictMode>
 )
 
