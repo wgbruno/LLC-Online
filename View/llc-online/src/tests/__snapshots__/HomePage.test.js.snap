@@ -1,0 +1,907 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HomePage 1`] = `
+<div>
+  <nav
+    className="navbar"
+    id="navbar"
+  >
+    <ul>
+      <li>
+        <a
+          className="nav-link scrollto active"
+          href="#hero"
+        >
+          Home
+        </a>
+      </li>
+      <li>
+        <a
+          className="nav-link scrollto"
+          href="#about"
+        >
+          About
+        </a>
+      </li>
+      <li>
+        <a
+          className="nav-link scrollto"
+          href="#services"
+        >
+          Services
+        </a>
+      </li>
+      <li>
+        <a
+          className="nav-link scrollto "
+          href="#portfolio"
+        >
+          Portfolio
+        </a>
+      </li>
+      <li>
+        <a
+          className="nav-link scrollto"
+          href="#team"
+        >
+          Team
+        </a>
+      </li>
+      <li
+        className="dropdown"
+      >
+        <a
+          href="#"
+        >
+          <span>
+            Drop Down
+          </span>
+           
+          <i
+            className="bi bi-chevron-down"
+          />
+        </a>
+        <ul>
+          <li>
+            <a
+              href="#"
+            >
+              Drop Down 1
+            </a>
+          </li>
+          <li
+            className="dropdown"
+          >
+            <a
+              href="#"
+            >
+              <span>
+                Deep Drop Down
+              </span>
+               
+              <i
+                className="bi bi-chevron-right"
+              />
+            </a>
+            <ul>
+              <li>
+                <a
+                  href="#"
+                >
+                  Deep Drop Down 1
+                </a>
+              </li>
+              <li>
+                <a
+                  href="#"
+                >
+                  Deep Drop Down 2
+                </a>
+              </li>
+              <li>
+                <a
+                  href="#"
+                >
+                  Deep Drop Down 3
+                </a>
+              </li>
+              <li>
+                <a
+                  href="#"
+                >
+                  Deep Drop Down 4
+                </a>
+              </li>
+              <li>
+                <a
+                  href="#"
+                >
+                  Deep Drop Down 5
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a
+              href="#"
+            >
+              Drop Down 2
+            </a>
+          </li>
+          <li>
+            <a
+              href="#"
+            >
+              Drop Down 3
+            </a>
+          </li>
+          <li>
+            <a
+              href="#"
+            >
+              Drop Down 4
+            </a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a
+          className="nav-link scrollto"
+          href="#contact"
+        >
+          Contact
+        </a>
+      </li>
+    </ul>
+    <i
+      className="bi bi-list mobile-nav-toggle"
+    />
+  </nav>
+  <div>
+    <header
+      class="fixed-top"
+      id="header"
+    >
+      <div
+        class="container d-flex align-items-center justify-content-between"
+      >
+        <a
+          class="logo"
+          href="index.html"
+        >
+          <img
+            alt=""
+            class="img-fluid"
+            src="assets/img/logo.png"
+          />
+        </a>
+      </div>
+    </header>
+  </div>
+  <div>
+    <div
+      className="container"
+    >
+      <div
+        className="row"
+      >
+        <div
+          className="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center"
+        >
+          <h1>
+            The Language Learning Center Online
+          </h1>
+          <h2>
+            Insert phrase here about the LLC
+          </h2>
+        </div>
+        <div
+          className="col-lg-6 order-1 order-lg-2 hero-img"
+        >
+          <img
+            alt=""
+            className="img-fluid"
+            src="assets/img/hero-img.png"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <section
+      className="services section-bg"
+      id="services"
+    >
+      <div
+        className="container"
+      >
+        <div
+          className="section-title"
+        >
+          <h2>
+            Services
+          </h2>
+          <p>
+            Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.
+          </p>
+        </div>
+        <div
+          className="row"
+        >
+          <div
+            className="col-lg-4 col-md-6"
+          >
+            <div
+              className="icon-box"
+            >
+              <div
+                className="icon"
+              >
+                <i
+                  className="bi bi-cash-stack"
+                  style={
+                    Object {
+                      "color": "#ff689b",
+                    }
+                  }
+                />
+              </div>
+              <h4
+                className="title"
+              >
+                <a
+                  href={true}
+                >
+                  Lorem Ipsum
+                </a>
+              </h4>
+              <p
+                className="description"
+              >
+                Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident
+              </p>
+            </div>
+          </div>
+          <div
+            className="col-lg-4 col-md-6"
+          >
+            <div
+              className="icon-box"
+            >
+              <div
+                className="icon"
+              >
+                <i
+                  className="bi bi-calendar4-week"
+                  style={
+                    Object {
+                      "color": "#e9bf06",
+                    }
+                  }
+                />
+              </div>
+              <h4
+                className="title"
+              >
+                <a
+                  href={true}
+                >
+                  Dolor Sitema
+                </a>
+              </h4>
+              <p
+                className="description"
+              >
+                Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata
+              </p>
+            </div>
+          </div>
+          <div
+            className="col-lg-4 col-md-6"
+            data-wow-delay="0.1s"
+          >
+            <div
+              className="icon-box"
+            >
+              <div
+                className="icon"
+              >
+                <i
+                  className="bi bi-chat-text"
+                  style={
+                    Object {
+                      "color": "#3fcdc7",
+                    }
+                  }
+                />
+              </div>
+              <h4
+                className="title"
+              >
+                <a
+                  href={true}
+                >
+                  Sed ut perspiciatis
+                </a>
+              </h4>
+              <p
+                className="description"
+              >
+                Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+              </p>
+            </div>
+          </div>
+          <div
+            className="col-lg-4 col-md-6"
+            data-wow-delay="0.1s"
+          >
+            <div
+              className="icon-box"
+            >
+              <div
+                className="icon"
+              >
+                <i
+                  className="bi bi-credit-card-2-front"
+                  style={
+                    Object {
+                      "color": "#41cf2e",
+                    }
+                  }
+                />
+              </div>
+              <h4
+                className="title"
+              >
+                <a
+                  href={true}
+                >
+                  Magni Dolores
+                </a>
+              </h4>
+              <p
+                className="description"
+              >
+                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+              </p>
+            </div>
+          </div>
+          <div
+            className="col-lg-4 col-md-6"
+            data-wow-delay="0.2s"
+          >
+            <div
+              className="icon-box"
+            >
+              <div
+                className="icon"
+              >
+                <i
+                  className="bi bi-globe"
+                  style={
+                    Object {
+                      "color": "#d6ff22",
+                    }
+                  }
+                />
+              </div>
+              <h4
+                className="title"
+              >
+                <a
+                  href={true}
+                >
+                  Nemo Enim
+                </a>
+              </h4>
+              <p
+                className="description"
+              >
+                At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque
+              </p>
+            </div>
+          </div>
+          <div
+            className="col-lg-4 col-md-6"
+            data-wow-delay="0.2s"
+          >
+            <div
+              className="icon-box"
+            >
+              <div
+                className="icon"
+              >
+                <i
+                  className="bi bi-clock"
+                  style={
+                    Object {
+                      "color": "#4680ff",
+                    }
+                  }
+                />
+              </div>
+              <h4
+                className="title"
+              >
+                <a
+                  href={true}
+                >
+                  Eiusmod Tempor
+                </a>
+              </h4>
+              <p
+                className="description"
+              >
+                Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+  <div>
+    <section
+      className="gallery"
+      id="gallery"
+    >
+      <div
+        className="container"
+      >
+        <div
+          className="section-title"
+        >
+          <h2>
+            Gallery
+          </h2>
+          <p>
+            Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.
+          </p>
+        </div>
+        <div
+          className="row no-gutters"
+        >
+          <div
+            className="col-lg-3 col-md-4"
+          >
+            <div
+              className="gallery-item"
+            >
+              <a
+                className="galleery-lightbox"
+                data-gallery="gallery-item"
+                href="assets/img/gallery/gallery-1.jpg"
+              >
+                <img
+                  alt=""
+                  className="img-fluid"
+                  src="assets/img/gallery/gallery-1.jpg"
+                />
+              </a>
+            </div>
+          </div>
+          <div
+            className="col-lg-3 col-md-4"
+          >
+            <div
+              className="gallery-item"
+            >
+              <a
+                className="galleery-lightbox"
+                data-gallery="gallery-item"
+                href="assets/img/gallery/gallery-2.jpg"
+              >
+                <img
+                  alt=""
+                  className="img-fluid"
+                  src="assets/img/gallery/gallery-2.jpg"
+                />
+              </a>
+            </div>
+          </div>
+          <div
+            className="col-lg-3 col-md-4"
+          >
+            <div
+              className="gallery-item"
+            >
+              <a
+                className="galleery-lightbox"
+                data-gallery="gallery-item"
+                href="assets/img/gallery/gallery-3.jpg"
+              >
+                <img
+                  alt=""
+                  className="img-fluid"
+                  src="assets/img/gallery/gallery-3.jpg"
+                />
+              </a>
+            </div>
+          </div>
+          <div
+            className="col-lg-3 col-md-4"
+          >
+            <div
+              className="gallery-item"
+            >
+              <a
+                className="galleery-lightbox"
+                data-gallery="gallery-item"
+                href="assets/img/gallery/gallery-4.jpg"
+              >
+                <img
+                  alt=""
+                  className="img-fluid"
+                  src="assets/img/gallery/gallery-4.jpg"
+                />
+              </a>
+            </div>
+          </div>
+          <div
+            className="col-lg-3 col-md-4"
+          >
+            <div
+              className="gallery-item"
+            >
+              <a
+                className="galleery-lightbox"
+                data-gallery="gallery-item"
+                href="assets/img/gallery/gallery-5.jpg"
+              >
+                <img
+                  alt=""
+                  className="img-fluid"
+                  src="assets/img/gallery/gallery-5.jpg"
+                />
+              </a>
+            </div>
+          </div>
+          <div
+            className="col-lg-3 col-md-4"
+          >
+            <div
+              className="gallery-item"
+            >
+              <a
+                className="galleery-lightbox"
+                data-gallery="gallery-item"
+                href="assets/img/gallery/gallery-6.jpg"
+              >
+                <img
+                  alt=""
+                  className="img-fluid"
+                  src="assets/img/gallery/gallery-6.jpg"
+                />
+              </a>
+            </div>
+          </div>
+          <div
+            className="col-lg-3 col-md-4"
+          >
+            <div
+              className="gallery-item"
+            >
+              <a
+                className="galleery-lightbox"
+                data-gallery="gallery-item"
+                href="assets/img/gallery/gallery-7.jpg"
+              >
+                <img
+                  alt=""
+                  className="img-fluid"
+                  src="assets/img/gallery/gallery-7.jpg"
+                />
+              </a>
+            </div>
+          </div>
+          <div
+            className="col-lg-3 col-md-4"
+          >
+            <div
+              className="gallery-item"
+            >
+              <a
+                className="galleery-lightbox"
+                data-gallery="gallery-item"
+                href="assets/img/gallery/gallery-8.jpg"
+              >
+                <img
+                  alt=""
+                  className="img-fluid"
+                  src="assets/img/gallery/gallery-8.jpg"
+                />
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+  <div>
+    <footer
+      id="footer"
+    >
+      <div
+        className="footer-newsletter"
+      >
+        <div
+          className="container"
+        >
+          <div
+            className="row justify-content-center"
+          >
+            <div
+              className="col-lg-6"
+            >
+              <h4>
+                Join Our Newsletter
+              </h4>
+              <p>
+                Tamen quem nulla quae legam multos aute sint culpa legam noster magna
+              </p>
+              <form
+                action={true}
+                method="post"
+              >
+                <input
+                  name="email"
+                  type="email"
+                />
+                <input
+                  defaultValue="Subscribe"
+                  type="submit"
+                />
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="footer-top"
+      >
+        <div
+          className="container"
+        >
+          <div
+            className="row"
+          >
+            <div
+              className="col-lg-3 col-md-6 footer-contact"
+            >
+              <h3>
+                Butterfly
+              </h3>
+              <p>
+                A108 Adam Street 
+                <br />
+                New York, NY 535022
+                <br />
+                United States 
+                <br />
+                <br />
+                <strong>
+                  Phone:
+                </strong>
+                 +1 5589 55488 55
+                <br />
+                <strong>
+                  Email:
+                </strong>
+                 info@example.com
+                <br />
+              </p>
+            </div>
+            <div
+              className="col-lg-3 col-md-6 footer-links"
+            >
+              <h4>
+                Useful Links
+              </h4>
+              <ul>
+                <li>
+                  <i
+                    className="bx bx-chevron-right"
+                  />
+                   
+                  <a
+                    href="#"
+                  >
+                    Home
+                  </a>
+                </li>
+                <li>
+                  <i
+                    className="bx bx-chevron-right"
+                  />
+                   
+                  <a
+                    href="#"
+                  >
+                    About us
+                  </a>
+                </li>
+                <li>
+                  <i
+                    className="bx bx-chevron-right"
+                  />
+                   
+                  <a
+                    href="#"
+                  >
+                    Services
+                  </a>
+                </li>
+                <li>
+                  <i
+                    className="bx bx-chevron-right"
+                  />
+                   
+                  <a
+                    href="#"
+                  >
+                    Terms of service
+                  </a>
+                </li>
+                <li>
+                  <i
+                    className="bx bx-chevron-right"
+                  />
+                   
+                  <a
+                    href="#"
+                  >
+                    Privacy policy
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div
+              className="col-lg-3 col-md-6 footer-links"
+            >
+              <h4>
+                Our Services
+              </h4>
+              <ul>
+                <li>
+                  <i
+                    className="bx bx-chevron-right"
+                  />
+                   
+                  <a
+                    href="#"
+                  >
+                    Web Design
+                  </a>
+                </li>
+                <li>
+                  <i
+                    className="bx bx-chevron-right"
+                  />
+                   
+                  <a
+                    href="#"
+                  >
+                    Web Development
+                  </a>
+                </li>
+                <li>
+                  <i
+                    className="bx bx-chevron-right"
+                  />
+                   
+                  <a
+                    href="#"
+                  >
+                    Product Management
+                  </a>
+                </li>
+                <li>
+                  <i
+                    className="bx bx-chevron-right"
+                  />
+                   
+                  <a
+                    href="#"
+                  >
+                    Marketing
+                  </a>
+                </li>
+                <li>
+                  <i
+                    className="bx bx-chevron-right"
+                  />
+                   
+                  <a
+                    href="#"
+                  >
+                    Graphic Design
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div
+              className="col-lg-3 col-md-6 footer-links"
+            >
+              <h4>
+                Our Social Networks
+              </h4>
+              <p>
+                Cras fermentum odio eu feugiat lide par naso tierra videa magna derita valies
+              </p>
+              <div
+                className="social-links mt-3"
+              >
+                <a
+                  className="twitter"
+                  href="#"
+                >
+                  <i
+                    className="bx bxl-twitter"
+                  />
+                </a>
+                <a
+                  className="facebook"
+                  href="#"
+                >
+                  <i
+                    className="bx bxl-facebook"
+                  />
+                </a>
+                <a
+                  className="instagram"
+                  href="#"
+                >
+                  <i
+                    className="bx bxl-instagram"
+                  />
+                </a>
+                <a
+                  className="google-plus"
+                  href="#"
+                >
+                  <i
+                    className="bx bxl-skype"
+                  />
+                </a>
+                <a
+                  className="linkedin"
+                  href="#"
+                >
+                  <i
+                    className="bx bxl-linkedin"
+                  />
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="container py-4"
+      >
+        <div
+          className="copyright"
+        >
+          © Copyright 
+          <strong>
+            <span>
+              Butterfly
+            </span>
+          </strong>
+          . All Rights Reserved
+        </div>
+        <div
+          className="credits"
+        >
+          All the links in the footer should remain intact. You can delete the links only if you purchased the pro version. */ Licensing information: https://bootstrapmade.com/license/ */ Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/butterfly-free-bootstrap-theme/ Designed by 
+          <a
+            href="https://bootstrapmade.com/"
+          >
+            BootstrapMade
+          </a>
+        </div>
+      </div>
+    </footer>
+  </div>
+</div>
+`;
