@@ -9,9 +9,11 @@ export default function LoginPage()
     const toggleForm = ( formName ) => {
         setCurrentForm( formName );
     }
-    return (
-        <div>
-            <Login onFormSwitch={toggleForm} /> : <Register onFormSwitch={toggleForm} />
+    return ( // IMPORTANT: form switch from login to register when button is pressed
+        <div className="LoginPage">
+        {
+            currentForm === "login" ? <Login onFormSwitch={toggleForm} /> : <Register onFormSwitch={toggleForm} />
+        }
         </div> 
     )
 }
