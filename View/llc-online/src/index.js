@@ -1,22 +1,22 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+// import App from './App';
+//import reportWebVitals from './reportWebVitals';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Home from "./screens/Home"
 import LoginPage from "./screens/loginpage";
 
-/*
+
 ReactDOM.render(
     <BrowserRouter>
         <Routes>
-            <Route path="/" element={<Test/>} />
-            <Route path="index.html" element={<Test/>} />
+            <Route path="/home" element={<Home/>} />
+            <Route path="/login" element={<LoginPage/>} />
         </Routes>
     </BrowserRouter>,
     document.getElementById('root')
-)*/
+)
 
 
 
