@@ -1,9 +1,9 @@
 import React from "react";
-import NavBar from "../components/NavBar.js"
-import Header from "../components/Header.js";
-import Footer from "../components/Footer.js";
-import Gallery from "../components/Gallery.js";
-import Hero from "../components/Hero.js";
+import NavBar from "../components/NavBar"
+import Header from "../components/Header";
+import Footer from "../components/Footer";
+import Gallery from "../components/Gallery";
+import Hero from "../components/Hero";
 
 export default function Home(){
     return (

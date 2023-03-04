@@ -4,8 +4,8 @@ import './index.css'; // styling
 // import App from './App';
 // import reportWebVitals from './reportWebVitals';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import Home from "./screens/Home.js";
-import LoginPage from './screens/loginpage.js';
+import Home from "./screens/Home";
+import LoginPage from './screens/loginpage';
 
 /*
 ReactDOM.render(
