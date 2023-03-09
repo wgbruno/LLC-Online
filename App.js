@@ -1,14 +1,18 @@
 // require('./View/llc-online/src/App.css');
 // const Bcrypt = require("bcrypt.js");
 const express = require('express');
-const accountCont = require('./controller/logic/accountController');
-const calendarCont = require('./controller/logic/calendarController');
+const cors = require('cors');
+const accountRouter = require('./controller/routes/accountRoute');
+// const calendarRouter = require('./controller/routes/calendarRoute');
 
 const app = express();
 
-const accountRouter = require('./controller/routes/accountRoute');
-const calendarRouter = require('./controller/routes/calendarRoute');
+app.use( express.urlencoded( { extended : true } ) );
+app.use( express.json( ) );
+app.use( cors( ) );
 
-//app.use('/')
+// controller routing
+app.use( '/account', accountRouter );
+// app.use( '/calendar', calendarRouter );
 
-export default App;
+module.exports = app;
