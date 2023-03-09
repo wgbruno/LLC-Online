@@ -15,4 +15,4 @@ app.use( cors( ) );
 app.use( '/account', accountRouter );
 // app.use( '/calendar', calendarRouter );
 
-module.exports = app;
+exports.app = app;
