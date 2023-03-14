@@ -1,7 +1,7 @@
 require('dotenv').config();
 
 const { google } = require('googleapis');
-const db_conn = require('./models/index.js');
+const db_conn = require('./models/index');
 
 db_conn.connect();
 

@@ -1,4 +1,4 @@
-const AccountModel = require("../models/accountDao");
+const AccountModel = require("../../models/accountDao");
 
 exports.createAccount = async (req, res) => {
   try {

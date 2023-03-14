@@ -1,6 +1,6 @@
 const express = require("express");
 const router = express.Router();
-const accountController = require("../accountController");
+const accountController = require("../logic/accountController");
 
 // Create a new account
 router.post("/", accountController.createAccount);

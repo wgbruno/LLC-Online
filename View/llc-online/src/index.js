@@ -1,13 +1,13 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
+import React from 'react'; // import react
+import ReactDOM from 'react-dom'; // import reactdom for db routes
+import './index.css'; // styling
 // import App from './App';
-//import reportWebVitals from './reportWebVitals';
+// import reportWebVitals from './reportWebVitals';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import Home from "./screens/Home"
-import LoginPage from "./screens/loginpage";
+import Home from "./screens/Home";
+import LoginPage from './screens/loginpage';
 
-
+/*
 ReactDOM.render(
     <BrowserRouter>
         <Routes>
@@ -17,9 +17,7 @@ ReactDOM.render(
     </BrowserRouter>,
     document.getElementById('root')
 )
-
-
-
+*/
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
