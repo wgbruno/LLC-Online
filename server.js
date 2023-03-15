@@ -1,11 +1,27 @@
+/*require('dotenv').config()
+
+const express = require('express');
+
+const app = express();
+
+const morgan = require('morgan'); 
+app.use(morgan('tiny'));
+
+app.listen(5000, () => {
+    console.log("Server started on PORT : ", process.env.PORT);
+})*/
+
+//------------------------------------------------------------------------
+
 require('dotenv').config();
 
 //const { google } = require('googleapis');
+const ExpressApp = require('./App');
 const db_conn = require('./models/index');
 
-db_conn.connect();
+db_conn.connect()
 
-const ExpressApp = require('./App');
+//const ExpressApp = require('./App');
 //const SCOPES = 'https://www.googleapis.com/auth/calendar.readonly';
 //const GOOGLE_PRIVATE_KEY="<private-key>"
 //const GOOGLE_CLIENT_EMAIL = "<client-email>"
@@ -45,8 +61,9 @@ app.get('/', (req, res) => {
     });
   });
 */
-ExpressApp.app.listen(process.env.PORT,process.env.HOSTNAME,function(){ 
-    console.log(`Server Running on ${process.env.HOSTNAME}:${process.env.PORT}...`);
+
+ExpressApp.app.listen(/*process.env.PORT*/4000,/*process.env.HOSTNAME*/"localhost",function(){ 
+    console.log(`Server Running on ${/*process.env.HOSTNAME*/"localhost"}:${/*process.env.PORT*/4000}...`);
 });
 
 
