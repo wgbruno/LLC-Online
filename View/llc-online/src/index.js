@@ -6,12 +6,14 @@ import './index.css'; // styling
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Home from "./screens/Home";
 import LoginPage from './screens/loginpage';
+import Calendar from './screens/Calendar'
 
 ReactDOM.render((
     <BrowserRouter>
         <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/login" element={<LoginPage />} />
+            <Route path="/calendar" element={<Calendar />} />
         </Routes>
     </BrowserRouter>
     ), document.getElementById('root')

@@ -1,10 +1,12 @@
 {
   "dependencies": {
+    "airtable": "^0.11.6",
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "express-session": "^1.17.3",
     "expressapp": "^1.0.4",
+    "google-auth-library": "^8.7.0",
     "googleapis": "^113.0.0",
     "i": "^0.3.7",
     "mongoose": "^6.10.0"
@@ -14,7 +16,7 @@
     "morgan": "^1.10.0",
     "nodemon": "^2.0.21"
   },
-  "scripts":{
+  "scripts": {
     "test": "jest"
   }
 }
