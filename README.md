@@ -44,7 +44,7 @@ The website should generate in a new tab in your default browser as ```http://lo
 
 ## Testing
 * Install Jest as a module in your Node Express: ```npm install jest``` in the React project directory (where ```npm start``` is ran) 
-* Add the test script in ```packages.json``
+* Add the test script in ```packages.json```
 * Use the following command to display a testing coverage report for the project:
 ```
 npm test -- --coverage
