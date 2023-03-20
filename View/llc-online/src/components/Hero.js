@@ -20,7 +20,7 @@ export default function Hero(){
                             using the latest technology.</p>
                     </div>
                     <div className="col-lg-6 order-1 order-lg-2 hero-img">
-                        <img src={require("../assets/rsz_standard.jpg")} style = {{ width: 1000, height: 400 }}className="img-fluid" alt="" />
+                        <img src={require("../assets/rsz_standard.jpg")} style = {{ width: 1000, height: 400 }} className="img-fluid" alt="" />
                     </div>
                     </div>
                 </div>
