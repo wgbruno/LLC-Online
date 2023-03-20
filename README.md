@@ -1,5 +1,5 @@
 # LLC-Online
-![alt text](https://github.com/wgbruno/LLC-Online/blob/main/View/llc-online/src/assets/Copy%20of%20Loyola_LLC_RGB.png)
+![alt text](https://github.com/wgbruno/LLC-Online/blob/main/View/llc-online/src/assets/Copy%20of%20Loyola_LLC_RGB.png =250x250)
 A senior project website for Loyola University Maryland's Language Learning Center (LLC)
 ## Project Details
 ### User Stories
