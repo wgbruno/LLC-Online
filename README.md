@@ -15,7 +15,7 @@ https://docs.google.com/document/d/1OzT9LpgdrSHTOypqF-QnckkMBld7rKaLN2_sMPCHfD4/
 
 ### Current Coverage Report
 
-## Instructions (Node Express - Backend )
+## Node Express Instructions (Backend)
 ### 1.) Installing necessary components
 Once in the correct directory for the project, use the following command to install all modules listed in the ```packages.json``` file:
 ```
@@ -30,7 +30,7 @@ node server.js
 ```
 The server is running successfully if the generated output includes something similar to the following: ```Server Running on localhost:4000...```
 
-## Instructions (React - Frontend)
+## React Instructions (Frontend)
 ### 1.) Navigate directories
 To ensure that React runs correctly, make sure you are in the ```llc-online``` folder within the ```View``` folder located in the root project directory (where ```server.js``` and ```App.js``` are located). Use the following command while you are in the root project directory:
 ```
@@ -44,7 +44,7 @@ npm start
 ```
 The website should generate in a new tab in your default browser as ```http://localhost:3000/```.
 
-## Testing
+## Testing Instructions
 * Install Jest as a module in your Node Express: ```npm install jest``` in the React project directory (where ```npm start``` is ran) 
 * Add the test script in ```packages.json```
 * Use the following command to display a testing coverage report for the project:
