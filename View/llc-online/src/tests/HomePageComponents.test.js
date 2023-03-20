@@ -3,7 +3,7 @@ import renderer from 'react-test-renderer';
 import Footer from "../components/Footer"
 import Hero from "../components/Hero"
 import Gallery from "../components/Gallery"
-import Header_Nav from '../components/Header+Nav';
+import Header_Nav from '../components/HeaderNav';
 import Services from "../components/Services"
 import Register from '../components/Register';
 
