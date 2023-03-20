@@ -7,9 +7,12 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Home from "./screens/Home";
 import LoginPage from './screens/loginpage';
 import Calendar from './screens/Calendar'
+import Header_Nav from './components/Header+Nav';
 
 ReactDOM.render((
     <BrowserRouter>
+        <Header_Nav />
+        
         <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/login" element={<LoginPage />} />

@@ -1,14 +1,15 @@
 import {expect, test} from '@jest/globals';
 import renderer from 'react-test-renderer';
-import Header from "../components/Header"
 import Footer from "../components/Footer"
 import Hero from "../components/Hero"
-import NavBar from "../components/NavBar"
 import Gallery from "../components/Gallery"
+import Header_Nav from '../components/Header+Nav';
+import Services from "../components/Services"
+import Register from '../components/Register';
 
 test("Header", function (){
-    const header = renderer.create(<Header />).toJSON();
-    expect(header).toMatchSnapshot();
+    const header_nav = renderer.create(<Header_Nav />).toJSON();
+    expect(header_nav).toMatchSnapshot();
 });
 
 test("Footer", function (){
@@ -22,11 +23,16 @@ test("Hero", function (){
 });
 
 test("NavBar", function (){
-    const navbar = renderer.create(<NavBar />).toJSON();
-    expect(navbar).toMatchSnapshot();
+    const services = renderer.create(<Services />).toJSON();
+    expect(services).toMatchSnapshot();
 });
 
 test("Gallery", function (){
     const gallery = renderer.create(<Gallery />).toJSON();
     expect(gallery).toMatchSnapshot();
+});
+
+test("Register", function (){
+    const register = renderer.create(<Register />).toJSON();
+    expect(register).toMatchSnapshot();
 });
