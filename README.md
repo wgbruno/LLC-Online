@@ -1,5 +1,6 @@
 # LLC-Online
 A senior project website for Loyola University Maryland's Language Learning Center (LLC)
+
 <img src="https://github.com/wgbruno/LLC-Online/blob/main/View/llc-online/src/assets/Copy%20of%20Loyola_LLC_RGB.png" width="250" height="250">
 
 ## Project Details
@@ -28,6 +29,10 @@ node server.js
 The server is running successfully if the generated output includes something similar to the following: ```Server Running on localhost:4000...```
 
 ## Instructions (React - Frontend)
-### 1.)
+### 1.) Navigate directories
+To ensure that React runs correctly, make sure you are in the ```llc-online``` folder within the ```View``` folder located in the root project directory (where ```server.js``` and ```App.js``` are located). Use the following command while you are in the root project directory:
+```
+cd .\View\llc-online\
+```
 
 ## Testing
