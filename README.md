@@ -34,5 +34,11 @@ To ensure that React runs correctly, make sure you are in the ```llc-online``` f
 ```
 cd .\View\llc-online\
 ```
+### 2.) Running React app
+To run React, simple use the following command:
+```
+npm start
+```
+The website should generate in a new tab in your default browser as ```http://localhost:3000/```.
 
 ## Testing
