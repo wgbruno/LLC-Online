@@ -9,8 +9,12 @@ https://docs.google.com/document/d/19mV-AUN21dJ_U5NRoEV09AY_jbO7pwPygKa55r0Cxm0/
 ### Iteration Planning
 https://docs.google.com/document/d/1OzT9LpgdrSHTOypqF-QnckkMBld7rKaLN2_sMPCHfD4/edit?usp=sharing
 
-## Instructions
+## Instructions (Node Express - Backend )
 ### 1.) Installing necessary components
 
 Once in the correct directory for the project, use the following command to install all modules listed in the packages.json file:
 npm start
+
+## Instructions (React - Frontend)
+
+## Testing
