@@ -34,7 +34,8 @@ To ensure that React runs correctly, make sure you are in the ```llc-online``` f
 ```
 cd .\View\llc-online\
 ```
-### 2.) Running React app
+
+### 2.) Running the React app
 To run React, simple use the following command:
 ```
 npm start
@@ -42,3 +43,9 @@ npm start
 The website should generate in a new tab in your default browser as ```http://localhost:3000/```.
 
 ## Testing
+* Install Jest as a module in your Node Express: ```npm install jest``` in the React project directory (where ```npm start``` is ran) 
+* Add the test script in ```packages.json``
+* Use the following command to display a testing coverage report for the project:
+```
+npm test -- --coverage
+```
