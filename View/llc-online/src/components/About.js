@@ -9,8 +9,8 @@ export default function About() {
             <a href="https://www.youtube.com/watch?v=gyMNfwfMXpQ" className="glightbox play-btn mb-4" />
           </div>
           <div className="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
-            <h3>Enim quis est voluptatibus aliquid consequatur fugiat</h3>
-            <p>Esse voluptas cumque vel exercitationem. Reiciendis est hic accusamus. Non ipsam et sed minima temporibus laudantium. Soluta voluptate sed facere corporis dolores excepturi. Libero laboriosam sint et id nulla tenetur. Suscipit aut voluptate.</p>
+            <h2>About the LLC</h2>
+            <p>Here is a short video describing student experience at the Language Learning Center.</p>
             <div className="icon-box">
               <div className="icon"><i className="bx bx-fingerprint" /></div>
               <h4 className="title"><a href>Lorem Ipsum</a></h4>

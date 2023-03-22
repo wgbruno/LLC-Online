@@ -11,9 +11,9 @@ export default function Header_Nav() {
                 <ul>
                 <li><a href="/">Home</a></li>
                 <li><a href="/login">Login</a></li>
-                <li><a className="nav-link scrollto" href="#services">Services</a></li>
-                <li><a className="nav-link scrollto " href="#portfolio">Portfolio</a></li>
-                <li><a className="nav-link scrollto" href="#team">Team</a></li>
+                <li><a className="nav-link scrollto" href="#services">Calendar</a></li>
+                <li><a className="nav-link scrollto " href="#portfolio">Inventory</a></li>
+                <li><a className="nav-link scrollto" href="#team">TBD</a></li>
                 <li className="dropdown"><a href="#"><span>Languages</span> <i className="bi bi-chevron-down" /></a>
                     <ul>
                     <li><a href="#">Drop Down 1</a></li>

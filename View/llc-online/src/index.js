@@ -9,6 +9,7 @@ import LoginPage from './screens/loginpage';
 import Calendar from './screens/Calendar'
 import Header_Nav from './components/HeaderNav';
 import HeaderGap from './components/HeaderGap';
+import Inventory from "./screens/Inventory"
 
 ReactDOM.render((
     <BrowserRouter>
@@ -18,6 +19,7 @@ ReactDOM.render((
             <Route path="/" element={<Home />} />
             <Route path="/login" element={<LoginPage />} />
             <Route path="/calendar" element={<Calendar />} />
+            <Route path="/inventory" element={<Inventory />} />
         </Routes>
     </BrowserRouter>
     ), document.getElementById('root')

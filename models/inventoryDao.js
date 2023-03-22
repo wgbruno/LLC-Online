@@ -1,10 +1,8 @@
 var Airtable = require('airtable');
 var base = new Airtable({apiKey: 'pat7LAOx2G8o9KXjo.3b1b1b1b7f1439833170d2fbade502bb0d79d51cd0aec6cc7c33a2b5ca85fd00'}).base('app47HBb7xQ3Vk1uW');
-stuff = []
 
-async function getData() {
+export default async function getData() {
     inventory = []
-    console.log("Inside Backlink submission checker");
     const records = await base('LLC Catalog').select().all();
   
     records.forEach(function(record) {
