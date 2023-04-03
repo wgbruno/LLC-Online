@@ -9,7 +9,19 @@ import LoginPage from './screens/loginpage';
 import Calendar from './screens/Calendar'
 import Header_Nav from './components/HeaderNav';
 import HeaderGap from './components/HeaderGap';
-import Inventory from "./screens/Inventory"
+import Inventory from "./screens/Inventory";
+import axios from 'axios';
+
+var Airtable = require('airtable');
+
+//create a new Airtable object in React 
+new Airtable({apiKey:'pat7LAOx2G8o9KXjo.3b1b1b1b7f1439833170d2fbade502bb0d79d51cd0aec6cc7c33a2b5ca85fd00'}).base('app47HBb7xQ3Vk1uW');
+//base endpoint to call with each request
+axios.defaults.baseURL =   'https://api.airtable.com/v0/app47HBb7xQ3Vk1uW/map/';
+//content type to send with all POST requests 
+axios.defaults.headers.post['Content-Type'] = 'application/json';
+//authenticate to the base with the API key 
+axios.defaults.headers['Authorization'] = 'Bearer pat7LAOx2G8o9KXjo.3b1b1b1b7f1439833170d2fbade502bb0d79d51cd0aec6cc7c33a2b5ca85fd00';
 
 ReactDOM.render((
     <BrowserRouter>

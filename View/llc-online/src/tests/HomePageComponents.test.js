@@ -1,3 +1,4 @@
+import React from 'react';
 import {expect, test} from '@jest/globals';
 import renderer from 'react-test-renderer';
 import Footer from "../components/Footer"
