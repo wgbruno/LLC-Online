@@ -9,7 +9,9 @@ import LoginPage from './screens/loginpage';
 import Calendar from './screens/Calendar'
 import Header_Nav from './components/HeaderNav';
 import HeaderGap from './components/HeaderGap';
-import Inventory from "./screens/Inventory"
+import Inventory from "./screens/Inventory";
+import Notesheet from "./screens/Notesheet";
+
 
 ReactDOM.render((
     <BrowserRouter>
@@ -20,6 +22,7 @@ ReactDOM.render((
             <Route path="/login" element={<LoginPage />} />
             <Route path="/calendar" element={<Calendar />} />
             <Route path="/inventory" element={<Inventory />} />
+            <Route path="/notesheet" element={<Notesheet />} />
         </Routes>
     </BrowserRouter>
     ), document.getElementById('root')
