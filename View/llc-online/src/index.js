@@ -23,7 +23,6 @@ axios.defaults.baseURL =   'https://api.airtable.com/v0/app47HBb7xQ3Vk1uW/map/';
 axios.defaults.headers.post['Content-Type'] = 'application/json';
 //authenticate to the base with the API key 
 axios.defaults.headers['Authorization'] = 'Bearer pat7LAOx2G8o9KXjo.3b1b1b1b7f1439833170d2fbade502bb0d79d51cd0aec6cc7c33a2b5ca85fd00';
-ad3ca9446a89e71fe79f235f49109914f1a6489
 
 ReactDOM.render((
     <BrowserRouter>
