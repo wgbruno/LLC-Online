@@ -8,7 +8,7 @@ import Header_Nav from '../components/HeaderNav';
 import Services from "../components/Services"
 import Register from '../components/Register';
 
-test("Header", function (){
+test("Header_Nav", function (){
     const header_nav = renderer.create(<Header_Nav />).toJSON();
     expect(header_nav).toMatchSnapshot();
 });
@@ -23,7 +23,7 @@ test("Hero", function (){
     expect(hero).toMatchSnapshot();
 });
 
-test("NavBar", function (){
+test("Services", function (){
     const services = renderer.create(<Services />).toJSON();
     expect(services).toMatchSnapshot();
 });
