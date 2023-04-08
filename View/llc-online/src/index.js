@@ -11,6 +11,12 @@ import Header_Nav from './components/HeaderNav';
 import HeaderGap from './components/HeaderGap';
 import Inventory from "./screens/Inventory";
 import Notesheet from "./screens/Notesheet";
+import ArabicResource from "./screens/ArabicResource";
+import ChineseResource from "./screens/ChineseResource";
+import FrenchResource from "./screens/FrenchResource";
+import GermanResource from "./screens/GermanResource";
+import ItalianResource from "./screens/ItalianResource";
+import SpanishResource from "./screens/SpanishResource";
 import axios from 'axios';
 
 var Airtable = require('airtable');
@@ -34,6 +40,12 @@ ReactDOM.render((
             <Route path="/calendar" element={<Calendar />} />
             <Route path="/inventory" element={<Inventory />} />
             <Route path="/notesheet" element={<Notesheet />} />
+            <Route path="/arabic" element={<ArabicResource />} />
+            <Route path="/chinese" element={<ChineseResource />} />
+            <Route path="/french" element={<FrenchResource />} />
+            <Route path="/german" element={<GermanResource />} />
+            <Route path="/italian" element={<ItalianResource />} />
+            <Route path="/spanish" element={<SpanishResource />} />
         </Routes>
     </BrowserRouter>
     ), document.getElementById('root')
