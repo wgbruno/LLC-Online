@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { loginStyles, loginLabelStyles, loginInputStyles, loginButtonStyles, loginLinkStyles } from "../style/Login.style";
 
 export const Login = (props) => {
     const [email, setEmail] = useState('');
@@ -10,16 +11,16 @@ export const Login = (props) => {
     }
 
     return (
-        <div className="auth-form-container">
-            <h2>Login</h2>
+        <div style={loginStyles} className="auth-form-container">
+            <h2 style={{marginBottom: '20px'}}>Login</h2>
             <form className="login-form" onSubmit={handleSubmit}>
-                <label htmlFor="email">email</label>
-                <input value={email} onChange={(e) => setEmail(e.target.value)}type="email" placeholder="youremail@gmail.com" id="email" name="email" />
-                <label htmlFor="password">password</label>
-                <input value={pass} onChange={(e) => setPass(e.target.value)} type="password" placeholder="********" id="password" name="password" />
-                <button type="submit">Log In</button>
+                <label style={loginLabelStyles} htmlFor="email">Email:</label>
+                <input style={loginInputStyles} value={email} onChange={(e) => setEmail(e.target.value)}type="email" placeholder="youremail@gmail.com" id="email" name="email" />
+                <label style={loginLabelStyles} htmlFor="password">Password:</label>
+                <input style={loginInputStyles} value={pass} onChange={(e) => setPass(e.target.value)} type="password" placeholder="********" id="password" name="password" />
+                <button style={loginButtonStyles} type="submit">Log In</button>
             </form>
-            <button className="link-btn" onClick={() => props.onFormSwitch('register')}>Don't have an account with LLC? Register here.</button>
+            <a style={loginLinkStyles} onClick={() => props.onFormSwitch('register')}>Don't have an account with LLC? Register here.</a>
         </div>
     )
 }
