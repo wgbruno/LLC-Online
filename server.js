@@ -5,9 +5,6 @@ const db_conn = require('./models/index');
 
 db_conn.connect()
 
-ExpressApp.app.listen(/*process.env.PORT*/4000,/*process.env.HOSTNAME*/"localhost",function(){ 
-    console.log(`Server Running on ${/*process.env.HOSTNAME*/"localhost"}:${/*process.env.PORT*/4000}...`);
+ExpressApp.app.listen(process.env.PORT,process.env.HOSTNAME,function(){ 
+    console.log(`Server Running on ${process.env.HOSTNAME}:${process.env.PORT}...`);
 });
-
-
-
