@@ -15,11 +15,11 @@ export const Register = (props) => {
         <div style={loginStyles} className="auth-form-container">
           <h2>Register</h2>
           <form className="register-form" onSubmit={handleSubmit}>
-            <label style={loginLabelStyles} htmlFor="name">Full Name</label>
-            <input style={loginInputStyles} value={name} name="name" onChange={(e) => setName(e.target.value)} id="name"/>
-            <label style={loginLabelStyles} htmlFor="email">Email</label>
+            <label style={loginLabelStyles} htmlFor="name">Full Name:</label>
+            <input style={loginInputStyles} value={name} name="name" onChange={(e) => setName(e.target.value)} placeholder="John Doe" id="name"/>
+            <label style={loginLabelStyles} htmlFor="email">Email:</label>
             <input style={loginInputStyles} value={email} onChange={(e) => setEmail(e.target.value)}type="email" placeholder="youremail@gmail.com" id="email" name="email" />
-            <label style={loginLabelStyles} htmlFor="password">Password</label>
+            <label style={loginLabelStyles} htmlFor="password">Password:</label>
             <input style={loginInputStyles} value={pass} onChange={(e) => setPass(e.target.value)} type="password" placeholder="********" id="password" name="password" />
             <button style={loginButtonStyles} type="submit">Register</button>
           </form>
