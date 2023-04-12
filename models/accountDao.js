@@ -31,3 +31,8 @@ exports.delete = async function(id) {
     const account = await AccountModel.findByIdAndDelete(id);
     return account;
 }
+
+exports.findByEmailAndPassword = async function(email, password) {
+    let foundAccount = await accountModel.findOne({ email: email, password: password });
+    return foundAccount;
+  }  
