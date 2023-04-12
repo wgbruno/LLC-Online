@@ -8,7 +8,7 @@ export const Login = (props) => {
   const handleSubmit = (e) => {
     e.preventDefault();
     // Send the email and password to the server
-    fetch('/api/accounts/login', {
+    fetch('http://localhost:3000/login', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'

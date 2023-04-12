@@ -10,7 +10,7 @@ export const Register = (props) => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      await axios.post('/api/accounts', { email, password: pass, first_name: name, last_name: '' });
+      await axios.post('http://localhost:3000/login', { email, password: pass, first_name: name, last_name: '' });
     } catch (err) {
       console.error(err);
     }
