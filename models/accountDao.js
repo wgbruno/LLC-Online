@@ -1,32 +1,33 @@
 const mongoose = require("mongoose");
-const Schema = mongoose.Schema; 
+const Schema = mongoose.Schema;
 
-const AccountSchema = new mongoose.Schema
-({
-    first_name : {type: String, required: true, maxLength: 100},
-    last_name : {type: String, required: true, maxLength: 100},
-    account_type : {type: String, required: true},
-    email : { type: String, required: true},
-    password : {type: String, required: true}
+const AccountSchema = new mongoose.Schema({
+    first_name: {type: String, required: true, maxLength: 100},
+    last_name: {type: String, required: true, maxLength: 100},
+    account_type: {type: String, required: true},
+    email: {type: String, required: true},
+    password: {type: String, required: true}
 });
 
-const accountModel = mongoose.model("Account", AccountSchema);
+const AccountModel = mongoose.model("Account", AccountSchema);
 
-exports.create = async function( newAccount )
-{
-    const user = new accountModel( newAccount );
-    const createdAccount = await account.save( );
+exports.create = async function(newAccount) {
+    const account = new AccountModel(newAccount);
+    const createdAccount = await account.save();
     return createdAccount;
 }
 
-exports.login = async function( email, password )
-{
-    let account = await userModel.findOne( { email: email, password: password } );
+exports.read = async function(id) {
+    const account = await AccountModel.findById(id);
     return account;
 }
 
-exports.searchAccounts = async function( id )
-{
-    let foundAccount = await accountModel.findById( id );
-    return foundAccount;
+exports.update = async function(id, updatedAccount) {
+    const account = await AccountModel.findByIdAndUpdate(id, updatedAccount, {new: true});
+    return account;
+}
+
+exports.delete = async function(id) {
+    const account = await AccountModel.findByIdAndDelete(id);
+    return account;
 }
