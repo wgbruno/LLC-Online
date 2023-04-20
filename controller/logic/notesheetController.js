@@ -1,72 +1,56 @@
-const Note = require('../../models/notesheetDao');
+const Note = require('../models/note');
 
-// Controller functions
-const notesheetController = {
-
-  // Create a new note
-  createNote: function(req, res, next) {
-    const noteData = req.body;
-    Note.create(noteData, function(err, note) {
-      if (err) {
-        return next(err);
-      }
-      res.json(note);
-    });
-  },
-
-  // Read all notes
-  readNotes: function(req, res, next) {
-    Note.find({}, function(err, notes) {
-      if (err) {
-        return next(err);
-      }
-      res.json(notes);
-    });
-  },
-
-  // Read a single note by ID
-  readNoteById: function(req, res, next) {
-    const id = req.params.id;
-    Note.findById(id, function(err, note) {
-      if (err) {
-        return next(err);
-      }
-      if (!note) {
-        return res.status(404).json({ message: 'Note not found' });
-      }
-      res.json(note);
-    });
-  },
-
-  // Update a note by ID
-  updateNoteById: function(req, res, next) {
-    const id = req.params.id;
-    const noteData = req.body;
-    Note.findByIdAndUpdate(id, noteData, { new: true }, function(err, note) {
-      if (err) {
-        return next(err);
-      }
-      if (!note) {
-        return res.status(404).json({ message: 'Note not found' });
-      }
-      res.json(note);
-    });
-  },
-
-  // Delete a note by ID
-  deleteNoteById: function(req, res, next) {
-    const id = req.params.id;
-    Note.findByIdAndDelete(id, function(err, note) {
-      if (err) {
-        return next(err);
-      }
-      if (!note) {
-        return res.status(404).json({ message: 'Note not found' });
-      }
-      res.json(note);
-    });
+// Get all notes
+const getAllNotes = async (req, res) => {
+  try {
+    const notes = await Note.find({});
+    res.status(200).json(notes);
+  } catch (error) {
+    res.status(500).json({ message: error.message });
   }
-
 };
 
-module.exports = notesheetController;
+// Create a note
+const createNote = async (req, res) => {
+  const note = new Note({
+    time: req.body.time,
+    firstName: req.body.firstName,
+    lastName: req.body.lastName,
+    note: req.body.note,
+    reminder: req.body.reminder
+  });
+
+  try {
+    const newNote = await note.save();
+    res.status(201).json(newNote);
+  } catch (error) {
+    res.status(400).json({ message: error.message });
+  }
+};
+
+// Update a note
+const updateNote = async (req, res) => {
+  try {
+    const updatedNote = await Note.findByIdAndUpdate(req.params.id, req.body, { new: true });
+    res.status(200).json(updatedNote);
+  } catch (error) {
+    res.status(400).json({ message: error.message });
+  }
+};
+
+// Delete a note
+const deleteNote = async (req, res) => {
+  try {
+    const deletedNote = await Note.findByIdAndDelete(req.params.id);
+    res.status(200).json(deletedNote);
+  } catch (error) {
+    res.status(400).json({ message: error.message });
+  }
+};
+
+module.exports = {
+  getAllNotes,
+  createNote,
+  updateNote,
+  deleteNote
+};
