@@ -13,7 +13,7 @@ export default function Header_Nav() {
                 <li><a href="/login">Login</a></li>
                 <li><a href="/calendar">Calendar</a></li>
                 <li><a className="nav-link scrollto " href="#portfolio">Inventory</a></li>
-                <li><a className="nav-link scrollto" href="#team">Notesheet</a></li>
+                <li><a href="/notesheet">Notesheet</a></li>
                 <li className="dropdown"><a href="#"><span>Language Resources</span> <i className="bi bi-chevron-down" /></a>
                     <ul>
                     <li><a href="/arabic">Arabic</a></li>
