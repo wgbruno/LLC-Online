@@ -33,7 +33,7 @@ export default function Header_Nav() {
                     <li><a href="/spanish">Spanish</a></li>
                     </ul>
                 </li>
-                <li><a className="nav-link scrollto" href="#contact">Contact</a></li>
+                <li><a className="nav-link scrollto" href="/contact">Contact</a></li>
                 </ul>
                 <i className="bi bi-list mobile-nav-toggle" />
             </nav>{/* .navbar */}

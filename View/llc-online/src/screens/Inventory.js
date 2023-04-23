@@ -36,24 +36,36 @@ return (
 export default Inventory;*/
 
 import React, { useEffect, useState } from 'react';
+import { createClient } from 'airtable';
 import Airtable from 'airtable';
-
+/*
 const Inventory = () => {
   const [items, setItems] = useState([]);
 
   useEffect(() => {
     // Initialize Airtable client
-    const base = new Airtable({ apiKey: 'pat7LAOx2G8o9KXjo.3b1b1b1b7f1439833170d2fbade502bb0d79d51cd0aec6cc7c33a2b5ca85fd00' }).base('app47HBb7xQ3Vk1uW');
+    const base = new Airtable({apiKey: 'pat7LAOx2G8o9KXjo'}).base('app47HBb7xQ3Vk1uW');
 
     // Fetch inventory data from Airtable
-    base('Inventory')
+    base('LLC Catalog')
       .select()
       .all()
       .then(records => {
         // Extract relevant data from records
         const inventoryItems = records.map(record => ({
-          id: record.id,
-          name: record.get('Name'),
+          Title : record.get('Title'),
+          Alternate_title : record.get('Alternate Title'),
+          Call_number : record.get('Call Number'),
+          Language : record.get('Language'),
+          Author_director : record.get('Author/Director'),
+          Copyright : record.get('Copyright'),
+          Media_type : record.get('Media Type'),
+          Country : record.get('Country'),
+          Language_subtitles : record.get('Language of subtitles'),
+          Reserved : record.get('Reserved?'),
+          Checked : record.get('Checked out?'),
+          Description : record.get('Description'),
+          Length : record.get('Length')
         }));
 
         // Set inventory data to state
@@ -69,8 +81,8 @@ const Inventory = () => {
       <h1>Inventory</h1>
       <ul>
         {items.map(item => (
-          <li key={item.id}>
-            <div>Name: {item.name}</div>
+          <li key={item.Title}>
+            <div>Name: {item.Title}</div>
           </li>
         ))}
       </ul>
@@ -78,4 +90,77 @@ const Inventory = () => {
   );
 };
 
-export default Inventory;
+export default Inventory;*/
+
+
+
+
+/*
+var Airtable = require('airtable');
+var base = new Airtable({apiKey: 'pat7LAOx2G8o9KXjo'}).base('app47HBb7xQ3Vk1uW');
+
+base('LLC Catalog').select({
+    // Selecting the first 3 records in Catalog Spreadsheet:
+    maxRecords: 2000,
+    view: "Catalog Spreadsheet"
+}).eachPage(function page(records, fetchNextPage) {
+    // This function (`page`) will get called for each page of records.
+
+    records.forEach(function(record) {
+        console.log('Retrieved', record.get('Title'));
+    });
+
+    // To fetch the next page of records, call `fetchNextPage`.
+    // If there are more records, `page` will get called again.
+    // If there are no more records, `done` will get called.
+    fetchNextPage();
+
+}, function done(err) {
+    if (err) { console.error(err); return; }
+});*/
+
+
+
+
+
+
+const AirtableFetch = () => {
+  const [records, setRecords] = useState([]);
+
+  useEffect(() => {
+    const fetchRecords = async () => {
+      const base = createClient({
+        apiKey: 'pat7LAOx2G8o9KXjo',
+      }).base('app47HBb7xQ3Vk1uW');
+
+      try {
+        const result = await base('LLC Asset Catalog').select().all();
+        setRecords(result.records);
+      } catch (error) {
+        console.error('Error fetching records from Airtable:', error);
+      }
+    };
+
+    fetchRecords();
+  }, []);
+
+  return (
+    <div>
+      <h1>LLC Asset Catalog</h1>
+      {records.length > 0 ? (
+        <ul>
+          {records.map(record => (
+            <li key={record.id}>
+              {record.fields.field1} - {record.fields.field2}
+              {/* Replace "field1" and "field2" with the names of the fields in your Airtable base */}
+            </li>
+          ))}
+        </ul>
+      ) : (
+        <p>Loading records...</p>
+      )}
+    </div>
+  );
+};
+
+export default AirtableFetch;

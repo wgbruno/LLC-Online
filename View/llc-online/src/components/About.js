@@ -13,18 +13,18 @@ export default function About() {
             <p>Here is a short video describing student experience at the Language Learning Center.</p>
             <div className="icon-box">
               <div className="icon"><i className="bx bx-fingerprint" /></div>
-              <h4 className="title"><a href>Lorem Ipsum</a></h4>
-              <p className="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <h4 className="title"><a href>Video Viewing Rooms</a></h4>
+              <p className="description">Explore the Video Viewing Rooms that are available to view any film we offer at the LLC</p>
             </div>
             <div className="icon-box">
               <div className="icon"><i className="bx bx-gift" /></div>
-              <h4 className="title"><a href>Nemo Enim</a></h4>
-              <p className="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+              <h4 className="title"><a href>Reading Room</a></h4>
+              <p className="description">Study, play a game, or relax in the quiet reading room</p>
             </div>
             <div className="icon-box">
               <div className="icon"><i className="bx bx-atom" /></div>
-              <h4 className="title"><a href>Dine Pad</a></h4>
-              <p className="description">Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt minus aut eligendi omnis</p>
+              <h4 className="title"><a href>Video Editing Room</a></h4>
+              <p className="description">Watch a film or use the computers in this quiet, isolated area</p>
             </div>
           </div>
         </div>
