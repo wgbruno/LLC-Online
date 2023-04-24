@@ -1,4 +1,6 @@
 import React from "react";
+import { Link } from "react-router-dom";
+import { loginButtonStyles } from "../style/Login.style";
 
 export default function Header_Nav() {
     return (
@@ -10,7 +12,6 @@ export default function Header_Nav() {
             <nav id="navbar" className="navbar">
                 <ul>
                 <li><a href="/">Home</a></li>
-                <li><a href="/login">Login</a></li>
                 <li><a href="/calendar">Calendar</a></li>
                 <li><a className="nav-link scrollto " href="/inventory">Inventory</a></li>
                 <li><a href="/notesheet">Notesheet</a></li>
@@ -35,6 +36,7 @@ export default function Header_Nav() {
                 </li>
                 <li><a className="nav-link scrollto" href="/contact">Contact</a></li>
                 </ul>
+                <Link to="/login"> <button style={ loginButtonStyles }>LOGIN</button> </Link>
                 <i className="bi bi-list mobile-nav-toggle" />
             </nav>{/* .navbar */}
             </div>
