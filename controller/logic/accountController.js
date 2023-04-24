@@ -61,7 +61,7 @@ exports.deleteAccount = async function(req, res, next) {
 exports.login = async (req, res) => {
   try {
     const { email, password } = req.body;
-    const account = await AccountModel.findOne({ email, password });
+    const account = await Account.findOne({ email, password });
     if (!account) {
       return res.status(401).json({ message: "Invalid credentials" });
     }
@@ -69,5 +69,41 @@ exports.login = async (req, res) => {
   } catch (error) {
     console.error(error.message);
     res.status(500).send("Server Error");
+  }
+};
+
+exports.getAdmins = async function(req, res, next) {
+  try {
+    const admins = await Account.find({ account_type: 'admin' });
+    res.json(admins);
+  } catch (err) {
+    next(err);
+  }
+};
+
+exports.getStaff = async function(req, res, next) {
+  try {
+    const staff = await Account.find({ account_type: 'staff' });
+    res.json(staff);
+  } catch (err) {
+    next(err);
+  }
+};
+
+exports.getFaculty = async function(req, res, next) {
+  try {
+    const faculty = await Account.find({ account_type: 'faculty' });
+    res.json(faculty);
+  } catch (err) {
+    next(err);
+  }
+};
+
+exports.getStudents = async function(req, res, next) {
+  try {
+    const students = await Account.find({ account_type: 'student' });
+    res.json(students);
+  } catch (err) {
+    next(err);
   }
 };
