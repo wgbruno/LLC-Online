@@ -25,7 +25,7 @@ export default function Footer(){
                     <li><i className="bx bx-chevron-right" /> <a href="/login">Login</a></li>
                     <li><i className="bx bx-chevron-right" /> <a href="/calendar">Calendar</a></li>
                     <li><i className="bx bx-chevron-right" /> <a href="/inventory">Inventory</a></li>
-                    <i className="bx bx-chevron-right" /> <a href="mailtoloyolallc@loyola.edu">Contact Us</a>
+                    <i className="bx bx-chevron-right" /> <a href="/contact">Contact Us</a>
                   </ul>
                 </div>
                 {/*<div className="col-lg-3 col-md-6 footer-links">

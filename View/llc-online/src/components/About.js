@@ -7,6 +7,7 @@ export default function About() {
         <div className="row">
           <div className="col-xl-5 col-lg-6 d-flex justify-content-center align-items-stretch position-relative"/*after justify video-box*/> 
             <a href="https://www.youtube.com/watch?v=gyMNfwfMXpQ" className="glightbox play-btn mb-4" />
+              <img src={require("../assets/all-groups-B2.jpg")}/>
           </div>
           <div className="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
             <h2>About the LLC</h2>

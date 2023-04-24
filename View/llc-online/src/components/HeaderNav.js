@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { loginButtonStyles } from "../style/Login.style";
+import ContactStyle from "../style/ContactStyle.css"
 
 export default function Header_Nav() {
     return (

@@ -40,7 +40,7 @@ export const Login = (props) => {
         <input style={loginInputStyles} value={password} onChange={(e) => setPassword(e.target.value)} type="password" placeholder="********" id="password" name="password" />
         <button style={loginButtonStyles} type="submit">Login</button>
       </form>
-      <a style={loginLinkStyles} onClick={() => props.onFormSwitch('Register')}>Don't have an account with LLC? Register here.</a>
+      <a style={loginLinkStyles} onClick={() => props.onFormSwitch('Register')}>Don't have an account with the LLC? Register here.</a>
     </div>
   );
 }
