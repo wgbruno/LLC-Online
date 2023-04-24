@@ -6,7 +6,7 @@ const ContactSheet = () => {
   return (
     <div className="contact-sheet" style={ContactStyle}>
       <div className="logo-container">
-        <img src={logo} alt="Loyola Maryland Logo" className="logo" />
+        <img src={logo} alt="Loyola Maryland Logo" className="logo" style = {{ width: 300, height: 300 }} />
       </div>
       <div className="info-container">
         <div className="info-box">

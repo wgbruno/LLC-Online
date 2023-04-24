@@ -6,7 +6,7 @@ export default function Header_Nav() {
     return (
         <header id="header" className="fixed-top">
             <div className="container d-flex align-items-center">{/* THIS ADDS SPACE BETWEEN ITEMS IN HEADER: "justify-content-between"*/}
-            <a href="/" className="logo"><img src={require("../assets/Copy of Loyola_LLC_RGB.png")} style = {{ width: 50, height: 300 }} alt="" className="img-fluid" /></a>
+            <a href="#" className="logo"><img src={require("../assets/Copy of Loyola_LLC_RGB.png")} style = {{ width: 50, height: 300 }} alt="" className="img-fluid" /></a>
             {/* Uncomment below if you prefer to use text as a logo */}
             {/* <h1 class="logo"><a href="index.html">Butterfly</a></h1> */}
             <nav id="navbar" className="navbar">
