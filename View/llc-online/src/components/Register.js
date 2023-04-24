@@ -1,37 +1,35 @@
 import React, { useState } from "react";
-import { useNavigate } from 'react-router-dom';
 import { loginStyles, loginLabelStyles, loginInputStyles, loginButtonStyles, loginLinkStyles } from "../style/Login.style";
-import axios from 'axios';
 
 export const Register = (props) => {
+
   const [email, setEmail] = useState('');
   const [pass, setPass] = useState('');
   const [firstName, setFirstName] = useState('');
   const [lastName, setLastName] = useState('');
-  let navigate = useNavigate();
 
-  const handleSubmit = async (e) => {
+  async function handleSubmit(e){
     e.preventDefault();
-    const baseURL = "http://localhost:4000/account";
-        
-    let user = {
-      email,
+    var user = {
+      email: email,
       password: pass,
       first_name: firstName,
       last_name: lastName
-    };
-
+    }
     console.log(JSON.stringify(user));
-  
-    axios.post(baseURL, user)
-      .then((response) => {
-        let path = '/login';
-        navigate(path);
-      })
-      .catch((error) => {
-        console.log('Registration Error');
-        console.log(error);
+    try {
+      let response = await fetch('/account', {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify(user),
       });
+      const result = response.json();
+      alert("Account Registered! Please login.");
+    } catch (error) {
+      alert("Account failed to register. Error: ", error);
+    }
   }
 
   return (

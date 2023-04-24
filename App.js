@@ -2,8 +2,7 @@
 // const Bcrypt = require("bcrypt.js");
 const express = require('express');
 const cors = require('cors');
-const accountRouter = require('./controller/routes/accountRoute');
-// const calendarRouter = require('./controller/routes/calendarRoute');
+const accountController = require('./controller/logic/accountController');
 
 const app = express();
 
@@ -11,8 +10,22 @@ app.use( express.urlencoded( { extended : true } ) );
 app.use( express.json( ) );
 app.use( cors( ) );
 
-// controller routing
-app.use( '/account', accountRouter );
-// app.use( '/calendar', calendarRouter );
+//// Account ////
+// Create a new account
+app.post("/account", accountController.createAccount);
+// Get an account by ID
+app.get("/account/:id", accountController.getAccount);
+// Update an account by ID
+app.put("account/:id", accountController.updateAccount);
+// Delete an account by ID
+app.delete("account/:id", accountController.deleteAccount);
+// Log in to an existing account
+app.post('/login', accountController.login);
+// Get admins by ID
+app.get("/account/admin/:id", accountController.getAdmins);
+// Get staff by ID
+app.get("/account/staff:id", accountController.getStaff);
+// Get student by ID
+app.get("/account/:id", accountController.getStudents);
 
 exports.app = app;
