@@ -1,5 +1,5 @@
 {
-  "name": "LLC Online",
+  "name": "llc-online",
   "proxy": "http://localhost:3000/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
