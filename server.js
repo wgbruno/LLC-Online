@@ -1,6 +1,6 @@
 require('dotenv').config();
 
-const ExpressApp = require('./App');
+const ExpressApp = require('./View/llc-online/src/App');
 const db_conn = require('./models/index');
 
 db_conn.connect()

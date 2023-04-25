@@ -1,5 +1,4 @@
 const mongoose = require("mongoose");
-const Schema = mongoose.Schema;
 
 const AccountSchema = new mongoose.Schema({
     first_name: {type: String, required: true, maxLength: 100},
