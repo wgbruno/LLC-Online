@@ -34,7 +34,7 @@ The server is running successfully if the generated output includes something si
 
 ## React Instructions (Frontend)
 ### 1.) Navigate directories
-To ensure that React runs correctly, make sure you are in the ```llc-online``` folder within the ```View``` folder located in the root project directory (where ```server.js``` and ```App.js``` are located). Use the following command while you are in the root project directory:
+To ensure that React runs correctly, make sure you are in the ```llc-online``` folder within the ```View``` folder located in the root project directory (where ```README.md``` is located). Use the following command while you are in the root project directory:
 ```
 cd .\View\llc-online\
 ```
