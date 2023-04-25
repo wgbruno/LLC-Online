@@ -1,14 +1,26 @@
 // require('./View/llc-online/src/App.css');
 // const Bcrypt = require("bcrypt.js");
-const express = require('express');
+const express = require('express'); 
+const bp = require('body-parser');
+const morgan = require('morgan'); 
+const session = require('express-session');
 const cors = require('cors');
+const memorystore = require('memorystore')(session);
 const accountController = require('./controller/logic/accountController');
 
-const app = express();
+const app = express(); 
+app.use(morgan('dev')); 
+app.use(bp.urlencoded({extended:true}));
+app.use(bp.json());
+app.use(cors());
 
-app.use( express.urlencoded( { extended : true } ) );
-app.use( express.json( ) );
-app.use( cors( ) );
+app.use(session({
+    secret: 'Pineapple - Guava - Orange',
+    cookie: {maxAge: 86400000 }, 
+    store: new memorystore({ checkPeriod:86400000 }),
+    resave: false,
+    saveUninitialized: true
+}));
 
 //// Account ////
 // Create a new account
