@@ -19,15 +19,6 @@ export default function Header_Nav() {
                 <li className="dropdown"><a href="#"><span>Language Resources</span> <i className="bi bi-chevron-down" /></a>
                     <ul>
                     <li><a href="/arabic">Arabic</a></li>
-                    <li className="dropdown"><a href="#"><span>Deep Drop Down</span> <i className="bi bi-chevron-right" /></a>
-                        <ul>
-                        <li><a href="#">Deep Drop Down 1</a></li>
-                        <li><a href="#">Deep Drop Down 2</a></li>
-                        <li><a href="#">Deep Drop Down 3</a></li>
-                        <li><a href="#">Deep Drop Down 4</a></li>
-                        <li><a href="#">Deep Drop Down 5</a></li>
-                        </ul>
-                    </li>
                     <li><a href="/chinese">Chinese</a></li>
                     <li><a href="/french">French</a></li>
                     <li><a href="/german">German</a></li>

@@ -1,0 +1,20 @@
+.table {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+}
+  
+.thead {
+    position: sticky;
+    z-index: 100;
+}
+
+.trHead {
+    background-color: green;
+}
+
+.th{
+    text-transform: capitalize;
+    font-weight: 600;
+    font-size: 14px;
+}

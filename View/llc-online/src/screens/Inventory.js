@@ -34,10 +34,6 @@ return (
 );
 }
 export default Inventory;*/
-
-import React, { useEffect, useState } from 'react';
-import { createClient } from 'airtable';
-import Airtable from 'airtable';
 /*
 const Inventory = () => {
   const [items, setItems] = useState([]);
@@ -119,48 +115,66 @@ base('LLC Catalog').select({
     if (err) { console.error(err); return; }
 });*/
 
+import { useState, useEffect } from 'react';
+import Airtable from 'airtable';
+//import InventoryStyle from '../style/InventoryStyle.css'
 
+const base = new Airtable({apiKey: 'pat7LAOx2G8o9KXjo.3b1b1b1b7f1439833170d2fbade502bb0d79d51cd0aec6cc7c33a2b5ca85fd00'}).base('app47HBb7xQ3Vk1uW');
 
-
-
-
-const AirtableFetch = () => {
+function Inventory() {
   const [records, setRecords] = useState([]);
+  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    const fetchRecords = async () => {
-      const base = createClient({
-        apiKey: 'pat7LAOx2G8o9KXjo',
-      }).base('app47HBb7xQ3Vk1uW');
-
-      try {
-        const result = await base('LLC Asset Catalog').select().all();
-        setRecords(result.records);
-      } catch (error) {
-        console.error('Error fetching records from Airtable:', error);
-      }
-    };
-
-    fetchRecords();
+    base('LLC Catalog').select().all()
+      .then(data => {
+        setRecords(data);
+        setLoading(false);
+      })
+      .catch(error => {
+        console.error(error);
+      });
   }, []);
 
+  const InventoryStyle = {
+    justifyContent: 'center',
+    alignItems: 'center'
+  }
+
+  if (loading) {
+    return <div>Loading...</div>;
+  }
+
   return (
-    <div>
-      <h1>LLC Asset Catalog</h1>
-      {records.length > 0 ? (
-        <ul>
-          {records.map(record => (
-            <li key={record.id}>
-              {record.fields.field1} - {record.fields.field2}
-              {/* Replace "field1" and "field2" with the names of the fields in your Airtable base */}
-            </li>
-          ))}
-        </ul>
-      ) : (
-        <p>Loading records...</p>
-      )}
+    <div style={InventoryStyle}>
+      <h1>-</h1>
+      <h1>LLC Inventory</h1>
+      <table className="table">
+        <thead className="thead">
+          <tr className="trhead">
+            <th>Title</th>
+            <th>Language</th>
+            <th>Copyright</th>
+            <th>Country</th>
+            <th>Description</th>
+            <th>Length</th>
+          </tr>
+        </thead>
+      <tbody className="tbody">
+        {records.map(record => (
+          <tr key={record.id} className="trbody">
+            <td>{record.fields.Title}</td>
+            <td>{record.fields.Language}</td>
+            <td>{record.fields.Copyright}</td>
+            <td>{record.fields.Country}</td>
+            <td>{record.fields.Description}</td>
+            <td>{record.fields.Length}</td>
+          </tr>
+        ))}
+      </tbody>
+      </table>
     </div>
   );
-};
+}
 
-export default AirtableFetch;
+export default Inventory;

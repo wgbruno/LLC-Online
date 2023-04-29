@@ -5,7 +5,7 @@ export default function Calendar(){
     //const res = getEvents()
     return(            
       <div>
-          <div id="container" className="body">
+          <div id="container" className="body" style={{display: "flex", alignItems: "center"}}>
             <section id="content">
               <h1 id="page_title">Calendar and Events</h1>
               <div id="text">

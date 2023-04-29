@@ -9,6 +9,7 @@ import LoginPage from './screens/loginpage';
 import Calendar from './screens/Calendar'
 import Header_Nav from './components/HeaderNav';
 import HeaderGap from './components/HeaderGap';
+//import Inventory from "./components/InventoryRecord";
 import Inventory from "./screens/Inventory";
 import Notesheet from "./screens/Notesheet";
 import ArabicResource from "./screens/ArabicResource";
