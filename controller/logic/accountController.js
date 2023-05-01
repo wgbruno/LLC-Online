@@ -74,7 +74,7 @@ exports.login = async (req, res) => {
 
 exports.getAdmins = async function(req, res, next) {
   try {
-    const admins = await Account.find({ account_type: 'admin' });
+    const admins = await Account.find({ account_type: 'Admin' });
     res.json(admins);
   } catch (err) {
     next(err);
@@ -83,7 +83,7 @@ exports.getAdmins = async function(req, res, next) {
 
 exports.getStaff = async function(req, res, next) {
   try {
-    const staff = await Account.find({ account_type: 'staff' });
+    const staff = await Account.find({ account_type: 'Staff' });
     res.json(staff);
   } catch (err) {
     next(err);
@@ -92,7 +92,7 @@ exports.getStaff = async function(req, res, next) {
 
 exports.getFaculty = async function(req, res, next) {
   try {
-    const faculty = await Account.find({ account_type: 'faculty' });
+    const faculty = await Account.find({ account_type: 'Faculty' });
     res.json(faculty);
   } catch (err) {
     next(err);
@@ -101,7 +101,7 @@ exports.getFaculty = async function(req, res, next) {
 
 exports.getStudents = async function(req, res, next) {
   try {
-    const students = await Account.find({ account_type: 'student' });
+    const students = await Account.find({ account_type: 'Student' });
     res.json(students);
   } catch (err) {
     next(err);

@@ -4,6 +4,8 @@ const morgan = require('morgan');
 const session = require('express-session');
 const cors = require('cors');
 const memorystore = require('memorystore')(session);
+const createError = require('http-errors');
+
 const accountRoute = require('../../../controller/routes/accountRoute');
 
 const app = express(); 
@@ -22,7 +24,7 @@ app.use(session({
 }));
 
 // routes
-app.use("/account", accountRoute);
+app.use("/", accountRoute);
 
 app.use(function(req, res, next) {
     next(createError(404));
