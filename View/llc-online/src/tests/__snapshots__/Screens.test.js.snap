@@ -1,57 +1,5262 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`Arabic Resource Page 1`] = `
+<div>
+  <div
+    className="body"
+    id="container"
+  >
+    <section
+      id="content"
+    >
+      <h1
+        id="page_title"
+      >
+        Arabic Resources
+      </h1>
+      <div
+        id="text"
+      >
+        <div
+          className="genContent"
+          id="ctl1"
+        >
+          <h2>
+            <span
+              dir="RTL"
+            >
+              برنامج اللغة العربية
+              <br />
+            </span>
+            Arabic Language and Culture
+          </h2>
+          <h2
+            style={
+              Object {
+                "textAlign": "left",
+              }
+            }
+          >
+            Learning Arabic at Loyola
+          </h2>
+          <p
+            style={
+              Object {
+                "textAlign": "left",
+              }
+            }
+          >
+            Loyola University Maryland Arabic courses: (
+            <a
+              href="https://catalogue.loyola.edu/search_advanced.php?cur_cat_oid=16&search_database=Search&search_db=Search&cpage=1&ecpage=1&ppage=1&spage=1&tpage=1&location=3&filter%5Bkeyword%5D=Arabic"
+            >
+              university course listings website
+            </a>
+            ).
+          </p>
+          <h2
+            style={
+              Object {
+                "textAlign": "left",
+              }
+            }
+          >
+            Arabic at Loyola in the News and Social Media
+          </h2>
+          <ul>
+            <li
+              style={
+                Object {
+                  "textAlign": "left",
+                }
+              }
+            >
+              Loyola Magazine: "
+              <a
+                href="https://www.loyola.edu/explore/magazine/stories/2019/learning-language-mastering-skill"
+              >
+                Learning a Language Mastering a Skill
+              </a>
+              "
+            </li>
+            <li
+              style={
+                Object {
+                  "textAlign": "left",
+                }
+              }
+            >
+              Loyola Arabic Program abroad: 
+              <a
+                href="https://www.youtube.com/watch?v=0_Tu2AOKM7M"
+              >
+                "Hello=Ahlan by Spiro Vas, '21"
+              </a>
+            </li>
+            <li
+              style={
+                Object {
+                  "textAlign": "left",
+                }
+              }
+            >
+              <a
+                href="https://www.loyola.edu/news/2019/191211-clinton-scholarship-spring"
+              >
+                Scholarship Awards for Arabic students
+              </a>
+            </li>
+            <li
+              style={
+                Object {
+                  "textAlign": "left",
+                }
+              }
+            >
+              The Greyhound: 
+              <a
+                href="https://thegreyhound.org/9616/news/loyola-arabic-club-hosts-arabyola-got-talent/"
+              >
+                "Arabyola Got Talent"
+              </a>
+            </li>
+            <li
+              style={
+                Object {
+                  "textAlign": "left",
+                }
+              }
+            >
+              Loyola Arabic e-learning: 
+              <a
+                href="https://arabyola.myportfolio.com/"
+              >
+                "Arabyola Portal"
+              </a>
+            </li>
+            <li
+              style={
+                Object {
+                  "textAlign": "left",
+                }
+              }
+            >
+              Students skits in Arabic: 
+              <a
+                href="https://www.youtube.com/watch?v=m0bqe7TUHCU&feature=emb_logo"
+              >
+                "Featuring our Loyola Campus"
+              </a>
+            </li>
+          </ul>
+          <h2
+            style={
+              Object {
+                "textAlign": "left",
+              }
+            }
+          >
+            Arabic Program Events
+          </h2>
+          <h3
+            style={
+              Object {
+                "textAlign": "left",
+              }
+            }
+          >
+            Arabic Club (Arabyola) Events 
+          </h3>
+          <p>
+            Fall events are forthcoming.
+          </p>
+          <p>
+             
+          </p>
+          <h1
+            style={
+              Object {
+                "textAlign": "left",
+              }
+            }
+          >
+            External Resources
+          </h1>
+          <h2
+            style={
+              Object {
+                "textAlign": "left",
+              }
+            }
+          >
+            Media in Arabic
+          </h2>
+          <ul>
+            <li>
+              <a
+                href="http://www.bbc.com/arabic"
+                target="_blank"
+              >
+                The BBC in Arabic 
+              </a>
+              Arabic
+            </li>
+            <li>
+              <a
+                href="http://www.aljazeera.net/portal"
+                target="_blank"
+              >
+                Al Jazeera 
+              </a>
+              Arabic
+            </li>
+            <li>
+              <a
+                href="https://arabic.cnn.com/"
+              >
+                CNN 
+              </a>
+              Arabic
+            </li>
+            <li>
+              <a
+                href="http://www.arabicmusictranslation.com/"
+                target="_blank"
+              >
+                <em>
+                  Arabic Music Translation
+                </em>
+              </a>
+               (in Arabic with English translations)    
+            </li>
+          </ul>
+          <h2>
+            Learning Arabic
+          </h2>
+          <h3>
+            Learn Arabic Online
+          </h3>
+          <ul>
+            <li>
+              <em>
+                <a
+                  href="https://learning.aljazeera.net/en"
+                >
+                  Al Jazeera 
+                </a>
+              </em>
+              <a
+                href="https://learning.aljazeera.net/en"
+              >
+                Arabic Courses 
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.yamli.com/"
+              >
+                Yamli.com
+              </a>
+               
+            </li>
+          </ul>
+          <h3>
+            Dictionaries
+          </h3>
+          <ul>
+            <li>
+              <a
+                href="https://www.lexilogos.com/english/arabic_dictionary.htm"
+              >
+                LEXILOGOS
+              </a>
+               (Arabic)
+            </li>
+          </ul>
+          <h3>
+            Keyboards
+          </h3>
+          <ul>
+            <li>
+              <a
+                href="https://arabikey.com/"
+              >
+                ArabiKey
+              </a>
+            </li>
+          </ul>
+          <h3>
+            Grammar
+          </h3>
+          <ul>
+            <li>
+              <a
+                href="http://acon.baykal.be/"
+              >
+                Acon Arabic Conjugator 
+              </a>
+            </li>
+            <li>
+              <a
+                href="http://arabic.desert-sky.net/index.html"
+              >
+                Desert Sky 
+              </a>
+            </li>
+          </ul>
+          <h3>
+            For more resources and news follow us on:
+          </h3>
+          <p>
+            <a
+              href="https://www.instagram.com/arabyolamd/?hl=en"
+              target="_blank"
+              title="View the Arabyola Program on Instagram"
+            >
+              <img
+                alt="Instagram logo"
+                src="/-/media/utility/images/common/social_media/sm_instagram_png"
+              />
+            </a>
+                
+            <a
+              href="https://www.twitter.com/inassan"
+              target="_blank"
+              title="View the Arabyola Program on Twitter"
+            >
+              <img
+                alt="Twitter logo"
+                src="/-/media/utility/images/common/social_media/sm_twitter_png"
+              />
+            </a>
+                
+            <a
+              href="https://www.facebook.com/pages/category/Social-Club/Arabyola-1190273361149500/"
+              target="_blank"
+              title="View the Arabyola Program on Facebook"
+            >
+              <img
+                alt="Facebook logo"
+                src="/-/media/utility/images/common/social_media/sm_facebook_png"
+              />
+            </a>
+                
+            <a
+              href="https://www.youtube.com/watch?v=S9M7oZoRJ4s"
+              target="_blank"
+              title="View the Arabyola Program on YouTube"
+            >
+              <img
+                alt="YouTube logo"
+                src="/-/media/utility/images/common/social_media/sm_youtube_png"
+              />
+            </a>
+          </p>
+        </div>
+      </div>
+       
+    </section>
+     
+  </div>
+   
+  <footer>
+    <div
+      className="footer_bottom"
+    >
+      <div
+        className="body"
+      >
+        Copyright © 2023 Loyola University Maryland. All rights reserved. 
+        <a
+          href="/about/privacy-policy"
+        >
+          Privacy Policy
+        </a>
+        <a
+          href="/department/consumer-information"
+        >
+          Consumer Information
+        </a>
+        <a
+          href="/about/accessibility"
+        >
+          Accessibility
+        </a>
+      </div>
+    </div>
+  </footer>
+</div>
+`;
+
+exports[`Calendar 1`] = `
+<div>
+  <div
+    className="body"
+    id="container"
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+      }
+    }
+  >
+    <section
+      id="content"
+    >
+      <h1
+        id="page_title"
+      >
+        Calendar and Events
+      </h1>
+      <div
+        id="text"
+      >
+        <div
+          className="genContent"
+          id="ctl1"
+        >
+          <p>
+            <a
+              className="btn"
+              href="https://calendar.google.com/calendar/embed?src=t9bn75qe8cq5kovvmagfk4gjmc%40group.calendar.google.com&ctz=America/New_York"
+              target="_blank"
+            >
+              LLC Schedule
+            </a>
+             
+            <a
+              className="btn"
+              href="https://calendar.google.com/calendar/embed?src=klbqroltufja6ml871e71p1an0%40group.calendar.google.com&ctz=America/New_York"
+              target="_blank"
+            >
+              Cultural Events Calendar
+            </a>
+          </p>
+          <p />
+          <p>
+            <iframe
+              frameBorder={0}
+              height={600}
+              scrolling="no"
+              src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23FFFFFF&src=t9bn75qe8cq5kovvmagfk4gjmc%40group.calendar.google.com&color=%23865A5A&ctz=America%2FNew_York"
+              style={
+                Object {
+                  "borderWidth": "0px",
+                }
+              }
+              title="Language Learning Center Calendar"
+              width={600}
+            />
+          </p>
+          <p>
+             
+          </p>
+          <p>
+            <iframe
+              frameBorder={0}
+              height={600}
+              scrolling="no"
+              src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23FFFFFF&src=klbqroltufja6ml871e71p1an0%40group.calendar.google.com&color=%238C500B&ctz=America%2FNew_York"
+              style={
+                Object {
+                  "borderWidth": "0px",
+                }
+              }
+              title="Loyola Cultural Events Calendar"
+              width={600}
+            />
+          </p>
+        </div>
+      </div>
+       
+    </section>
+     
+  </div>
+   
+  <footer>
+    <div
+      className="footer_bottom"
+    >
+      <div
+        className="body"
+      >
+        Copyright © 2023 Loyola University Maryland. All rights reserved. 
+        <a
+          href="/about/privacy-policy"
+        >
+          Privacy Policy
+        </a>
+        <a
+          href="/department/consumer-information"
+        >
+          Consumer Information
+        </a>
+        <a
+          href="/about/accessibility"
+        >
+          Accessibility
+        </a>
+      </div>
+    </div>
+  </footer>
+</div>
+`;
+
+exports[`Chinese Resource Page 1`] = `
+<div>
+  <div
+    className="body"
+    id="container"
+  >
+    <section
+      id="content"
+    >
+      <h1
+        id="page_title"
+      >
+        Chinese Resources
+      </h1>
+      <div
+        id="text"
+      >
+        <div
+          className="genContent"
+          id="ctl1"
+        >
+          <h2>
+            <img
+              alt="black and white image of confucius"
+              className="image_left"
+              src="/-/media/department/language-learning-center/images/resources/confucius.ashx?h=159&w=150&la=en&hash=3774779F0E21F4F1852F5D16B65F21A0393ADE30"
+              style={
+                Object {
+                  "height": "159px",
+                  "width": "150px",
+                }
+              }
+            />
+            Chinese Print News Media
+          </h2>
+          <p>
+            《人民日报》 
+            <a
+              href="http://www.people.com.cn/"
+            >
+              http://www.people.com.cn/
+            </a>
+             (in Chinese)
+          </p>
+          <p>
+            《解放日报》
+            <a
+              href="http://www.jfdaily.com/"
+            >
+              http://www.jfdaily.com/
+            </a>
+             (in Chinese)
+          </p>
+          <p>
+            《南方周末》
+            <a
+              href="http://www.infzm.com/"
+            >
+              http://www.infzm.com/
+            </a>
+             (in Chinese)
+          </p>
+          <h2>
+            Multimedia News, Music, TV, Film
+          </h2>
+          <h3>
+            Chinese Language Entertainment and News 
+          </h3>
+          <table>
+            <thead>
+              <tr>
+                <th>
+                  Media Source
+                </th>
+                <th>
+                  Media Links
+                </th>
+                <th>
+                   
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>
+                  中央电视台 
+                  <br />
+                  <strong>
+                    CCTV
+                  </strong>
+                  <br />
+                  Chinese National News
+                </td>
+                <td>
+                  <a
+                    href="http://www.cntv.cn/index.shtml"
+                    target="_blank"
+                  >
+                    CCTV Homepage
+                  </a>
+                  <br />
+                  <a
+                    href="https://www.youtube.com/user/cctvch"
+                    target="_blank"
+                  >
+                    YouTube Channel
+                  </a>
+                  <br />
+                  Campus Cable: Ch. 119
+                </td>
+                <td>
+                   
+                  <img
+                    alt="cctv logo"
+                    className="image_right"
+                    src="/-/media/department/language-learning-center/images/resources/cctv.ashx?h=60&w=60&la=en&hash=91E1D7570EB5014DCAAE19AE48358728B5F33E2D"
+                    style={
+                      Object {
+                        "height": "60px",
+                        "width": "60px",
+                      }
+                    }
+                  />
+                  <br />
+                </td>
+              </tr>
+              <tr
+                className="telerik-reTableEvenRow-2"
+              >
+                <td>
+                  湖南卫视  
+                  <br />
+                  <strong>
+                    Hunan TV
+                  </strong>
+                    
+                  <br />
+                  Entertainment News and TV Shows
+                  <br />
+                </td>
+                <td>
+                  <a
+                    href="http://www.hunantv.com/"
+                    target="_blank"
+                  >
+                    Hunan TV Homepage
+                  </a>
+                  <br />
+                  <a
+                    href="https://www.youtube.com/user/imgotv"
+                    target="_blank"
+                  >
+                    YouTube Channel
+                  </a>
+                </td>
+                <td>
+                  <img
+                    alt="hunan tv logo"
+                    className="image_right"
+                    src="/-/media/department/language-learning-center/images/resources/hunan-tv.ashx?h=60&w=60&la=en&hash=429BF6EE60DB3CB22B48B7ED866814570540F008"
+                    style={
+                      Object {
+                        "height": "60px",
+                        "width": "60px",
+                      }
+                    }
+                  />
+                  <br />
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  鳳凰衛視 (Hongkong)  
+                  <br />
+                  <strong>
+                    Phoenix TV
+                  </strong>
+                   
+                  <br />
+                  News and Entertainment Programming
+                  <br />
+                </td>
+                <td>
+                  <a
+                    href="http://phtv.ifeng.com/"
+                    target="_blank"
+                  >
+                    Phoenix TV Homepage
+                  </a>
+                </td>
+                <td>
+                   
+                  <img
+                    alt="phoenix tv media logo"
+                    className="image_right"
+                    src="/-/media/department/language-learning-center/images/resources/phoenix-tv-media-logo.ashx?h=60&w=45&la=en&hash=B4FB43DB3BE2281572B89847E56D2F03EABE98D9"
+                    style={
+                      Object {
+                        "height": "60px",
+                        "width": "45px",
+                      }
+                    }
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  新浪网 
+                  <br />
+                  <strong>
+                    Sina 
+                  </strong>
+                  <br />
+                  Online News Coverage
+                </td>
+                <td>
+                  <a
+                    href="http://www.sina.com.cn/"
+                    target="_blank"
+                  >
+                    Sina News Online
+                  </a>
+                                          
+                </td>
+                <td>
+                   
+                  <img
+                    alt="sina logo"
+                    className="image_right"
+                    src="/-/media/department/language-learning-center/images/resources/sina-logo.ashx?h=60&w=90&la=en&hash=025F77F0CB7F08E9CD17D247A8E551828FF0A00C"
+                    style={
+                      Object {
+                        "height": "60px",
+                        "width": "90px",
+                      }
+                    }
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  搜狐网 
+                  <br />
+                  <strong>
+                    Sohu 
+                  </strong>
+                  <br />
+                  Search Engine and News Provider
+                </td>
+                <td>
+                  <a
+                    href="http://www.sohu.com/"
+                    target="_blank"
+                  >
+                    Sohu Search Engine and News
+                  </a>
+                </td>
+                <td>
+                   
+                  <img
+                    alt="sohu logo"
+                    className="image_right"
+                    src="/-/media/department/language-learning-center/images/resources/sohu-banner.ashx?h=60&w=60&la=en&hash=E3F61B9ACBFF2B9042649320E22C349BC5AFB457"
+                    style={
+                      Object {
+                        "height": "60px",
+                        "width": "60px",
+                      }
+                    }
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  腾讯网 
+                  <br />
+                  <strong>
+                    QQ
+                  </strong>
+                  <br />
+                  Integrated News, Entertainment, and Finance Resource
+                </td>
+                <td>
+                  <a
+                    href="http://www.qq.com/"
+                    target="_blank"
+                  >
+                    QQ News Online
+                  </a>
+                                         
+                </td>
+                <td>
+                   
+                  <img
+                    alt="qq logo"
+                    className="image_right"
+                    src="/-/media/department/language-learning-center/images/resources/qq.ashx?h=60&w=100&la=en&hash=0DB3E9F4FF204B8F4750BFD2C8346B59FFC3D8DC"
+                    style={
+                      Object {
+                        "height": "60px",
+                        "width": "100px",
+                      }
+                    }
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  聯合新聞網 (Taiwan)
+                  <br />
+                  <strong>
+                    United Daily News
+                  </strong>
+                  <br />
+                  Taiwanese News Coverage
+                </td>
+                <td>
+                  <a
+                    href="http://udn.com/news/index"
+                    target="_blank"
+                  >
+                    United Daily New Online
+                  </a>
+                </td>
+                <td>
+                   
+                  <img
+                    alt="udn logo"
+                    className="image_right"
+                    src="/-/media/department/language-learning-center/images/resources/udn.ashx?h=60&w=60&la=en&hash=1B86221621D82B9E2D874FA9F78DCEA0E8AAAEB6"
+                    style={
+                      Object {
+                        "height": "60px",
+                        "width": "60px",
+                      }
+                    }
+                  />
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <h3>
+            Online Streaming Video Providers
+          </h3>
+          <ul>
+            <li>
+              <a
+                href="http://www.tudou.com/"
+                target="_blank"
+              >
+                Tudou Film and Videos
+              </a>
+            </li>
+            <li>
+              <a
+                href="http://www.youku.com/"
+                target="_blank"
+              >
+                Youku Film and Videos
+              </a>
+            </li>
+          </ul>
+          <h2>
+            Learn Chinese!
+          </h2>
+          <h3>
+            Dictionaries
+          </h3>
+          <ul>
+            <li>
+              MDBG (
+              <a
+                href="http://www.mdbg.net/chindict/chindict.php"
+                target="_blank"
+              >
+                Chinese-English Dictionary
+              </a>
+              )
+            </li>
+            <li>
+              Xinhua Dictionary (
+              <a
+                href="http://xh.5156edu.com/bs.html"
+                target="_blank"
+              >
+                Chinese resource
+              </a>
+              )
+            </li>
+          </ul>
+          <h3>
+            Chinese at Loyola 
+          </h3>
+          <ul>
+            <li>
+              <a
+                href="https://catalogue.loyola.edu/preview_entity.php?catoid=28&ent_oid=1364&returnto=964"
+                target="_blank"
+              >
+                Chinese Courses
+              </a>
+               at Loyola University Maryland (course catalog)
+            </li>
+            <li>
+              *NEW* 
+              <a
+                href="/academics/modern-languages/curriculum/minors/chinese"
+              >
+                Chinese Minor
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.facebook.com/LUMChineseClub/?fref=ts"
+                target="_blank"
+              >
+                Chinese Club Facebook Page
+              </a>
+            </li>
+            <li>
+              <a
+                href="/academics/modern-languages/faculty"
+              >
+                Chinese Faculty
+              </a>
+            </li>
+            <li>
+              <a
+                href="/department/international-programs/locations/programs/beijing"
+              >
+                Study Abroad in Beijing
+              </a>
+            </li>
+            <li>
+              Apply for Language Study Fellowships (
+              <a
+                href="/department/national-fellowships"
+              >
+                National Fellowships Office
+              </a>
+              )
+            </li>
+          </ul>
+          <h3>
+            Online Chinese Tools
+          </h3>
+          <ul>
+            <li>
+              <em>
+                Mandarin Tools
+              </em>
+               (
+              <a
+                href="http://www.mandarintools.com/"
+                target="_blank"
+              >
+                grammar, typing, and culture website
+              </a>
+              )
+            </li>
+            <li>
+              <em>
+                Chinese Tools 
+              </em>
+              (
+              <a
+                href="http://www.chinese-tools.com/"
+                target="_blank"
+              >
+                dictionary, language, and cultural resources
+              </a>
+              )
+            </li>
+            <li>
+              <em>
+                Chinese Pod 
+              </em>
+              (
+              <a
+                href="http://chinesepod.com/"
+              >
+                online Chinese language course
+              </a>
+              )
+            </li>
+            <li>
+              China National Knowledge Infrastructure (
+              <a
+                href="http://www.cnki.net/"
+              >
+                academic research website in Chinese
+              </a>
+              )
+            </li>
+          </ul>
+          <h3>
+            Top 5 Free Resources for Learning Chinese 
+          </h3>
+          <p>
+            Suggested by our Chinese Faculty at Loyola University Maryland!
+          </p>
+          <p />
+          <ol>
+            <li>
+              <a
+                href="https://chinesepod.com/library/channels/list/qing+wen"
+                target="_blank"
+              >
+                <strong>
+                  Learn Chinese - QingWen
+                </strong>
+              </a>
+               
+              <br />
+              With podcasts updated weekly, this is a great little app to take with you for learning Chinese on-the-go. The QingWen show gets down to the nitty-gritty and gives listeners the much-needed explanations about the tricky parts of the Mandarin language – from the multiple uses of “就” to common examples and uses of “成语”. The Beijing Standard Time show is not only great from a learning standpoint, but also from a cultural one as well. The show provides listeners with valuable information about Chinese culture, from tips on how to avoid common scams in China, to etiquette guides on how to behave in certain social situations, such as “How to act at a Chinese banquette?”
+            </li>
+            <li>
+              <a
+                href="http://chinesepod.us1.list-manage1.com/track/click?u=78a6244a8c63c849b40f6c597&id=d7410e0d92&e=67d0261744"
+                target="_blank"
+              >
+                <strong>
+                  Lang-8
+                </strong>
+              </a>
+               
+              <br />
+              A great free resource for anybody looking to improve their writing skills. Lang-8 is basically a community of users all looking to improve their writing skills, in whatever language. As a user, you can write a blog, journal, or post in Chinese, and look for native Chinese speakers to correct your writing and give feedback. It works because you will be doing the same for them, correcting their writing in English, or any other language you speak natively. The correction system is simple and straightforward, and the more friends you make, the more corrections and feedback you can receive. 
+            </li>
+            <li>
+              <a
+                href="https://dict.naver.com/linedict/zhendict/dict.html#/cnen/home"
+                target="_blank"
+              >
+                <strong>
+                  Nciku
+                </strong>
+              </a>
+               
+              <br />
+              Probably the best web-based English-Chinese dictionary out there. You can search by English, Chinese characters, pinyin, radical, or even via handwriting with their in-site writing pad. The interface is clean, and they have a nice library of sample sentences that come up with each word search. Although their mobile app requires you to fork over some dough to unlock, try 
+              <a
+                href="http://chinesepod.us1.list-manage1.com/track/click?u=78a6244a8c63c849b40f6c597&id=afebd5dbc7&e=67d0261744"
+                target="_blank"
+              >
+                Pleco basic version
+              </a>
+               for a free mobile alternative. 
+            </li>
+            <li>
+              <a
+                href="http://chinesepod.us1.list-manage1.com/track/click?u=78a6244a8c63c849b40f6c597&id=cbc46cd9d5&e=67d0261744"
+                target="_blank"
+              >
+                <strong>
+                  AllSet Learning Pinyin App
+                </strong>
+              </a>
+               
+              <br />
+              A great free iPad app for newbie Mandarin learners. AllSet’s Pinyin chart is simple and to the point, providing you with zoom-able and pan-able features where you can zone in on your selected pinyin and listen to the accompanying audio. For a web-based version of a pinyin chart, check out 
+              <a
+                href="http://chinesepod.us1.list-manage.com/track/click?u=78a6244a8c63c849b40f6c597&id=7a9087ebd2&e=67d0261744"
+                target="_blank"
+              >
+                ChinesePod’s Pinyin Chart
+              </a>
+              . 
+            </li>
+            <li>
+              <a
+                href="http://chinesepod.us1.list-manage.com/track/click?u=78a6244a8c63c849b40f6c597&id=fabe55d451&e=67d0261744"
+                target="_blank"
+              >
+                <strong>
+                  FluentU
+                </strong>
+              </a>
+               
+              <br />
+              A relative newcomer to the Chinese language learning scene, however, FluentU has some great things to offer. It uses popular video clips and short movies to help you learn Chinese in a very visual manner. What’s more is that all of the videos are subtitled in Chinese characters, with pinyin display and English breakdowns available via hovering over the text. 
+            </li>
+          </ol>
+        </div>
+      </div>
+       
+    </section>
+     
+  </div>
+   
+  <footer>
+    <div
+      className="footer_bottom"
+    >
+      <div
+        className="body"
+      >
+        Copyright © 2023 Loyola University Maryland. All rights reserved. 
+        <a
+          href="/about/privacy-policy"
+        >
+          Privacy Policy
+        </a>
+        <a
+          href="/department/consumer-information"
+        >
+          Consumer Information
+        </a>
+        <a
+          href="/about/accessibility"
+        >
+          Accessibility
+        </a>
+      </div>
+    </div>
+  </footer>
+</div>
+`;
+
+exports[`French Resource Page 1`] = `
+<div>
+  <meta
+    charSet="UTF-8"
+  />
+  <meta
+    content="width=device-width, initial-scale=1"
+    name="viewport"
+  />
+  <meta
+    content="IE=edge"
+    httpEquiv="X-UA-Compatible"
+  />
+  <title>
+    French Resources | Language Learning Center | Loyola University Maryland
+  </title>
+  <link
+    href="/~/media/utility/css/department/dept1.2.min.css?v=20221128-2"
+    rel="stylesheet"
+    type="text/css"
+  />
+  <link
+    href="https://cloud.typography.com/6944232/7455412/css/fonts.css"
+    rel="stylesheet"
+    type="text/css"
+  />
+  <style
+    dangerouslySetInnerHTML={
+      Object {
+        "__html": "
+/* Temporary solution to fix form scrolling until next update is live */
+.scfForm { height: auto !important; }
+",
+      }
+    }
+  />
+  <meta
+    name="keywords"
+  />
+  <meta
+    content="View resources on the French language provided by Loyola University Maryland's Language Learning Center."
+    name="description"
+  />
+  <form
+    action="/department/language-learning-center/resources/french"
+    id="form1"
+    method="post"
+  >
+    <div
+      className="aspNetHidden"
+    >
+      <input
+        defaultValue="/wEPDwULLTE1ODg5Mjg2NzcPFgIeE1ZhbGlkYXRlUmVxdWVzdE1vZGUCARYIZg8WAh4EVGV4dAUjPCFET0NUWVBFIGh0bWw+DQo8aHRtbCBsYW5nPSJlbiI+DQpkAgIPZBYEAgEPFgIfAQWaATxtZXRhIGNoYXJzZXQ9IlVURi04Ij4NCjxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsIGluaXRpYWwtc2NhbGU9MSI+IA0KPG1ldGEgaHR0cC1lcXVpdj0iWC1VQS1Db21wYXRpYmxlIiBjb250ZW50PSJJRT1lZGdlIiAvPg0KDQpkAgUPFgIfAQWLBjxsaW5rIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIGhyZWY9Ii9+L21lZGlhL3V0aWxpdHkvY3NzL2RlcGFydG1lbnQvZGVwdDEuMi5taW4uY3NzP3Y9MjAyMjExMjgtMiI+DQo8bGluayByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiBocmVmPSJodHRwczovL2Nsb3VkLnR5cG9ncmFwaHkuY29tLzY5NDQyMzIvNzQ1NTQxMi9jc3MvZm9udHMuY3NzIiAvPg0KDQo8c3R5bGU+DQovKiBUZW1wb3Jhcnkgc29sdXRpb24gdG8gZml4IGZvcm0gc2Nyb2xsaW5nIHVudGlsIG5leHQgdXBkYXRlIGlzIGxpdmUgKi8NCi5zY2ZGb3JtIHsgaGVpZ2h0OiBhdXRvICFpbXBvcnRhbnQ7IH0NCjwvc3R5bGU+DQoNCjwhLS0gR29vZ2xlIFRhZyBNYW5hZ2VyIC0tPg0KPHNjcmlwdD4oZnVuY3Rpb24odyxkLHMsbCxpKXt3W2xdPXdbbF18fFtdO3dbbF0ucHVzaCh7J2d0bS5zdGFydCc6DQpuZXcgRGF0ZSgpLmdldFRpbWUoKSxldmVudDonZ3RtLmpzJ30pO3ZhciBmPWQuZ2V0RWxlbWVudHNCeVRhZ05hbWUocylbMF0sDQpqPWQuY3JlYXRlRWxlbWVudChzKSxkbD1sIT0nZGF0YUxheWVyJz8nJmw9JytsOicnO2ouYXN5bmM9dHJ1ZTtqLnNyYz0NCidodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbS9ndG0uanM/aWQ9JytpK2RsO2YucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoaixmKTsNCn0pKHdpbmRvdyxkb2N1bWVudCwnc2NyaXB0JywnZGF0YUxheWVyJywnR1RNLU1TQ0ZGSCcpOzwvc2NyaXB0Pg0KPCEtLSBFbmQgR29vZ2xlIFRhZyBNYW5hZ2VyIC0tPg0KZAIEDxYCHwEFBjxib2R5PmQCCBBkZBYCAgEPZBYCZg9kFgJmD2QWDmYPFgIfAQUYTGFuZ3VhZ2UgTGVhcm5pbmcgQ2VudGVyZAIBDw8WAh4LTmF2aWdhdGVVcmwFJC9kZXBhcnRtZW50L2xhbmd1YWdlLWxlYXJuaW5nLWNlbnRlcmRkAgIPDxYCHwIFJC9kZXBhcnRtZW50L2xhbmd1YWdlLWxlYXJuaW5nLWNlbnRlcmRkAgMPFgIeC18hSXRlbUNvdW50AgUWCmYPZBYEAgEPFgIfAQVMPGEgaHJlZj0iL2RlcGFydG1lbnQvbGFuZ3VhZ2UtbGVhcm5pbmctY2VudGVyL2ZhY3VsdHkiID5GYWN1bHR5IFNlcnZpY2VzPC9hPmQCAw8WAh8DAv////8PZAIBD2QWBAIBDxYCHwEFTTxhIGhyZWY9Ii9kZXBhcnRtZW50L2xhbmd1YWdlLWxlYXJuaW5nLWNlbnRlci9zdHVkZW50cyIgPlN0dWRlbnQgU2VydmljZXM8L2E+ZAIDDxYCHwMC/////w9kAgIPZBYEAgEPFgIfAQVOPGEgaHJlZj0iL2RlcGFydG1lbnQvbGFuZ3VhZ2UtbGVhcm5pbmctY2VudGVyL2NhbGVuZGFyIiA+Q2FsZW5kYXIgJiBFdmVudHM8L2E+ZAIDDxYCHwMC/////w9kAgMPZBYEAgEPFgIfAQVRPGEgaHJlZj0iL2RlcGFydG1lbnQvbGFuZ3VhZ2UtbGVhcm5pbmctY2VudGVyL2NhdGFsb2ciID5MTEMgTWF0ZXJpYWxzIENhdGFsb2c8L2E+ZAIDDxYCHwMC/////w9kAgQPZBYEAgEPFgIfAQVHPGEgaHJlZj0iL2RlcGFydG1lbnQvbGFuZ3VhZ2UtbGVhcm5pbmctY2VudGVyL3Jlc291cmNlcyIgPlJlc291cmNlczwvYT5kAgMPFgIfAwL/////D2QCBQ9kFgJmDxYCHwMCAxYGZg9kFgQCAw8WAh4HVmlzaWJsZWhkAgUPDxYEHwEFBEhvbWUfAgUkL2RlcGFydG1lbnQvbGFuZ3VhZ2UtbGVhcm5pbmctY2VudGVyZGQCAQ9kFgQCAw8WAh8EaGQCBQ8PFgQfAQUJUmVzb3VyY2VzHwIFLi9kZXBhcnRtZW50L2xhbmd1YWdlLWxlYXJuaW5nLWNlbnRlci9yZXNvdXJjZXNkZAICD2QWBgIBDxYCHwEFGTxsaSBjbGFzcz0iY3VycmVudF9wYWdlIj5kAgMPFgIfAQUQRnJlbmNoIFJlc291cmNlc2QCBQ8PFgYfAQUQRnJlbmNoIFJlc291cmNlcx8CBTUvZGVwYXJ0bWVudC9sYW5ndWFnZS1sZWFybmluZy1jZW50ZXIvcmVzb3VyY2VzL2ZyZW5jaB8EaGRkAgcPFgIfAQUpPGgxIGlkPSJwYWdlX3RpdGxlIj5GcmVuY2ggUmVzb3VyY2VzPC9oMT5kAgoPFgIfBGhkZNci0OAWyKK7yCFYVZJr6m6rYbxk"
+        id="__VIEWSTATE"
+        name="__VIEWSTATE"
+        type="hidden"
+      />
+    </div>
+    <div
+      className="aspNetHidden"
+    >
+      <input
+        defaultValue="52DEDB11"
+        id="__VIEWSTATEGENERATOR"
+        name="__VIEWSTATEGENERATOR"
+        type="hidden"
+      />
+    </div>
+    <header>
+      <div
+        id="skip_to_content"
+      >
+        <a
+          href="#content"
+        >
+          Skip to main content
+        </a>
+      </div>
+      <section
+        className="body"
+        id="logo_name"
+      >
+        <a
+          href="https://www.loyola.edu/"
+          id="loyola_u"
+        >
+          Loyola University Maryland
+        </a>
+        <h1
+          id="site_name"
+        >
+          Language Learning Center
+        </h1>
+        <ul
+          id="utility_links"
+        >
+          <li>
+            <a
+              href="https://www.loyola.edu"
+            >
+              Loyola.edu
+            </a>
+          </li>
+        </ul>
+      </section>
+      <nav
+        id="main"
+      >
+        <div
+          id="mobile_menu"
+        >
+          <a
+            href="/department/language-learning-center"
+            id="body_0_lnkMobileHomeBtn"
+          >
+            Home
+          </a>
+           
+          <a
+            href="#"
+            id="show_menu"
+          >
+            <img
+              alt="Menu"
+              src="/images/new-dept-template/mobile_menu.png"
+            />
+          </a>
+        </div>
+         
+        <div
+          className="menu body"
+        >
+          <ul
+            className="sf-menu clearfix"
+          >
+            <li
+              id="home"
+            >
+              <a
+                href="/department/language-learning-center"
+                id="body_0_lnkHomeBtn"
+              >
+                Home
+                <img
+                  alt="Home Icon"
+                  src="/images/new-dept-template/home_btn.png"
+                />
+              </a>
+            </li>
+            <li>
+              <a
+                href="/department/language-learning-center/faculty"
+              >
+                Faculty Services
+              </a>
+            </li>
+            <li>
+              <a
+                href="/department/language-learning-center/students"
+              >
+                Student Services
+              </a>
+            </li>
+            <li>
+              <a
+                href="/department/language-learning-center/calendar"
+              >
+                Calendar & Events
+              </a>
+            </li>
+            <li>
+              <a
+                href="/department/language-learning-center/catalog"
+              >
+                LLC Materials Catalog
+              </a>
+            </li>
+            <li>
+              <a
+                href="/department/language-learning-center/resources"
+              >
+                Resources
+              </a>
+            </li>
+          </ul>
+        </div>
+         
+      </nav>
+    </header>
+    <div
+      className="clear"
+    />
+    <div
+      className="body"
+      id="breadcrumb_social"
+    >
+      <ul
+        id="breadcrumb"
+      >
+        <li>
+          <a
+            href="/department/language-learning-center"
+            id="body_0_breadcrumb_rptBreadcrumbs_lnkBreadcrumbLink_0"
+          >
+            Home
+          </a>
+        </li>
+        <li>
+          <a
+            href="/department/language-learning-center/resources"
+            id="body_0_breadcrumb_rptBreadcrumbs_lnkBreadcrumbLink_1"
+          >
+            Resources
+          </a>
+        </li>
+        <li
+          className="current_page"
+        >
+          French Resources
+        </li>
+      </ul>
+      <ul
+        id="social"
+      >
+        <li>
+          <a
+            href="https://twitter.com/LoCo_LLC"
+            target="_blank"
+          >
+            <img
+              alt="Twitter"
+              src="/-/media/utility/images/common/social_media/sm_twitter_svg.ashx"
+            />
+          </a>
+        </li>
+      </ul>
+    </div>
+     
+    <div
+      className="body"
+      id="container"
+    >
+      <section
+        id="content"
+      >
+        <h1
+          id="page_title"
+        >
+          French Resources
+        </h1>
+        <div
+          id="text"
+        >
+          <div
+            className="genContent"
+            id="ctl1"
+          >
+            <h2
+              style={
+                Object {
+                  "textAlign": "left",
+                }
+              }
+            >
+              French Language and Culture
+            </h2>
+            <h3>
+              Bulletin Francophone
+            </h3>
+            <p>
+              Watch: The Annual French Program Trip to Montreal
+            </p>
+            <iframe
+              allow="autoplay; encrypted-media"
+              frameBorder={0}
+              height={315}
+              src="https://www.youtube.com/embed/OxfiL8oNa_g"
+              title="Watch a video of the annual French department trip to Montreal, Canada from Fall 2017"
+              width={560}
+            />
+            <h2>
+              Print News Media in French
+            </h2>
+            <h3>
+              France
+            </h3>
+            <ul>
+              <li>
+                <a
+                  href="http://www.lemonde.fr/"
+                >
+                  <em>
+                    Le Monde
+                  </em>
+                   (newspaper online
+                </a>
+                ) 
+              </li>
+              <li>
+                <a
+                  href="http://www.lefigaro.fr/"
+                >
+                  <em>
+                    Le Figaro
+                  </em>
+                   (newspaper online
+                </a>
+                )  
+                <em />
+              </li>
+              <li>
+                <a
+                  href="http://www.humanite.fr/"
+                >
+                  <em>
+                    L’Humanité
+                  </em>
+                   (newspaper online
+                </a>
+                ) 
+              </li>
+              <li>
+                <a
+                  href="http://charliehebdo.fr/"
+                >
+                  <em>
+                    Charlie Hebdo
+                  </em>
+                   (newspaper online
+                </a>
+                ) 
+              </li>
+              <li>
+                <a
+                  href="http://www.giga-presse.com/top_rubrique.php?categorie=1"
+                >
+                  Other French Newspapers
+                </a>
+              </li>
+            </ul>
+            <h3>
+              Africa (Afrique)
+            </h3>
+            <ul>
+              <li>
+                <a
+                  href="http://www.jeuneafrique.com/"
+                >
+                  <em>
+                    Jeune Afrique 
+                  </em>
+                  (news online
+                </a>
+                )
+                <em />
+              </li>
+              <li>
+                <a
+                  href="http://maghreb-observateur.com/"
+                >
+                  <em>
+                    Maghreb Observateur
+                  </em>
+                   (news online
+                </a>
+                )
+              </li>
+            </ul>
+            <h3>
+              Canada
+            </h3>
+            <ul>
+              <li>
+                <a
+                  href="http://www.lactualite.com/"
+                >
+                  <em>
+                    L'Actualité 
+                  </em>
+                  (news online
+                </a>
+                )
+              </li>
+              <li>
+                <a
+                  href="http://www.ledevoir.com/"
+                >
+                  <em>
+                    Le Devoir
+                  </em>
+                   (news online
+                </a>
+                )
+              </li>
+            </ul>
+            <h3>
+              More Francophone News - Links to Online Newspapers
+            </h3>
+            <p>
+              <a
+                className="btn"
+                href="http://www.onlinenewspapers.com/belgium.htm"
+                target="_blank"
+              >
+                BELGIUM (Belgique)
+              </a>
+               
+              <a
+                className="btn"
+                href="http://www.onlinenewspapers.com/monaco.htm"
+                target="_blank"
+              >
+                MONACO
+              </a>
+              <br />
+              <a
+                className="btn"
+                href="http://www.onlinenewspapers.com/luxembou.htm"
+                target="_blank"
+              >
+                LUXEMBOURG
+              </a>
+               
+              <a
+                className="btn"
+                href="http://www.onlinenewspapers.com/switzerl.htm"
+                target="_blank"
+              >
+                SWITZERLAND (Suisse)
+              </a>
+            </p>
+            <h2>
+              Multimedia Online Resources
+            </h2>
+            <table>
+              <thead>
+                <tr>
+                  <th>
+                    TELEVISION CHANNELS
+                  </th>
+                  <th>
+                    MUSIC and RADIO
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>
+                    <a
+                      href="http://www.tv5monde.com/"
+                    >
+                      TV5 
+                    </a>
+                    <br />
+                    <a
+                      href="http://www.tf1.fr/"
+                    >
+                      TF1 
+                    </a>
+                    <br />
+                    <a
+                      href="http://www.france2.fr/"
+                    >
+                      FRANCE 2
+                    </a>
+                     
+                    <br />
+                    <a
+                      href="http://www.canalplus.fr/"
+                    >
+                      CANAL +
+                    </a>
+                  </td>
+                  <td>
+                    <a
+                      href="http://www.rtl2.fr/direct"
+                      title="RTL2 online streaming"
+                    >
+                      RTL2 (online streaming
+                    </a>
+                    ) 
+                    <br />
+                    <a
+                      href="http://www.nrj.fr/webradios/nrj"
+                      title="NRJ online streaming"
+                    >
+                      NRJ (online streaming
+                    </a>
+                    ) 
+                    <br />
+                    <a
+                      href="https://www.nostalgie.fr/"
+                    >
+                      NOSTALGIE (online streaming
+                    </a>
+                    ) 
+                    <br />
+                    <a
+                      href="http://www.rfi.fr/#./?&_suid=14425083553330147849275854592"
+                    >
+                      RFI (online streaming
+                    </a>
+                    )
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <h4>
+              MOVIES
+            </h4>
+            <ul>
+              <li>
+                <a
+                  href="http://www.cinema-francais.fr/"
+                  target="_blank"
+                >
+                  All about French Film
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/department/language-learning-center/catalog"
+                >
+                  Search French Films in the LLC International Film Collection
+                </a>
+              </li>
+              <li>
+                Allocine (
+                <a
+                  href="http://www.allocine.fr/film/"
+                  target="_blank"
+                >
+                  current French film and entertainment
+                </a>
+                )
+              </li>
+              <li>
+                <a
+                  href="https://www.nostalgie.fr/"
+                >
+                  Nostalgie
+                </a>
+                 - online streaming
+              </li>
+            </ul>
+            <h2>
+              Learn French!
+            </h2>
+            <h3>
+              French at Loyola University Maryland
+            </h3>
+            <ul>
+              <li>
+                <a
+                  href="/academics/modern-languages/faculty"
+                  target="_blank"
+                >
+                  French Faculty
+                </a>
+                 
+              </li>
+              <li>
+                <a
+                  href="/academics/modern-languages/curriculum/majors/french"
+                >
+                  French Major 
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/academics/modern-languages/curriculum/minors/french"
+                >
+                  French Minor 
+                </a>
+              </li>
+              <li>
+                French Courses at Loyola (
+                <a
+                  href="https://www.loyola.edu/department/records/catalogues"
+                >
+                  university course listings website
+                </a>
+                )
+              </li>
+              <li>
+                <a
+                  href="/department/career-center/resources/majors/french"
+                >
+                  Career Center Information on French 
+                </a>
+              </li>
+            </ul>
+            <h3>
+              Loyola in France
+            </h3>
+            <ul>
+              <li>
+                <a
+                  href="/department/international-programs"
+                >
+                  Loyola International Programs Office
+                </a>
+                 
+              </li>
+              <li>
+                <a
+                  href="/department/international-programs/locations/programs/paris"
+                >
+                  Study abroad in Paris, France 
+                </a>
+              </li>
+              <li>
+                NEW! 
+                <a
+                  href="/department/international-programs/locations/programs/lyon"
+                >
+                  Study abroad in Lyon, France 
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/department/international-programs/locations/programs/leuven"
+                >
+                  Study abroad in Leuven, Belgium 
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/department/international-programs/locations/summer"
+                >
+                  3-Week Summer Program in Montpellier
+                </a>
+              </li>
+            </ul>
+            <h3>
+              Dictionaries
+            </h3>
+            <table>
+              <thead>
+                <tr>
+                  <th>
+                    FRENCH-ENGLISH
+                  </th>
+                  <th>
+                    SPECIALIZED
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>
+                    <p>
+                      <a
+                        href="http://www.collinsdictionary.com/dictionary/english-french"
+                      >
+                        Collins French-English Dictionary
+                      </a>
+                    </p>
+                    <p>
+                      <a
+                        href="https://www.larousse.fr/dictionnaires/francais"
+                      >
+                        Larousse Dictionary
+                      </a>
+                       
+                    </p>
+                    <p>
+                      <a
+                        href="http://www.wordreference.com/fren/"
+                      >
+                        Wordreference.com
+                      </a>
+                       
+                    </p>
+                    <p>
+                      <a
+                        href="http://www.lexilogos.com/french_language_dictionary.htm"
+                      >
+                        LexiLogos
+                      </a>
+                       
+                    </p>
+                  </td>
+                  <td>
+                    <p
+                      style={
+                        Object {
+                          "textAlign": "left",
+                        }
+                      }
+                    >
+                      <a
+                        href="http://www.littre.org/"
+                      >
+                        Le Dictionnaire d’Emile Littré 
+                      </a>
+                    </p>
+                    <p>
+                      <a
+                        href="https://artfl-project.uchicago.edu/content/dictionnaires-dautrefois"
+                        target="_blank"
+                      >
+                        Dictionnaires d’Autrefois (historical)
+                      </a>
+                    </p>
+                    <p>
+                      <em>
+                        <a
+                          href="http://www.crisco.unicaen.fr/des/"
+                        >
+                          <em>
+                            Crisco Thesaurus
+                          </em>
+                        </a>
+                      </em>
+                    </p>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <h3>
+              Grammar Links
+            </h3>
+            <ul>
+              <li>
+                Conjugation: 
+                <a
+                  href="http://leconjugueur.lefigaro.fr/"
+                >
+                  http://leconjugueur.lefigaro.fr/
+                </a>
+                 
+              </li>
+              <li>
+                Conjugation: 
+                <a
+                  href="http://www.laits.utexas.edu/fi/vcr/"
+                >
+                  http://www.laits.utexas.edu/fi/vcr/
+                </a>
+              </li>
+            </ul>
+            <h3>
+              Fun with French
+            </h3>
+            <ul>
+              <li>
+                Alliance Française de Baltimore (
+                <a
+                  href="https://afbaltimore.org/"
+                >
+                  French Courses and Culture
+                </a>
+                )
+              </li>
+              <li>
+                Ambassade de France à Washington (
+                <a
+                  href="https://franceintheus.org/"
+                >
+                  French Embassy
+                </a>
+                ) 
+              </li>
+              <li>
+                <em>
+                  Cuisine à la française
+                </em>
+                 (
+                <a
+                  href="http://www.cuisinealafrancaise.com/fr"
+                >
+                  culinary magazine
+                </a>
+                )
+              </li>
+              <li>
+                <em>
+                  Marmiton
+                </em>
+                 (
+                <a
+                  href="https://www.marmiton.org/"
+                >
+                  culinary website
+                </a>
+                ) 
+              </li>
+              <li>
+                Le Puy du Fou: named Best amusement park in the World! (
+                <a
+                  href="http://www.puydufou.com/"
+                >
+                  park website
+                </a>
+                )
+              </li>
+              <li>
+                Le Futuroscope (
+                <a
+                  href="http://www.futuroscope.com/"
+                >
+                  amusement park website
+                </a>
+                )
+              </li>
+            </ul>
+          </div>
+        </div>
+         
+      </section>
+       
+      <section
+        id="more_info"
+      >
+        <aside
+          className="feature green"
+        >
+          <article>
+            <h2>
+              Hours of Operation
+            </h2>
+            <p>
+              Monday - Thursday: 9am - 8pm
+            </p>
+            <p>
+              Friday: 9am - 5pm
+            </p>
+            <p>
+              Saturday: Closed
+            </p>
+            <p>
+              Sunday: 2pm - 6pm
+            </p>
+          </article>
+        </aside>
+        <aside
+          className="feature blue"
+        >
+          <article>
+            <h2>
+              Contact Us
+            </h2>
+            <p>
+              Maryland Hall 443
+              <br />
+              410-617-2674
+              <br />
+              <a
+                href="mailto:loyolallc@loyola.edu"
+              >
+                loyolallc@loyola.edu
+              </a>
+            </p>
+            <p>
+               
+            </p>
+            <p>
+              <strong>
+                Kelly Keenan
+                <br />
+              </strong>
+              Director, Language Learning Center
+              <br />
+              <a
+                href="mailto:kekeenan@loyola.edu"
+              >
+                kekeenan@loyola.edu
+              </a>
+            </p>
+            <p>
+               
+            </p>
+            <p>
+              <strong>
+                Student Supervisors (2022-2023)
+              </strong>
+               
+              <br />
+              Bill Bruno ('23)
+              <br />
+              Grace Potter ('23)
+            </p>
+          </article>
+        </aside>
+        <div
+          className="genPortlet"
+        >
+          <p>
+            <a
+              className="btn jade_green"
+              href="/academics/modern-languages"
+            >
+              Modern Languages Website
+            </a>
+          </p>
+        </div>
+        <div
+          className="genPortlet"
+        >
+          <a
+            className="twitter-timeline"
+            data-height={800}
+            data-width={390}
+            href="https://twitter.com/LoCo_LLC"
+          >
+            Tweets by LoCo_LLC
+          </a>
+        </div>
+      </section>
+       
+    </div>
+     
+    <footer>
+      <div
+        className="body"
+      >
+        <a
+          href="https://www.loyola.edu/"
+          id="loyola_logo"
+        >
+          <img
+            alt="Loyola logo"
+            src="/images/new-dept-template/loyola_logo.gif"
+          />
+        </a>
+        <address>
+          4501 N. Charles Street, Baltimore, MD 21210
+          <br />
+          410-617-2000 | Weather Line: 410-617-2223
+        </address>
+      </div>
+      <div
+        className="footer_bottom"
+      >
+        <div
+          className="body"
+        >
+          Copyright © 2023 Loyola University Maryland. All rights reserved. 
+          <a
+            href="/about/privacy-policy"
+          >
+            Privacy Policy
+          </a>
+          <a
+            href="/department/consumer-information"
+          >
+            Consumer Information
+          </a>
+          <a
+            href="/about/accessibility"
+          >
+            Accessibility
+          </a>
+        </div>
+      </div>
+    </footer>
+  </form>
+</div>
+`;
+
+exports[`German Resource Page 1`] = `
+<div>
+  <meta
+    charSet="UTF-8"
+  />
+  <meta
+    content="width=device-width, initial-scale=1"
+    name="viewport"
+  />
+  <meta
+    content="IE=edge"
+    httpEquiv="X-UA-Compatible"
+  />
+  <title>
+    German - Resources - Language Learning Center - Loyola University Maryland
+  </title>
+  <link
+    href="/~/media/utility/css/department/dept1.2.min.css?v=20221128-2"
+    rel="stylesheet"
+    type="text/css"
+  />
+  <link
+    href="https://cloud.typography.com/6944232/7455412/css/fonts.css"
+    rel="stylesheet"
+    type="text/css"
+  />
+  <style
+    dangerouslySetInnerHTML={
+      Object {
+        "__html": "
+/* Temporary solution to fix form scrolling until next update is live */
+.scfForm { height: auto !important; }
+",
+      }
+    }
+  />
+  <meta
+    name="keywords"
+  />
+  <meta
+    content="View resources on the German language provided by Loyola University Maryland's Language Learning Center."
+    name="description"
+  />
+  <form
+    action="/department/language-learning-center/resources/german"
+    id="form1"
+    method="post"
+  >
+    <div
+      className="aspNetHidden"
+    >
+      <input
+        defaultValue="/wEPDwULLTE1ODg5Mjg2NzcPFgIeE1ZhbGlkYXRlUmVxdWVzdE1vZGUCARYIZg8WAh4EVGV4dAUjPCFET0NUWVBFIGh0bWw+DQo8aHRtbCBsYW5nPSJlbiI+DQpkAgIPZBYEAgEPFgIfAQWaATxtZXRhIGNoYXJzZXQ9IlVURi04Ij4NCjxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsIGluaXRpYWwtc2NhbGU9MSI+IA0KPG1ldGEgaHR0cC1lcXVpdj0iWC1VQS1Db21wYXRpYmxlIiBjb250ZW50PSJJRT1lZGdlIiAvPg0KDQpkAgUPFgIfAQWLBjxsaW5rIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIGhyZWY9Ii9+L21lZGlhL3V0aWxpdHkvY3NzL2RlcGFydG1lbnQvZGVwdDEuMi5taW4uY3NzP3Y9MjAyMjExMjgtMiI+DQo8bGluayByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiBocmVmPSJodHRwczovL2Nsb3VkLnR5cG9ncmFwaHkuY29tLzY5NDQyMzIvNzQ1NTQxMi9jc3MvZm9udHMuY3NzIiAvPg0KDQo8c3R5bGU+DQovKiBUZW1wb3Jhcnkgc29sdXRpb24gdG8gZml4IGZvcm0gc2Nyb2xsaW5nIHVudGlsIG5leHQgdXBkYXRlIGlzIGxpdmUgKi8NCi5zY2ZGb3JtIHsgaGVpZ2h0OiBhdXRvICFpbXBvcnRhbnQ7IH0NCjwvc3R5bGU+DQoNCjwhLS0gR29vZ2xlIFRhZyBNYW5hZ2VyIC0tPg0KPHNjcmlwdD4oZnVuY3Rpb24odyxkLHMsbCxpKXt3W2xdPXdbbF18fFtdO3dbbF0ucHVzaCh7J2d0bS5zdGFydCc6DQpuZXcgRGF0ZSgpLmdldFRpbWUoKSxldmVudDonZ3RtLmpzJ30pO3ZhciBmPWQuZ2V0RWxlbWVudHNCeVRhZ05hbWUocylbMF0sDQpqPWQuY3JlYXRlRWxlbWVudChzKSxkbD1sIT0nZGF0YUxheWVyJz8nJmw9JytsOicnO2ouYXN5bmM9dHJ1ZTtqLnNyYz0NCidodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbS9ndG0uanM/aWQ9JytpK2RsO2YucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoaixmKTsNCn0pKHdpbmRvdyxkb2N1bWVudCwnc2NyaXB0JywnZGF0YUxheWVyJywnR1RNLU1TQ0ZGSCcpOzwvc2NyaXB0Pg0KPCEtLSBFbmQgR29vZ2xlIFRhZyBNYW5hZ2VyIC0tPg0KZAIEDxYCHwEFBjxib2R5PmQCCBBkZBYCAgEPZBYCZg9kFgJmD2QWDmYPFgIfAQUYTGFuZ3VhZ2UgTGVhcm5pbmcgQ2VudGVyZAIBDw8WAh4LTmF2aWdhdGVVcmwFJC9kZXBhcnRtZW50L2xhbmd1YWdlLWxlYXJuaW5nLWNlbnRlcmRkAgIPDxYCHwIFJC9kZXBhcnRtZW50L2xhbmd1YWdlLWxlYXJuaW5nLWNlbnRlcmRkAgMPFgIeC18hSXRlbUNvdW50AgUWCmYPZBYEAgEPFgIfAQVMPGEgaHJlZj0iL2RlcGFydG1lbnQvbGFuZ3VhZ2UtbGVhcm5pbmctY2VudGVyL2ZhY3VsdHkiID5GYWN1bHR5IFNlcnZpY2VzPC9hPmQCAw8WAh8DAv////8PZAIBD2QWBAIBDxYCHwEFTTxhIGhyZWY9Ii9kZXBhcnRtZW50L2xhbmd1YWdlLWxlYXJuaW5nLWNlbnRlci9zdHVkZW50cyIgPlN0dWRlbnQgU2VydmljZXM8L2E+ZAIDDxYCHwMC/////w9kAgIPZBYEAgEPFgIfAQVOPGEgaHJlZj0iL2RlcGFydG1lbnQvbGFuZ3VhZ2UtbGVhcm5pbmctY2VudGVyL2NhbGVuZGFyIiA+Q2FsZW5kYXIgJiBFdmVudHM8L2E+ZAIDDxYCHwMC/////w9kAgMPZBYEAgEPFgIfAQVRPGEgaHJlZj0iL2RlcGFydG1lbnQvbGFuZ3VhZ2UtbGVhcm5pbmctY2VudGVyL2NhdGFsb2ciID5MTEMgTWF0ZXJpYWxzIENhdGFsb2c8L2E+ZAIDDxYCHwMC/////w9kAgQPZBYEAgEPFgIfAQVHPGEgaHJlZj0iL2RlcGFydG1lbnQvbGFuZ3VhZ2UtbGVhcm5pbmctY2VudGVyL3Jlc291cmNlcyIgPlJlc291cmNlczwvYT5kAgMPFgIfAwL/////D2QCBQ9kFgJmDxYCHwMCAxYGZg9kFgQCAw8WAh4HVmlzaWJsZWhkAgUPDxYEHwEFBEhvbWUfAgUkL2RlcGFydG1lbnQvbGFuZ3VhZ2UtbGVhcm5pbmctY2VudGVyZGQCAQ9kFgQCAw8WAh8EaGQCBQ8PFgQfAQUJUmVzb3VyY2VzHwIFLi9kZXBhcnRtZW50L2xhbmd1YWdlLWxlYXJuaW5nLWNlbnRlci9yZXNvdXJjZXNkZAICD2QWBgIBDxYCHwEFGTxsaSBjbGFzcz0iY3VycmVudF9wYWdlIj5kAgMPFgIfAQUQR2VybWFuIFJlc291cmNlc2QCBQ8PFgYfAQUQR2VybWFuIFJlc291cmNlcx8CBTUvZGVwYXJ0bWVudC9sYW5ndWFnZS1sZWFybmluZy1jZW50ZXIvcmVzb3VyY2VzL2dlcm1hbh8EaGRkAgcPFgIfAQUpPGgxIGlkPSJwYWdlX3RpdGxlIj5HZXJtYW4gUmVzb3VyY2VzPC9oMT5kAgoPFgIfBGhkZLOGRUDsyXrmpVWB8LMC+tREd7RS"
+        id="__VIEWSTATE"
+        name="__VIEWSTATE"
+        type="hidden"
+      />
+    </div>
+    <div
+      className="aspNetHidden"
+    >
+      <input
+        defaultValue="52DEDB11"
+        id="__VIEWSTATEGENERATOR"
+        name="__VIEWSTATEGENERATOR"
+        type="hidden"
+      />
+    </div>
+    <header>
+      <div
+        id="skip_to_content"
+      >
+        <a
+          href="#content"
+        >
+          Skip to main content
+        </a>
+      </div>
+      <section
+        className="body"
+        id="logo_name"
+      >
+        <a
+          href="https://www.loyola.edu/"
+          id="loyola_u"
+        >
+          Loyola University Maryland
+        </a>
+        <h1
+          id="site_name"
+        >
+          Language Learning Center
+        </h1>
+        <ul
+          id="utility_links"
+        >
+          <li>
+            <a
+              href="https://www.loyola.edu"
+            >
+              Loyola.edu
+            </a>
+          </li>
+        </ul>
+      </section>
+      <nav
+        id="main"
+      >
+        <div
+          id="mobile_menu"
+        >
+          <a
+            href="/department/language-learning-center"
+            id="body_0_lnkMobileHomeBtn"
+          >
+            Home
+          </a>
+           
+          <a
+            href="#"
+            id="show_menu"
+          >
+            <img
+              alt="Menu"
+              src="/images/new-dept-template/mobile_menu.png"
+            />
+          </a>
+        </div>
+         
+        <div
+          className="menu body"
+        >
+          <ul
+            className="sf-menu clearfix"
+          >
+            <li
+              id="home"
+            >
+              <a
+                href="/department/language-learning-center"
+                id="body_0_lnkHomeBtn"
+              >
+                Home
+                <img
+                  alt="Home Icon"
+                  src="/images/new-dept-template/home_btn.png"
+                />
+              </a>
+            </li>
+            <li>
+              <a
+                href="/department/language-learning-center/faculty"
+              >
+                Faculty Services
+              </a>
+            </li>
+            <li>
+              <a
+                href="/department/language-learning-center/students"
+              >
+                Student Services
+              </a>
+            </li>
+            <li>
+              <a
+                href="/department/language-learning-center/calendar"
+              >
+                Calendar & Events
+              </a>
+            </li>
+            <li>
+              <a
+                href="/department/language-learning-center/catalog"
+              >
+                LLC Materials Catalog
+              </a>
+            </li>
+            <li>
+              <a
+                href="/department/language-learning-center/resources"
+              >
+                Resources
+              </a>
+            </li>
+          </ul>
+        </div>
+         
+      </nav>
+    </header>
+    <div
+      className="clear"
+    />
+    <div
+      className="body"
+      id="breadcrumb_social"
+    >
+      <ul
+        id="breadcrumb"
+      >
+        <li>
+          <a
+            href="/department/language-learning-center"
+            id="body_0_breadcrumb_rptBreadcrumbs_lnkBreadcrumbLink_0"
+          >
+            Home
+          </a>
+        </li>
+        <li>
+          <a
+            href="/department/language-learning-center/resources"
+            id="body_0_breadcrumb_rptBreadcrumbs_lnkBreadcrumbLink_1"
+          >
+            Resources
+          </a>
+        </li>
+        <li
+          className="current_page"
+        >
+          German Resources
+        </li>
+      </ul>
+      <ul
+        id="social"
+      >
+        <li>
+          <a
+            href="https://twitter.com/LoCo_LLC"
+            target="_blank"
+          >
+            <img
+              alt="Twitter"
+              src="/-/media/utility/images/common/social_media/sm_twitter_svg.ashx"
+            />
+          </a>
+        </li>
+      </ul>
+    </div>
+     
+    <div
+      className="body"
+      id="container"
+    >
+      <section
+        id="content"
+      >
+        <h1
+          id="page_title"
+        >
+          German Resources
+        </h1>
+        <div
+          id="text"
+        >
+          <div
+            className="genContent"
+            id="ctl1"
+          >
+            <h2
+              style={
+                Object {
+                  "textAlign": "left",
+                }
+              }
+            >
+              German Language and Culture
+            </h2>
+            <h2>
+              Print News Media in German
+            </h2>
+            <h3>
+              Germany (Deutschland)
+            </h3>
+            <ul>
+              <li>
+                <em>
+                  Die Welt 
+                </em>
+                (
+                <a
+                  href="http://www.welt.de"
+                  target="_blank"
+                >
+                  newspaper website
+                </a>
+                )
+              </li>
+              <li>
+                <em>
+                  Der Spiegel 
+                </em>
+                (
+                <a
+                  href="http://www.spiegel.de"
+                  target="_blank"
+                >
+                  magazine website
+                </a>
+                )
+              </li>
+              <li>
+                <em>
+                  Die Zeit 
+                </em>
+                (
+                <a
+                  href="http://www.zeit.de"
+                  target="_blank"
+                >
+                  weekly German newspaper website
+                </a>
+                )
+              </li>
+            </ul>
+            <h3>
+              Austria (Österreich)
+            </h3>
+            <ul>
+              <li>
+                <em>
+                  Wiener Zeitung
+                </em>
+                 (
+                <a
+                  href="http://www.wienerzeitung.at/"
+                  target="_blank"
+                >
+                  newspaper website
+                </a>
+                )
+              </li>
+              <li>
+                <em>
+                  Kurier
+                </em>
+                 (
+                <a
+                  href="http://kurier.at/"
+                  target="_blank"
+                >
+                  newspaper website
+                </a>
+                )
+              </li>
+            </ul>
+            <h3>
+              Switzerland (Die Schweiz)
+            </h3>
+            <ul>
+              <li>
+                <em>
+                  Neue Zürcher Zeitung
+                </em>
+                 (
+                <a
+                  href="http://www.nzz.ch/"
+                  target="_blank"
+                >
+                  newspaper website
+                </a>
+                )
+              </li>
+            </ul>
+            <h2>
+              Multimedia German Resources
+            </h2>
+            <h3>
+              Germany (Deutschland)
+            </h3>
+            <ul>
+              <li>
+                <em>
+                  ZDF
+                </em>
+                 (
+                <a
+                  href="http://www.zdf.de/ZDFmediathek#/hauptnavigation/startseite"
+                  target="_blank"
+                >
+                  Mediathek
+                </a>
+                <a
+                  href="http://www.zdf.de/ZDFmediathek#/hauptnavigation/startseite"
+                  target="_blank"
+                >
+                   with streaming 
+                </a>
+                <a
+                  href="http://www.zdf.de/ZDFmediathek#/hauptnavigation/startseite"
+                  target="_blank"
+                >
+                  video
+                </a>
+                ) 
+              </li>
+              <li>
+                Learn Out Live: 7 German TV Series that you can stream (
+                <a
+                  href="http://learnoutlive.com/german-tv-series-language-learners/"
+                  target="_blank"
+                >
+                  streaming video links
+                </a>
+                )
+              </li>
+            </ul>
+            <h2>
+              Learn German!
+            </h2>
+            <h3>
+              Dictionaries
+            </h3>
+            <ul>
+              <li>
+                <a
+                  href="http://dict.leo.org/ende/index_de.html"
+                  target="_blank"
+                >
+                  LEO Online German-English Dictionary
+                </a>
+              </li>
+              <li>
+                <a
+                  href="http://www.dict.cc/"
+                  target="_blank"
+                >
+                  dict.cc (Deutsch-Englisch / German-English)
+                </a>
+              </li>
+              <li>
+                <a
+                  href="http://dwb.uni-trier.de/de/"
+                  target="_blank"
+                >
+                  Der digitale Grimm Wörterbuch (in German)
+                </a>
+              </li>
+            </ul>
+            <h3>
+              German at Loyola University Maryland
+            </h3>
+            <ul>
+              <li>
+                German Courses at Loyola University Maryland (
+                <a
+                  href="https://www.loyola.edu/department/records/catalogues"
+                >
+                  university course listings website
+                </a>
+                )
+              </li>
+              <li>
+                <strong>
+                  German Club
+                </strong>
+                 
+                <a
+                  href="https://www.loyola.edu/department/language-learning-center/calendar"
+                >
+                  Events Calendar
+                </a>
+              </li>
+              <li>
+                International Programs
+                <ul>
+                  <li>
+                    <a
+                      href="/department/international-programs/locations/programs/berlin"
+                    >
+                      Study Abroad in Berlin, Germany
+                    </a>
+                     
+                  </li>
+                  <li>
+                    Freie Universität Berlin (
+                    <a
+                      href="http://www.fu-berlin.de/en/sites/fubest/index.html"
+                    >
+                      FU-BEST
+                    </a>
+                    ) 
+                  </li>
+                </ul>
+              </li>
+            </ul>
+            <h3>
+              Fun With German
+            </h3>
+            <ul>
+              <li>
+                Learn German with 
+                <em>
+                  Deutsche Welle
+                </em>
+                 German Resources ["
+                <a
+                  href="http://www.dw.com/de/deutsch-lernen/deutschkurse/s-2068"
+                  target="_blank"
+                >
+                  Deutsch Lernen
+                </a>
+                "]
+              </li>
+              <li>
+                <a
+                  href="https://coerll.utexas.edu/gg/"
+                >
+                  Grimm Grammar
+                </a>
+                 (grammar lessons and exercises based on Grimm's fairy tales from University of Texas Austin)
+              </li>
+              <li>
+                <a
+                  href="https://www.goethe.de/de/index.html"
+                  target="_blank"
+                >
+                  Goethe Institut
+                </a>
+                (internationally recognized authority on German language and language education)   
+                <ul>
+                  <li>
+                    <a
+                      href="http://www.goethe.de/ins/us/was/enindex.htm?wt_sc=washington_"
+                      target="_blank"
+                    >
+                      Goethe Institute, Washington DC
+                    </a>
+                     [Includes Upcoming Events, Classes, and Additional Resources]
+                  </li>
+                  <li>
+                    <a
+                      href="http://www.goethe.de/ins/us/saf/prj/stg/enindex.htm?wt_sc=stepintogerman.org"
+                      target="_blank"
+                    >
+                      Step Into German (soccer, music, film)
+                    </a>
+                     [Includes Teaching Resources and Lesson Plans]
+                  </li>
+                  <li>
+                    <a
+                      href="https://www.goethe.de/de/spr/ueb/dlb.html"
+                    >
+                      Deutschland Labor
+                    </a>
+                     [Includes brief videos and worksheets about German culture in German]
+                  </li>
+                </ul>
+                <p>
+                   
+                </p>
+              </li>
+            </ul>
+            <p>
+               
+            </p>
+          </div>
+        </div>
+         
+      </section>
+       
+      <section
+        id="more_info"
+      >
+        <aside
+          className="feature green"
+        >
+          <article>
+            <h2>
+              Hours of Operation
+            </h2>
+            <p>
+              Monday - Thursday: 9am - 8pm
+            </p>
+            <p>
+              Friday: 9am - 5pm
+            </p>
+            <p>
+              Saturday: Closed
+            </p>
+            <p>
+              Sunday: 2pm - 6pm
+            </p>
+          </article>
+        </aside>
+        <aside
+          className="feature blue"
+        >
+          <article>
+            <h2>
+              Contact Us
+            </h2>
+            <p>
+              Maryland Hall 443
+              <br />
+              410-617-2674
+              <br />
+              <a
+                href="mailto:loyolallc@loyola.edu"
+              >
+                loyolallc@loyola.edu
+              </a>
+            </p>
+            <p>
+               
+            </p>
+            <p>
+              <strong>
+                Kelly Keenan
+                <br />
+              </strong>
+              Director, Language Learning Center
+              <br />
+              <a
+                href="mailto:kekeenan@loyola.edu"
+              >
+                kekeenan@loyola.edu
+              </a>
+            </p>
+            <p>
+               
+            </p>
+            <p>
+              <strong>
+                Student Supervisors (2022-2023)
+              </strong>
+               
+              <br />
+              Bill Bruno ('23)
+              <br />
+              Grace Potter ('23)
+            </p>
+          </article>
+        </aside>
+        <div
+          className="genPortlet"
+        >
+          <p>
+            <a
+              className="btn jade_green"
+              href="/academics/modern-languages"
+            >
+              Modern Languages Website
+            </a>
+          </p>
+        </div>
+        <div
+          className="genPortlet"
+        >
+          <a
+            className="twitter-timeline"
+            data-height={800}
+            data-width={390}
+            href="https://twitter.com/LoCo_LLC"
+          >
+            Tweets by LoCo_LLC
+          </a>
+        </div>
+      </section>
+       
+    </div>
+     
+    <footer>
+      <div
+        className="body"
+      >
+        <a
+          href="https://www.loyola.edu/"
+          id="loyola_logo"
+        >
+          <img
+            alt="Loyola logo"
+            src="/images/new-dept-template/loyola_logo.gif"
+          />
+        </a>
+        <address>
+          4501 N. Charles Street, Baltimore, MD 21210
+          <br />
+          410-617-2000 | Weather Line: 410-617-2223
+        </address>
+      </div>
+      <div
+        className="footer_bottom"
+      >
+        <div
+          className="body"
+        >
+          Copyright © 2023 Loyola University Maryland. All rights reserved. 
+          <a
+            href="/about/privacy-policy"
+          >
+            Privacy Policy
+          </a>
+          <a
+            href="/department/consumer-information"
+          >
+            Consumer Information
+          </a>
+          <a
+            href="/about/accessibility"
+          >
+            Accessibility
+          </a>
+        </div>
+      </div>
+    </footer>
+  </form>
+</div>
+`;
+
+exports[`HomePage 1`] = `
+<div>
+  <div>
+    <div
+      className="container"
+    >
+      <div
+        className="row"
+      >
+        <div
+          className="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center text-center"
+        >
+          <h1>
+            The Language Learning Center Online
+          </h1>
+          <p>
+            The Language Learning Center is a multimedia resource center dedicated to supporting language, literature, and cultural studies at Loyola. Our facilities include a state of the art computer lab, two video viewing rooms, an extensive foreign language film collection, and a comfortable reading room perfect for independent study as well as group projects. 
+          </p>
+          <p>
+            The LLC, along with its friendly staff, serves as the technology hub for the Department of Modern Languages and Literatures, providing both the equipment and support to bring language studies to life using the latest technology.
+          </p>
+        </div>
+        <div
+          className="col-lg-6 order-1 order-lg-2 hero-img"
+        >
+          <img
+            alt=""
+            className="img-fluid"
+            src={Object {}}
+            style={
+              Object {
+                "height": 400,
+                "width": 1000,
+              }
+            }
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <section
+    className="about"
+    id="about"
+  >
+    <div
+      className="container"
+    >
+      <div
+        className="row"
+      >
+        <div
+          className="col-xl-5 col-lg-6 d-flex justify-content-center align-items-stretch position-relative"
+        >
+          <a
+            className="glightbox play-btn mb-4"
+            href="https://www.youtube.com/watch?v=gyMNfwfMXpQ"
+          />
+          <img
+            src={Object {}}
+          />
+        </div>
+        <div
+          className="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5"
+        >
+          <h2>
+            About the LLC
+          </h2>
+          <p>
+            Here is a short video describing student experience at the Language Learning Center.
+          </p>
+          <div
+            className="icon-box"
+          >
+            <div
+              className="icon"
+            >
+              <i
+                className="bx bx-fingerprint"
+              />
+            </div>
+            <h4
+              className="title"
+            >
+              <a
+                href={true}
+              >
+                Video Viewing Rooms
+              </a>
+            </h4>
+            <p
+              className="description"
+            >
+              Explore the Video Viewing Rooms that are available to view any film we offer at the LLC
+            </p>
+          </div>
+          <div
+            className="icon-box"
+          >
+            <div
+              className="icon"
+            >
+              <i
+                className="bx bx-gift"
+              />
+            </div>
+            <h4
+              className="title"
+            >
+              <a
+                href={true}
+              >
+                Reading Room
+              </a>
+            </h4>
+            <p
+              className="description"
+            >
+              Study, play a game, or relax in the quiet reading room
+            </p>
+          </div>
+          <div
+            className="icon-box"
+          >
+            <div
+              className="icon"
+            >
+              <i
+                className="bx bx-atom"
+              />
+            </div>
+            <h4
+              className="title"
+            >
+              <a
+                href={true}
+              >
+                Video Editing Room
+              </a>
+            </h4>
+            <p
+              className="description"
+            >
+              Watch a film or use the computers in this quiet, isolated area
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <div>
+    <section
+      className="gallery"
+      id="gallery"
+    >
+      <div
+        className="container"
+      >
+        <div
+          className="section-title"
+        >
+          <h2>
+            Gallery
+          </h2>
+          <p />
+        </div>
+        <div
+          className="row no-gutters"
+        >
+          <div
+            className="col-lg-3 col-md-4"
+          >
+            <div
+              className="gallery-item"
+            >
+              <a
+                className="galleery-lightbox"
+                data-gallery="gallery-item"
+                href={Object {}}
+              >
+                <img
+                  alt=""
+                  className="img-fluid"
+                  src={Object {}}
+                />
+              </a>
+            </div>
+          </div>
+          <div
+            className="col-lg-3 col-md-4"
+          >
+            <div
+              className="gallery-item"
+            >
+              <a
+                className="galleery-lightbox"
+                data-gallery="gallery-item"
+                href={Object {}}
+              >
+                <img
+                  alt=""
+                  className="img-fluid"
+                  src={Object {}}
+                />
+              </a>
+            </div>
+          </div>
+          <div
+            className="col-lg-3 col-md-4"
+          >
+            <div
+              className="gallery-item"
+            >
+              <a
+                className="galleery-lightbox"
+                data-gallery="gallery-item"
+                href={Object {}}
+              >
+                <img
+                  alt=""
+                  className="img-fluid"
+                  src={Object {}}
+                />
+              </a>
+            </div>
+          </div>
+          <div
+            className="col-lg-3 col-md-4"
+          >
+            <div
+              className="gallery-item"
+            >
+              <a
+                className="galleery-lightbox"
+                data-gallery="gallery-item"
+                href={Object {}}
+              >
+                <img
+                  alt=""
+                  className="img-fluid"
+                  src={Object {}}
+                />
+              </a>
+            </div>
+          </div>
+          <div
+            className="col-lg-3 col-md-4"
+          >
+            <div
+              className="gallery-item"
+            >
+              <a
+                className="galleery-lightbox"
+                data-gallery="gallery-item"
+                href={Object {}}
+              >
+                <img
+                  alt=""
+                  className="img-fluid"
+                  src={Object {}}
+                />
+              </a>
+            </div>
+          </div>
+          <div
+            className="col-lg-3 col-md-4"
+          >
+            <div
+              className="gallery-item"
+            >
+              <a
+                className="galleery-lightbox"
+                data-gallery="gallery-item"
+                href={Object {}}
+              >
+                <img
+                  alt=""
+                  className="img-fluid"
+                  src={Object {}}
+                />
+              </a>
+            </div>
+          </div>
+          <div
+            className="col-lg-3 col-md-4"
+          >
+            <div
+              className="gallery-item"
+            >
+              <a
+                className="galleery-lightbox"
+                data-gallery="gallery-item"
+                href={Object {}}
+              >
+                <img
+                  alt=""
+                  className="img-fluid"
+                  src={Object {}}
+                />
+              </a>
+            </div>
+          </div>
+          <div
+            className="col-lg-3 col-md-4"
+          >
+            <div
+              className="gallery-item"
+            >
+              <a
+                className="galleery-lightbox"
+                data-gallery="gallery-item"
+                href={Object {}}
+              >
+                <img
+                  alt=""
+                  className="img-fluid"
+                  src={Object {}}
+                />
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+  <div>
+    <footer
+      id="footer"
+    >
+      <div
+        className="footer-top"
+      >
+        <div
+          className="container"
+        >
+          <div
+            className="row"
+          >
+            <div
+              className="col-lg-3 col-md-6 footer-contact"
+            >
+              <h3>
+                LLC
+              </h3>
+              <p>
+                Maryland Hall 443 
+                <br />
+                Loyola University Maryland
+                <br />
+                Baltimore MD 21210 
+                <br />
+                <br />
+                <strong>
+                  Phone:
+                </strong>
+                 410-617-2674
+                <br />
+                <strong>
+                  Email:
+                </strong>
+                 loyolallc@loyola.edu
+                <br />
+              </p>
+            </div>
+            <div
+              className="col-lg-3 col-md-6 footer-links"
+            >
+              <h4>
+                Useful Links
+              </h4>
+              <ul>
+                <li>
+                  <i
+                    className="bx bx-chevron-right"
+                  />
+                   
+                  <a
+                    href="/"
+                  >
+                    Home
+                  </a>
+                </li>
+                <li>
+                  <i
+                    className="bx bx-chevron-right"
+                  />
+                   
+                  <a
+                    href="/login"
+                  >
+                    Login
+                  </a>
+                </li>
+                <li>
+                  <i
+                    className="bx bx-chevron-right"
+                  />
+                   
+                  <a
+                    href="/calendar"
+                  >
+                    Calendar
+                  </a>
+                </li>
+                <li>
+                  <i
+                    className="bx bx-chevron-right"
+                  />
+                   
+                  <a
+                    href="/inventory"
+                  >
+                    Inventory
+                  </a>
+                </li>
+                <i
+                  className="bx bx-chevron-right"
+                />
+                 
+                <a
+                  href="/contact"
+                >
+                  Contact Us
+                </a>
+              </ul>
+            </div>
+            <div
+              className="col-lg-3 col-md-6 footer-links"
+            >
+              <h4>
+                Our Social Networks
+              </h4>
+              <div
+                className="social-links mt-3"
+              >
+                <a
+                  aria-label="twitter"
+                  className="social-icon"
+                  href="https://twitter.com/LoCo_LLC"
+                  style={
+                    Object {
+                      "display": "inline-block",
+                      "height": "50px",
+                      "overflow": "hidden",
+                      "position": "relative",
+                      "verticalAlign": "middle",
+                      "width": "50px",
+                    }
+                  }
+                >
+                  <div
+                    className="social-container"
+                    style={
+                      Object {
+                        "height": "100%",
+                        "left": 0,
+                        "position": "absolute",
+                        "top": 0,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    <svg
+                      className="social-svg"
+                      style={
+                        Object {
+                          "borderRadius": "50%",
+                          "fillRule": "evenodd",
+                          "height": "100%",
+                          "left": 0,
+                          "position": "absolute",
+                          "top": 0,
+                          "width": "100%",
+                        }
+                      }
+                      viewBox="0 0 64 64"
+                    >
+                      <g
+                        className="social-svg-background"
+                        style={
+                          Object {
+                            "MozTransition": "fill 170ms ease-in-out",
+                            "OTransition": "fill 170ms ease-in-out",
+                            "WebkitTransition": "fill 170ms ease-in-out",
+                            "fill": "transparent",
+                            "msTransition": "fill 170ms ease-in-out",
+                            "transition": "fill 170ms ease-in-out",
+                          }
+                        }
+                      >
+                        <circle
+                          cx="32"
+                          cy="32"
+                          r="31"
+                        />
+                      </g>
+                      <g
+                        className="social-svg-icon"
+                        style={
+                          Object {
+                            "MozTransition": "fill 170ms ease-in-out",
+                            "OTransition": "fill 170ms ease-in-out",
+                            "WebkitTransition": "fill 170ms ease-in-out",
+                            "fill": "transparent",
+                            "msTransition": "fill 170ms ease-in-out",
+                            "transition": "fill 170ms ease-in-out",
+                          }
+                        }
+                      >
+                        <path
+                          d="m 48.1,22.1 c -1.223105,0.430685 -2.4,0.761371 -3.8,1 1.4,-0.8 2.4,-2.1 2.9,-3.6 -1.3,0.8 -2.7,1.3 -4.2,1.6 -1.2,-1.3 -3,-2.1 -4.8,-2.1 -3.6,0 -6.6,2.9 -6.6,6.6 0,0.5 0.1,1 0.2,1.5 -5.5,-0.3 -10.3,-2.9 -13.5,-6.9 -0.6,1 -0.9,2.1 -0.9,3.3 0,2.3 1.2,4.3 2.9,5.5 -1.1,0 -2.1,-0.3 -3,-0.8 v 0.1 c 0,3.2 2.3,5.8 5.3,6.4 -0.6,0.1 -1.1,0.2 -1.7,0.2 -0.4,0 -0.8,0 -1.2,-0.1 0.8,2.6 3.3,4.5 6.1,4.6 -2.2,1.8 -5.1,2.8 -8.2,2.8 -0.5,0 -1.1,0 -1.6,-0.1 C 18.9,44 22.4,45 26.1,45 38.2,45 44.43575,34.996634 44.67774,26.3 L 44.7,25.5 c 1.2,-1 2.5,-2.1 3.4,-3.4 z"
+                        />
+                      </g>
+                      <g
+                        className="social-svg-mask"
+                        style={
+                          Object {
+                            "MozTransition": "fill 170ms ease-in-out",
+                            "OTransition": "fill 170ms ease-in-out",
+                            "WebkitTransition": "fill 170ms ease-in-out",
+                            "fill": "#00aced",
+                            "msTransition": "fill 170ms ease-in-out",
+                            "transition": "fill 170ms ease-in-out",
+                          }
+                        }
+                      >
+                        <path
+                          d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"
+                        />
+                      </g>
+                    </svg>
+                  </div>
+                </a>
+                <a
+                  aria-label="instagram"
+                  className="social-icon"
+                  href="https://www.instagram.com/loyolallc/"
+                  style={
+                    Object {
+                      "display": "inline-block",
+                      "height": "50px",
+                      "overflow": "hidden",
+                      "position": "relative",
+                      "verticalAlign": "middle",
+                      "width": "50px",
+                    }
+                  }
+                >
+                  <div
+                    className="social-container"
+                    style={
+                      Object {
+                        "height": "100%",
+                        "left": 0,
+                        "position": "absolute",
+                        "top": 0,
+                        "width": "100%",
+                      }
+                    }
+                  >
+                    <svg
+                      className="social-svg"
+                      style={
+                        Object {
+                          "borderRadius": "50%",
+                          "fillRule": "evenodd",
+                          "height": "100%",
+                          "left": 0,
+                          "position": "absolute",
+                          "top": 0,
+                          "width": "100%",
+                        }
+                      }
+                      viewBox="0 0 64 64"
+                    >
+                      <g
+                        className="social-svg-background"
+                        style={
+                          Object {
+                            "MozTransition": "fill 170ms ease-in-out",
+                            "OTransition": "fill 170ms ease-in-out",
+                            "WebkitTransition": "fill 170ms ease-in-out",
+                            "fill": "transparent",
+                            "msTransition": "fill 170ms ease-in-out",
+                            "transition": "fill 170ms ease-in-out",
+                          }
+                        }
+                      >
+                        <circle
+                          cx="32"
+                          cy="32"
+                          r="31"
+                        />
+                      </g>
+                      <g
+                        className="social-svg-icon"
+                        style={
+                          Object {
+                            "MozTransition": "fill 170ms ease-in-out",
+                            "OTransition": "fill 170ms ease-in-out",
+                            "WebkitTransition": "fill 170ms ease-in-out",
+                            "fill": "transparent",
+                            "msTransition": "fill 170ms ease-in-out",
+                            "transition": "fill 170ms ease-in-out",
+                          }
+                        }
+                      >
+                        <path
+                          d="M 39.88,25.89 C 40.86,25.89 41.65,25.10 41.65,24.12 41.65,23.14 40.86,22.35 39.88,22.35 38.90,22.35 38.11,23.14 38.11,24.12 38.11,25.10 38.90,25.89 39.88,25.89 Z M 32.00,24.42 C 27.82,24.42 24.42,27.81 24.42,32.00 24.42,36.19 27.82,39.58 32.00,39.58 36.18,39.58 39.58,36.18 39.58,32.00 39.58,27.82 36.18,24.42 32.00,24.42 Z M 32.00,36.92 C 29.28,36.92 27.08,34.72 27.08,32.00 27.08,29.28 29.28,27.08 32.00,27.08 34.72,27.08 36.92,29.28 36.92,32.00 36.92,34.72 34.72,36.92 32.00,36.92 Z M 32.00,19.90 C 35.94,19.90 36.41,19.92 37.96,19.99 39.41,20.05 40.19,20.29 40.71,20.50 41.40,20.77 41.89,21.08 42.41,21.60 42.92,22.12 43.24,22.61 43.51,23.30 43.71,23.82 43.95,24.60 44.02,26.04 44.09,27.60 44.11,28.06 44.11,32.01 44.11,35.95 44.09,36.41 44.02,37.97 43.95,39.41 43.71,40.19 43.51,40.71 43.24,41.40 42.92,41.90 42.41,42.41 41.89,42.93 41.40,43.25 40.71,43.51 40.19,43.71 39.41,43.96 37.96,44.02 36.41,44.09 35.94,44.11 32.00,44.11 28.06,44.11 27.59,44.09 26.04,44.02 24.59,43.96 23.81,43.72 23.29,43.51 22.60,43.24 22.11,42.93 21.59,42.41 21.08,41.90 20.76,41.40 20.49,40.71 20.29,40.19 20.05,39.41 19.98,37.97 19.91,36.41 19.89,35.95 19.89,32.01 19.89,28.06 19.91,27.60 19.98,26.04 20.05,24.60 20.29,23.82 20.49,23.30 20.76,22.61 21.08,22.12 21.59,21.60 22.11,21.08 22.60,20.76 23.29,20.50 23.81,20.30 24.59,20.05 26.04,19.99 27.59,19.91 28.06,19.90 32.00,19.90 Z M 32.00,17.24 C 27.99,17.24 27.49,17.26 25.91,17.33 24.34,17.40 23.27,17.65 22.33,18.01 21.36,18.39 20.54,18.90 19.72,19.72 18.90,20.54 18.39,21.37 18.01,22.33 17.65,23.27 17.40,24.34 17.33,25.92 17.26,27.49 17.24,27.99 17.24,32.00 17.24,36.01 17.26,36.51 17.33,38.09 17.40,39.66 17.65,40.73 18.01,41.67 18.39,42.65 18.90,43.47 19.72,44.29 20.54,45.11 21.37,45.61 22.33,45.99 23.27,46.36 24.34,46.61 25.92,46.68 27.49,46.75 27.99,46.77 32.01,46.77 36.02,46.77 36.52,46.75 38.09,46.68 39.66,46.61 40.74,46.36 41.68,45.99 42.65,45.62 43.47,45.11 44.29,44.29 45.11,43.47 45.62,42.64 46.00,41.67 46.36,40.74 46.61,39.66 46.68,38.09 46.75,36.51 46.77,36.01 46.77,32.00 46.77,27.99 46.75,27.49 46.68,25.91 46.61,24.34 46.36,23.27 46.00,22.33 45.62,21.35 45.11,20.53 44.29,19.71 43.47,18.89 42.65,18.39 41.68,18.01 40.74,17.64 39.67,17.39 38.09,17.32 36.51,17.26 36.01,17.24 32.00,17.24 Z"
+                        />
+                      </g>
+                      <g
+                        className="social-svg-mask"
+                        style={
+                          Object {
+                            "MozTransition": "fill 170ms ease-in-out",
+                            "OTransition": "fill 170ms ease-in-out",
+                            "WebkitTransition": "fill 170ms ease-in-out",
+                            "fill": "#e94475",
+                            "msTransition": "fill 170ms ease-in-out",
+                            "transition": "fill 170ms ease-in-out",
+                          }
+                        }
+                      >
+                        <path
+                          d="M0,0v64h64V0H0z M 42.03,23.99 C 42.03,24.99 41.22,25.79 40.23,25.79 39.23,25.79 38.43,24.99 38.43,23.99 38.43,22.99 39.23,22.19 40.23,22.19 41.22,22.19 42.03,22.99 42.03,23.99 Z M 24.52,31.99 C 24.52,27.74 27.97,24.29 32.22,24.29 36.47,24.29 39.92,27.75 39.92,31.99 39.92,36.24 36.47,39.70 32.22,39.70 27.97,39.70 24.52,36.25 24.52,31.99 Z M 27.22,31.99 C 27.22,34.76 29.46,36.99 32.22,36.99 34.98,36.99 37.22,34.76 37.22,31.99 37.22,29.23 34.98,27.00 32.22,27.00 29.46,27.00 27.22,29.23 27.22,31.99 Z M 38.28,19.79 C 36.70,19.72 36.22,19.70 32.22,19.70 28.22,19.70 27.74,19.71 26.17,19.79 24.69,19.85 23.90,20.11 23.37,20.31 22.67,20.58 22.17,20.90 21.65,21.43 21.13,21.96 20.80,22.46 20.53,23.16 20.33,23.68 20.08,24.48 20.01,25.94 19.94,27.52 19.92,27.99 19.92,32.01 19.92,36.01 19.94,36.48 20.01,38.06 20.08,39.52 20.33,40.32 20.53,40.84 20.80,41.54 21.13,42.05 21.65,42.57 22.17,43.10 22.67,43.41 23.37,43.69 23.90,43.90 24.69,44.15 26.17,44.21 27.74,44.28 28.22,44.30 32.22,44.30 36.22,44.30 36.70,44.28 38.28,44.21 39.75,44.15 40.54,43.89 41.07,43.69 41.77,43.42 42.27,43.10 42.80,42.57 43.32,42.05 43.64,41.54 43.91,40.84 44.12,40.32 44.36,39.52 44.43,38.06 44.50,36.48 44.52,36.01 44.52,32.01 44.52,27.99 44.50,27.52 44.43,25.94 44.36,24.48 44.12,23.68 43.91,23.16 43.64,22.46 43.32,21.96 42.80,21.43 42.27,20.90 41.77,20.59 41.07,20.31 40.54,20.10 39.75,19.85 38.28,19.79 Z M 26.03,17.09 C 27.64,17.02 28.15,17.00 32.22,17.00 36.27,17.00 36.80,17.02 38.38,17.08 38.38,17.08 38.41,17.08 38.41,17.08 40.01,17.15 41.10,17.41 42.06,17.78 43.04,18.17 43.87,18.68 44.71,19.51 45.54,20.34 46.06,21.18 46.44,22.17 46.81,23.13 47.06,24.21 47.14,25.81 47.21,27.41 47.23,27.92 47.23,31.99 47.23,36.07 47.21,36.58 47.14,38.18 47.06,39.78 46.81,40.87 46.44,41.82 46.06,42.80 45.54,43.65 44.71,44.48 43.87,45.31 43.04,45.83 42.06,46.21 41.10,46.58 40.00,46.84 38.41,46.91 36.81,46.98 36.31,47.00 32.23,47.00 28.15,47.00 27.64,46.98 26.04,46.91 24.44,46.84 23.35,46.58 22.40,46.21 21.42,45.82 20.58,45.31 19.75,44.48 18.91,43.65 18.39,42.81 18.01,41.82 17.64,40.86 17.39,39.78 17.32,38.18 17.25,36.58 17.23,36.07 17.23,31.99 17.23,27.92 17.25,27.41 17.32,25.82 17.39,24.21 17.64,23.13 18.01,22.17 18.39,21.20 18.91,20.35 19.75,19.52 20.58,18.69 21.41,18.17 22.40,17.78 23.35,17.42 24.44,17.16 26.03,17.09 Z"
+                        />
+                      </g>
+                    </svg>
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="container py-4"
+      >
+        <div
+          className="copyright"
+        >
+          © Copyright 
+          <strong>
+            <span>
+              Butterfly
+            </span>
+          </strong>
+          . All Rights Reserved
+        </div>
+        <div
+          className="credits"
+        >
+          All the links in the footer should remain intact. You can delete the links only if you purchased the pro version. */ Licensing information: https://bootstrapmade.com/license/ */ Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/butterfly-free-bootstrap-theme/ Designed by 
+          <a
+            href="https://bootstrapmade.com/"
+          >
+            BootstrapMade
+          </a>
+        </div>
+      </div>
+    </footer>
+  </div>
+</div>
+`;
+
+exports[`Italian Resource Page 1`] = `
+<div>
+  <meta
+    charSet="UTF-8"
+  />
+  <meta
+    content="width=device-width, initial-scale=1"
+    name="viewport"
+  />
+  <meta
+    content="IE=edge"
+    httpEquiv="X-UA-Compatible"
+  />
+  <title>
+    Italian - Resources - Language Learning Center - Loyola University Maryland
+  </title>
+  <link
+    href="/~/media/utility/css/department/dept1.2.min.css?v=20221128-2"
+    rel="stylesheet"
+    type="text/css"
+  />
+  <link
+    href="https://cloud.typography.com/6944232/7455412/css/fonts.css"
+    rel="stylesheet"
+    type="text/css"
+  />
+  <style
+    dangerouslySetInnerHTML={
+      Object {
+        "__html": "
+/* Temporary solution to fix form scrolling until next update is live */
+.scfForm { height: auto !important; }
+",
+      }
+    }
+  />
+  <meta
+    name="keywords"
+  />
+  <meta
+    content="View resources on the Italian language provided by Loyola University Maryland's Language Learning Center."
+    name="description"
+  />
+  <form
+    action="/department/language-learning-center/resources/italian"
+    id="form1"
+    method="post"
+  >
+    <div
+      className="aspNetHidden"
+    >
+      <input
+        defaultValue="/wEPDwULLTE1ODg5Mjg2NzcPFgIeE1ZhbGlkYXRlUmVxdWVzdE1vZGUCARYIZg8WAh4EVGV4dAUjPCFET0NUWVBFIGh0bWw+DQo8aHRtbCBsYW5nPSJlbiI+DQpkAgIPZBYEAgEPFgIfAQWaATxtZXRhIGNoYXJzZXQ9IlVURi04Ij4NCjxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsIGluaXRpYWwtc2NhbGU9MSI+IA0KPG1ldGEgaHR0cC1lcXVpdj0iWC1VQS1Db21wYXRpYmxlIiBjb250ZW50PSJJRT1lZGdlIiAvPg0KDQpkAgUPFgIfAQWLBjxsaW5rIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIGhyZWY9Ii9+L21lZGlhL3V0aWxpdHkvY3NzL2RlcGFydG1lbnQvZGVwdDEuMi5taW4uY3NzP3Y9MjAyMjExMjgtMiI+DQo8bGluayByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiBocmVmPSJodHRwczovL2Nsb3VkLnR5cG9ncmFwaHkuY29tLzY5NDQyMzIvNzQ1NTQxMi9jc3MvZm9udHMuY3NzIiAvPg0KDQo8c3R5bGU+DQovKiBUZW1wb3Jhcnkgc29sdXRpb24gdG8gZml4IGZvcm0gc2Nyb2xsaW5nIHVudGlsIG5leHQgdXBkYXRlIGlzIGxpdmUgKi8NCi5zY2ZGb3JtIHsgaGVpZ2h0OiBhdXRvICFpbXBvcnRhbnQ7IH0NCjwvc3R5bGU+DQoNCjwhLS0gR29vZ2xlIFRhZyBNYW5hZ2VyIC0tPg0KPHNjcmlwdD4oZnVuY3Rpb24odyxkLHMsbCxpKXt3W2xdPXdbbF18fFtdO3dbbF0ucHVzaCh7J2d0bS5zdGFydCc6DQpuZXcgRGF0ZSgpLmdldFRpbWUoKSxldmVudDonZ3RtLmpzJ30pO3ZhciBmPWQuZ2V0RWxlbWVudHNCeVRhZ05hbWUocylbMF0sDQpqPWQuY3JlYXRlRWxlbWVudChzKSxkbD1sIT0nZGF0YUxheWVyJz8nJmw9JytsOicnO2ouYXN5bmM9dHJ1ZTtqLnNyYz0NCidodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbS9ndG0uanM/aWQ9JytpK2RsO2YucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoaixmKTsNCn0pKHdpbmRvdyxkb2N1bWVudCwnc2NyaXB0JywnZGF0YUxheWVyJywnR1RNLU1TQ0ZGSCcpOzwvc2NyaXB0Pg0KPCEtLSBFbmQgR29vZ2xlIFRhZyBNYW5hZ2VyIC0tPg0KZAIEDxYCHwEFBjxib2R5PmQCCBBkZBYCAgEPZBYCZg9kFgJmD2QWDmYPFgIfAQUYTGFuZ3VhZ2UgTGVhcm5pbmcgQ2VudGVyZAIBDw8WAh4LTmF2aWdhdGVVcmwFJC9kZXBhcnRtZW50L2xhbmd1YWdlLWxlYXJuaW5nLWNlbnRlcmRkAgIPDxYCHwIFJC9kZXBhcnRtZW50L2xhbmd1YWdlLWxlYXJuaW5nLWNlbnRlcmRkAgMPFgIeC18hSXRlbUNvdW50AgUWCmYPZBYEAgEPFgIfAQVMPGEgaHJlZj0iL2RlcGFydG1lbnQvbGFuZ3VhZ2UtbGVhcm5pbmctY2VudGVyL2ZhY3VsdHkiID5GYWN1bHR5IFNlcnZpY2VzPC9hPmQCAw8WAh8DAv////8PZAIBD2QWBAIBDxYCHwEFTTxhIGhyZWY9Ii9kZXBhcnRtZW50L2xhbmd1YWdlLWxlYXJuaW5nLWNlbnRlci9zdHVkZW50cyIgPlN0dWRlbnQgU2VydmljZXM8L2E+ZAIDDxYCHwMC/////w9kAgIPZBYEAgEPFgIfAQVOPGEgaHJlZj0iL2RlcGFydG1lbnQvbGFuZ3VhZ2UtbGVhcm5pbmctY2VudGVyL2NhbGVuZGFyIiA+Q2FsZW5kYXIgJiBFdmVudHM8L2E+ZAIDDxYCHwMC/////w9kAgMPZBYEAgEPFgIfAQVRPGEgaHJlZj0iL2RlcGFydG1lbnQvbGFuZ3VhZ2UtbGVhcm5pbmctY2VudGVyL2NhdGFsb2ciID5MTEMgTWF0ZXJpYWxzIENhdGFsb2c8L2E+ZAIDDxYCHwMC/////w9kAgQPZBYEAgEPFgIfAQVHPGEgaHJlZj0iL2RlcGFydG1lbnQvbGFuZ3VhZ2UtbGVhcm5pbmctY2VudGVyL3Jlc291cmNlcyIgPlJlc291cmNlczwvYT5kAgMPFgIfAwL/////D2QCBQ9kFgJmDxYCHwMCAxYGZg9kFgQCAw8WAh4HVmlzaWJsZWhkAgUPDxYEHwEFBEhvbWUfAgUkL2RlcGFydG1lbnQvbGFuZ3VhZ2UtbGVhcm5pbmctY2VudGVyZGQCAQ9kFgQCAw8WAh8EaGQCBQ8PFgQfAQUJUmVzb3VyY2VzHwIFLi9kZXBhcnRtZW50L2xhbmd1YWdlLWxlYXJuaW5nLWNlbnRlci9yZXNvdXJjZXNkZAICD2QWBgIBDxYCHwEFGTxsaSBjbGFzcz0iY3VycmVudF9wYWdlIj5kAgMPFgIfAQURSXRhbGlhbiBSZXNvdXJjZXNkAgUPDxYGHwEFEUl0YWxpYW4gUmVzb3VyY2VzHwIFNi9kZXBhcnRtZW50L2xhbmd1YWdlLWxlYXJuaW5nLWNlbnRlci9yZXNvdXJjZXMvaXRhbGlhbh8EaGRkAgcPFgIfAQUqPGgxIGlkPSJwYWdlX3RpdGxlIj5JdGFsaWFuIFJlc291cmNlczwvaDE+ZAIKDxYCHwRoZGSvBkYtRSyDaYs7PiyCuDoQwS63zg=="
+        id="__VIEWSTATE"
+        name="__VIEWSTATE"
+        type="hidden"
+      />
+    </div>
+    <div
+      className="aspNetHidden"
+    >
+      <input
+        defaultValue="52DEDB11"
+        id="__VIEWSTATEGENERATOR"
+        name="__VIEWSTATEGENERATOR"
+        type="hidden"
+      />
+    </div>
+    <header>
+      <div
+        id="skip_to_content"
+      >
+        <a
+          href="#content"
+        >
+          Skip to main content
+        </a>
+      </div>
+      <section
+        className="body"
+        id="logo_name"
+      >
+        <a
+          href="https://www.loyola.edu/"
+          id="loyola_u"
+        >
+          Loyola University Maryland
+        </a>
+        <h1
+          id="site_name"
+        >
+          Language Learning Center
+        </h1>
+        <ul
+          id="utility_links"
+        >
+          <li>
+            <a
+              href="https://www.loyola.edu"
+            >
+              Loyola.edu
+            </a>
+          </li>
+        </ul>
+      </section>
+      <nav
+        id="main"
+      >
+        <div
+          id="mobile_menu"
+        >
+          <a
+            href="/department/language-learning-center"
+            id="body_0_lnkMobileHomeBtn"
+          >
+            Home
+          </a>
+           
+          <a
+            href="#"
+            id="show_menu"
+          >
+            <img
+              alt="Menu"
+              src="/images/new-dept-template/mobile_menu.png"
+            />
+          </a>
+        </div>
+         
+        <div
+          className="menu body"
+        >
+          <ul
+            className="sf-menu clearfix"
+          >
+            <li
+              id="home"
+            >
+              <a
+                href="/department/language-learning-center"
+                id="body_0_lnkHomeBtn"
+              >
+                Home
+                <img
+                  alt="Home Icon"
+                  src="/images/new-dept-template/home_btn.png"
+                />
+              </a>
+            </li>
+            <li>
+              <a
+                href="/department/language-learning-center/faculty"
+              >
+                Faculty Services
+              </a>
+            </li>
+            <li>
+              <a
+                href="/department/language-learning-center/students"
+              >
+                Student Services
+              </a>
+            </li>
+            <li>
+              <a
+                href="/department/language-learning-center/calendar"
+              >
+                Calendar & Events
+              </a>
+            </li>
+            <li>
+              <a
+                href="/department/language-learning-center/catalog"
+              >
+                LLC Materials Catalog
+              </a>
+            </li>
+            <li>
+              <a
+                href="/department/language-learning-center/resources"
+              >
+                Resources
+              </a>
+            </li>
+          </ul>
+        </div>
+         
+      </nav>
+    </header>
+    <div
+      className="clear"
+    />
+    <div
+      className="body"
+      id="breadcrumb_social"
+    >
+      <ul
+        id="breadcrumb"
+      >
+        <li>
+          <a
+            href="/department/language-learning-center"
+            id="body_0_breadcrumb_rptBreadcrumbs_lnkBreadcrumbLink_0"
+          >
+            Home
+          </a>
+        </li>
+        <li>
+          <a
+            href="/department/language-learning-center/resources"
+            id="body_0_breadcrumb_rptBreadcrumbs_lnkBreadcrumbLink_1"
+          >
+            Resources
+          </a>
+        </li>
+        <li
+          className="current_page"
+        >
+          Italian Resources
+        </li>
+      </ul>
+      <ul
+        id="social"
+      >
+        <li>
+          <a
+            href="https://twitter.com/LoCo_LLC"
+            target="_blank"
+          >
+            <img
+              alt="Twitter"
+              src="/-/media/utility/images/common/social_media/sm_twitter_svg.ashx"
+            />
+          </a>
+        </li>
+      </ul>
+    </div>
+     
+    <div
+      className="body"
+      id="container"
+    >
+      <section
+        id="content"
+      >
+        <h1
+          id="page_title"
+        >
+          Italian Resources
+        </h1>
+        <div
+          id="text"
+        >
+          <div
+            className="genContent"
+            id="ctl1"
+          >
+            <h2
+              style={
+                Object {
+                  "textAlign": "left",
+                }
+              }
+            >
+              Italian Language and Culture
+            </h2>
+            <h2>
+              Print News Media in Italian
+            </h2>
+            <h3>
+              Italy (Italia)
+            </h3>
+            <ul>
+              <li>
+                <em>
+                  Corriere della Sera 
+                </em>
+                (Milan) (
+                <a
+                  href="http://www.corriere.it"
+                  target="_blank"
+                >
+                  newspaper online
+                </a>
+                )
+              </li>
+              <li>
+                <em>
+                  Repubblica
+                </em>
+                 (Rome) (
+                <a
+                  href="http://www.repubblica.it"
+                >
+                  newspaper online
+                </a>
+                )
+              </li>
+            </ul>
+            <h3>
+              Switzerland (Svizzera)
+            </h3>
+            <ul>
+              <li>
+                <em>
+                  Corriere del Ticino 
+                </em>
+                (
+                <a
+                  href="http://www.cdt.ch"
+                  target="_blank"
+                >
+                  newspaper online
+                </a>
+                )
+              </li>
+              <li>
+                <em>
+                  Giornale del Popolo
+                </em>
+                 (
+                <a
+                  href="http://www.gdp.ch/"
+                >
+                  newspaper online
+                </a>
+                )
+              </li>
+            </ul>
+            <h2>
+              Multimedia Online Resources
+            </h2>
+            <h3>
+              Television
+            </h3>
+            <ul>
+              <li>
+                RAI (
+                <a
+                  href="http://www.rai.it"
+                  target="_blank"
+                >
+                  Italian national television
+                </a>
+                ) 
+              </li>
+              <li>
+                Ansa (
+                <a
+                  href="http://www.ansa.it/"
+                  target="_blank"
+                >
+                  news website
+                </a>
+                )
+              </li>
+              <li>
+                <a
+                  href="http://wwitv.com/television/104.htm"
+                  target="_blank"
+                >
+                  Italian Television Channel Guide with Streaming Programs
+                </a>
+              </li>
+            </ul>
+            <h3>
+              Music and Radio
+            </h3>
+            <ul>
+              <li>
+                Radio Italia (
+                <a
+                  href="http://www.radioitalia.it/"
+                  target="_blank"
+                >
+                  online streaming
+                </a>
+                )
+              </li>
+              <li>
+                Rtl 102.5 (
+                <a
+                  href="http://www.rtl.it/home/"
+                  target="_blank"
+                >
+                  online streaming
+                </a>
+                )
+              </li>
+            </ul>
+            <h3>
+              Movies
+            </h3>
+            <ul>
+              <li>
+                <p>
+                  All about Italian movies: 
+                  <a
+                    href="http://www.sentieridelcinema.it/"
+                    target="_blank"
+                  >
+                    http://www.sentieridelcinema.it/
+                  </a>
+                </p>
+              </li>
+            </ul>
+            <h2>
+              Learn Italian!
+            </h2>
+            <h3>
+              Dictionaries
+            </h3>
+            <ul>
+              <li>
+                <a
+                  href="http://www.collinsdictionary.com/dictionary/english-italian"
+                  target="_blank"
+                >
+                  Collins Italian-English Dictionary
+                </a>
+              </li>
+              <li>
+                <a
+                  href="http://www.treccani.it/"
+                  target="_blank"
+                >
+                  Treccani Italian Encyclopedia and Dictionary (in Italian)
+                </a>
+              </li>
+              <li>
+                <a
+                  href="http://www.dizionario.rai.it"
+                  target="_blank"
+                >
+                  Dizionario (in Italian)
+                </a>
+              </li>
+              <li>
+                <a
+                  href="http://www.garzantilinguistica.it/en/"
+                  target="_blank"
+                >
+                  Garzanti Linguistica (in Italian and English)
+                </a>
+              </li>
+            </ul>
+            <h3>
+              Loyola University Maryland Italian Courses
+            </h3>
+            <ul>
+              <li>
+                Italian 101-104 Course Links (
+                <a
+                  href="/department/language-learning-center/resources/italian/course-links"
+                >
+                  links to homework listening exercises
+                </a>
+                )
+              </li>
+              <li>
+                Italian Courses at Loyola University Maryland (
+                <a
+                  href="https://www.loyola.edu/department/records/catalogues"
+                >
+                  university course listings website
+                </a>
+                )
+              </li>
+            </ul>
+            <h3>
+              Loyola in Italy
+            </h3>
+            <ul>
+              <li>
+                International Programs Office
+                <ul>
+                  <li>
+                    <a
+                      href="/department/international-programs/locations/programs/rome"
+                    >
+                      Study Abroad in Rome 
+                    </a>
+                    (LUMD program)
+                  </li>
+                  <li>
+                    <a
+                      href="/department/international-programs/locations/programs/florence"
+                    >
+                      Study Abroad in Florence
+                    </a>
+                     (Fairfield University partnership)
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <a
+                  href="http://www.scuolaleonardo.com/Italian-language-school-Florence.html"
+                  target="_blank"
+                >
+                  Leonardo da Vinci Language School (Florence)
+                </a>
+              </li>
+            </ul>
+            <h3>
+              Fun with Italian
+            </h3>
+            <ul>
+              <li>
+                <a
+                  href="http://www.accademiadellacrusca.it/it/lingua-italiana"
+                  target="_blank"
+                >
+                  Accademia della Crusca (learn new words, dialect, and culture)
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://iicwashington.esteri.it/iic_washington/en/"
+                >
+                  Istituto Italiano di Cultura (Washington DC)
+                </a>
+              </li>
+              <li>
+                La Cucina Italiana (
+                <a
+                  href="http://www.lacucinaitaliana.it/"
+                  target="_blank"
+                >
+                  culinary magazine
+                </a>
+                )
+              </li>
+              <li>
+                Il Cucchiaio d'Argento (
+                <a
+                  href="http://www.cucchiaio.it/"
+                  target="_blank"
+                >
+                  culinary website
+                </a>
+                )
+              </li>
+              <li>
+                Giallo Zafferano (
+                <a
+                  href="http://www.giallozafferano.it/"
+                  target="_blank"
+                >
+                  culinary website
+                </a>
+                )
+              </li>
+            </ul>
+            <p>
+               
+            </p>
+            <p>
+               
+            </p>
+          </div>
+        </div>
+         
+      </section>
+       
+      <section
+        id="more_info"
+      >
+        <aside
+          className="feature green"
+        >
+          <article>
+            <h2>
+              Hours of Operation
+            </h2>
+            <p>
+              Monday - Thursday: 9am - 8pm
+            </p>
+            <p>
+              Friday: 9am - 5pm
+            </p>
+            <p>
+              Saturday: Closed
+            </p>
+            <p>
+              Sunday: 2pm - 6pm
+            </p>
+          </article>
+        </aside>
+        <aside
+          className="feature blue"
+        >
+          <article>
+            <h2>
+              Contact Us
+            </h2>
+            <p>
+              Maryland Hall 443
+              <br />
+              410-617-2674
+              <br />
+              <a
+                href="mailto:loyolallc@loyola.edu"
+              >
+                loyolallc@loyola.edu
+              </a>
+            </p>
+            <p>
+               
+            </p>
+            <p>
+              <strong>
+                Kelly Keenan
+                <br />
+              </strong>
+              Director, Language Learning Center
+              <br />
+              <a
+                href="mailto:kekeenan@loyola.edu"
+              >
+                kekeenan@loyola.edu
+              </a>
+            </p>
+            <p>
+               
+            </p>
+            <p>
+              <strong>
+                Student Supervisors (2022-2023)
+              </strong>
+               
+              <br />
+              Bill Bruno ('23)
+              <br />
+              Grace Potter ('23)
+            </p>
+          </article>
+        </aside>
+        <div
+          className="genPortlet"
+        >
+          <p>
+            <a
+              className="btn jade_green"
+              href="/academics/modern-languages"
+            >
+              Modern Languages Website
+            </a>
+          </p>
+        </div>
+        <div
+          className="genPortlet"
+        >
+          <a
+            className="twitter-timeline"
+            data-height={800}
+            data-width={390}
+            href="https://twitter.com/LoCo_LLC"
+          >
+            Tweets by LoCo_LLC
+          </a>
+        </div>
+      </section>
+       
+    </div>
+     
+    <footer>
+      <div
+        className="body"
+      >
+        <a
+          href="https://www.loyola.edu/"
+          id="loyola_logo"
+        >
+          <img
+            alt="Loyola logo"
+            src="/images/new-dept-template/loyola_logo.gif"
+          />
+        </a>
+        <address>
+          4501 N. Charles Street, Baltimore, MD 21210
+          <br />
+          410-617-2000 | Weather Line: 410-617-2223
+        </address>
+      </div>
+      <div
+        className="footer_bottom"
+      >
+        <div
+          className="body"
+        >
+          Copyright © 2023 Loyola University Maryland. All rights reserved. 
+          <a
+            href="/about/privacy-policy"
+          >
+            Privacy Policy
+          </a>
+          <a
+            href="/department/consumer-information"
+          >
+            Consumer Information
+          </a>
+          <a
+            href="/about/accessibility"
+          >
+            Accessibility
+          </a>
+        </div>
+      </div>
+    </footer>
+  </form>
+</div>
+`;
+
 exports[`Login 1`] = `
 <div
-  className="LoginPage"
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#209765",
+      "borderRadius": "20px",
+      "boxShadow": "0 2px 6px rgba(0,0,0,0.3)",
+      "color": "#FFF",
+      "display": "flex",
+      "fontFamily": "Arial, sans-serif",
+      "fontWeight": "bold",
+      "height": "100vh",
+      "justifyContent": "center",
+      "padding": "40px",
+    }
+  }
 >
   <div
     className="auth-form-container"
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#FFF",
+        "border": "2px solid #CCC",
+        "borderRadius": "5px",
+        "color": "#006400",
+        "display": "flex",
+        "flexDirection": "column",
+        "fontFamily": "Arial, sans-serif",
+        "justifyContent": "center",
+        "padding": "20px",
+      }
+    }
   >
     <h2>
-      Login
+      Register
     </h2>
     <form
-      className="login-form"
+      className="register-form"
       onSubmit={[Function]}
     >
       <label
-        htmlFor="email"
+        htmlFor="firstName"
+        style={
+          Object {
+            "fontSize": "14px",
+            "fontWeight": "bold",
+            "marginBottom": "5px",
+          }
+        }
       >
-        email
+        First Name:
+      </label>
+      <input
+        id="firstName"
+        name="firstName"
+        onChange={[Function]}
+        placeholder="John"
+        style={
+          Object {
+            "border": "1px solid #CCC",
+            "borderRadius": "5px",
+            "height": "30px",
+            "marginBottom": "10px",
+            "padding": "5px",
+            "width": "100%",
+          }
+        }
+        value=""
+      />
+      <label
+        htmlFor="lastName"
+        style={
+          Object {
+            "fontSize": "14px",
+            "fontWeight": "bold",
+            "marginBottom": "5px",
+          }
+        }
+      >
+        Last Name:
+      </label>
+      <input
+        id="lastName"
+        name="lastName"
+        onChange={[Function]}
+        placeholder="Doe"
+        style={
+          Object {
+            "border": "1px solid #CCC",
+            "borderRadius": "5px",
+            "height": "30px",
+            "marginBottom": "10px",
+            "padding": "5px",
+            "width": "100%",
+          }
+        }
+        value=""
+      />
+      <label
+        htmlFor="email"
+        style={
+          Object {
+            "fontSize": "14px",
+            "fontWeight": "bold",
+            "marginBottom": "5px",
+          }
+        }
+      >
+        Email:
       </label>
       <input
         id="email"
         name="email"
         onChange={[Function]}
         placeholder="youremail@gmail.com"
+        style={
+          Object {
+            "border": "1px solid #CCC",
+            "borderRadius": "5px",
+            "height": "30px",
+            "marginBottom": "10px",
+            "padding": "5px",
+            "width": "100%",
+          }
+        }
         type="email"
         value=""
       />
       <label
         htmlFor="password"
+        style={
+          Object {
+            "fontSize": "14px",
+            "fontWeight": "bold",
+            "marginBottom": "5px",
+          }
+        }
       >
-        password
+        Password:
       </label>
       <input
         id="password"
         name="password"
         onChange={[Function]}
         placeholder="********"
+        style={
+          Object {
+            "border": "1px solid #CCC",
+            "borderRadius": "5px",
+            "height": "30px",
+            "marginBottom": "10px",
+            "padding": "5px",
+            "width": "100%",
+          }
+        }
         type="password"
         value=""
       />
       <button
+        style={
+          Object {
+            "backgroundColor": "#006400",
+            "border": "none",
+            "borderRadius": "5px",
+            "color": "#FFF",
+            "cursor": "pointer",
+            "marginTop": "10px",
+            "padding": "10px 20px",
+          }
+        }
         type="submit"
       >
-        Log In
+        Register
       </button>
     </form>
-    <button
-      className="link-btn"
+    <a
       onClick={[Function]}
+      style={
+        Object {
+          "color": "#006400",
+          "cursor": "pointer",
+          "fontSize": "14px",
+          "marginTop": "20px",
+          "textDecoration": "none",
+        }
+      }
     >
-      Don't have an account with LLC? Register here.
-    </button>
+      Already have an account with LLC? Login here.
+    </a>
   </div>
+</div>
+`;
+
+exports[`Spanish Resource Page 1`] = `
+<div>
+  <meta
+    charSet="UTF-8"
+  />
+  <meta
+    content="width=device-width, initial-scale=1"
+    name="viewport"
+  />
+  <meta
+    content="IE=edge"
+    httpEquiv="X-UA-Compatible"
+  />
+  <title>
+    Spanish - Resources - Language Learning Center - Loyola University Maryland
+  </title>
+  <link
+    href="/~/media/utility/css/department/dept1.2.min.css?v=20221128-2"
+    rel="stylesheet"
+    type="text/css"
+  />
+  <link
+    href="https://cloud.typography.com/6944232/7455412/css/fonts.css"
+    rel="stylesheet"
+    type="text/css"
+  />
+  <style
+    dangerouslySetInnerHTML={
+      Object {
+        "__html": "
+/* Temporary solution to fix form scrolling until next update is live */
+.scfForm { height: auto !important; }
+",
+      }
+    }
+  />
+  <meta
+    name="keywords"
+  />
+  <meta
+    content="View resources on the Spanish language provided by Loyola University Maryland's Language Learning Center."
+    name="description"
+  />
+  <form
+    action="/department/language-learning-center/resources/spanish"
+    id="form1"
+    method="post"
+  >
+    <div
+      className="aspNetHidden"
+    >
+      <input
+        defaultValue="/wEPDwULLTE1ODg5Mjg2NzcPFgIeE1ZhbGlkYXRlUmVxdWVzdE1vZGUCARYIZg8WAh4EVGV4dAUjPCFET0NUWVBFIGh0bWw+DQo8aHRtbCBsYW5nPSJlbiI+DQpkAgIPZBYEAgEPFgIfAQWaATxtZXRhIGNoYXJzZXQ9IlVURi04Ij4NCjxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsIGluaXRpYWwtc2NhbGU9MSI+IA0KPG1ldGEgaHR0cC1lcXVpdj0iWC1VQS1Db21wYXRpYmxlIiBjb250ZW50PSJJRT1lZGdlIiAvPg0KDQpkAgUPFgIfAQWLBjxsaW5rIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIGhyZWY9Ii9+L21lZGlhL3V0aWxpdHkvY3NzL2RlcGFydG1lbnQvZGVwdDEuMi5taW4uY3NzP3Y9MjAyMjExMjgtMiI+DQo8bGluayByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiBocmVmPSJodHRwczovL2Nsb3VkLnR5cG9ncmFwaHkuY29tLzY5NDQyMzIvNzQ1NTQxMi9jc3MvZm9udHMuY3NzIiAvPg0KDQo8c3R5bGU+DQovKiBUZW1wb3Jhcnkgc29sdXRpb24gdG8gZml4IGZvcm0gc2Nyb2xsaW5nIHVudGlsIG5leHQgdXBkYXRlIGlzIGxpdmUgKi8NCi5zY2ZGb3JtIHsgaGVpZ2h0OiBhdXRvICFpbXBvcnRhbnQ7IH0NCjwvc3R5bGU+DQoNCjwhLS0gR29vZ2xlIFRhZyBNYW5hZ2VyIC0tPg0KPHNjcmlwdD4oZnVuY3Rpb24odyxkLHMsbCxpKXt3W2xdPXdbbF18fFtdO3dbbF0ucHVzaCh7J2d0bS5zdGFydCc6DQpuZXcgRGF0ZSgpLmdldFRpbWUoKSxldmVudDonZ3RtLmpzJ30pO3ZhciBmPWQuZ2V0RWxlbWVudHNCeVRhZ05hbWUocylbMF0sDQpqPWQuY3JlYXRlRWxlbWVudChzKSxkbD1sIT0nZGF0YUxheWVyJz8nJmw9JytsOicnO2ouYXN5bmM9dHJ1ZTtqLnNyYz0NCidodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbS9ndG0uanM/aWQ9JytpK2RsO2YucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoaixmKTsNCn0pKHdpbmRvdyxkb2N1bWVudCwnc2NyaXB0JywnZGF0YUxheWVyJywnR1RNLU1TQ0ZGSCcpOzwvc2NyaXB0Pg0KPCEtLSBFbmQgR29vZ2xlIFRhZyBNYW5hZ2VyIC0tPg0KZAIEDxYCHwEFBjxib2R5PmQCCBBkZBYCAgEPZBYCZg9kFgJmD2QWDmYPFgIfAQUYTGFuZ3VhZ2UgTGVhcm5pbmcgQ2VudGVyZAIBDw8WAh4LTmF2aWdhdGVVcmwFJC9kZXBhcnRtZW50L2xhbmd1YWdlLWxlYXJuaW5nLWNlbnRlcmRkAgIPDxYCHwIFJC9kZXBhcnRtZW50L2xhbmd1YWdlLWxlYXJuaW5nLWNlbnRlcmRkAgMPFgIeC18hSXRlbUNvdW50AgUWCmYPZBYEAgEPFgIfAQVMPGEgaHJlZj0iL2RlcGFydG1lbnQvbGFuZ3VhZ2UtbGVhcm5pbmctY2VudGVyL2ZhY3VsdHkiID5GYWN1bHR5IFNlcnZpY2VzPC9hPmQCAw8WAh8DAv////8PZAIBD2QWBAIBDxYCHwEFTTxhIGhyZWY9Ii9kZXBhcnRtZW50L2xhbmd1YWdlLWxlYXJuaW5nLWNlbnRlci9zdHVkZW50cyIgPlN0dWRlbnQgU2VydmljZXM8L2E+ZAIDDxYCHwMC/////w9kAgIPZBYEAgEPFgIfAQVOPGEgaHJlZj0iL2RlcGFydG1lbnQvbGFuZ3VhZ2UtbGVhcm5pbmctY2VudGVyL2NhbGVuZGFyIiA+Q2FsZW5kYXIgJiBFdmVudHM8L2E+ZAIDDxYCHwMC/////w9kAgMPZBYEAgEPFgIfAQVRPGEgaHJlZj0iL2RlcGFydG1lbnQvbGFuZ3VhZ2UtbGVhcm5pbmctY2VudGVyL2NhdGFsb2ciID5MTEMgTWF0ZXJpYWxzIENhdGFsb2c8L2E+ZAIDDxYCHwMC/////w9kAgQPZBYEAgEPFgIfAQVHPGEgaHJlZj0iL2RlcGFydG1lbnQvbGFuZ3VhZ2UtbGVhcm5pbmctY2VudGVyL3Jlc291cmNlcyIgPlJlc291cmNlczwvYT5kAgMPFgIfAwL/////D2QCBQ9kFgJmDxYCHwMCAxYGZg9kFgQCAw8WAh4HVmlzaWJsZWhkAgUPDxYEHwEFBEhvbWUfAgUkL2RlcGFydG1lbnQvbGFuZ3VhZ2UtbGVhcm5pbmctY2VudGVyZGQCAQ9kFgQCAw8WAh8EaGQCBQ8PFgQfAQUJUmVzb3VyY2VzHwIFLi9kZXBhcnRtZW50L2xhbmd1YWdlLWxlYXJuaW5nLWNlbnRlci9yZXNvdXJjZXNkZAICD2QWBgIBDxYCHwEFGTxsaSBjbGFzcz0iY3VycmVudF9wYWdlIj5kAgMPFgIfAQURU3BhbmlzaCBSZXNvdXJjZXNkAgUPDxYGHwEFEVNwYW5pc2ggUmVzb3VyY2VzHwIFNi9kZXBhcnRtZW50L2xhbmd1YWdlLWxlYXJuaW5nLWNlbnRlci9yZXNvdXJjZXMvc3BhbmlzaB8EaGRkAgcPFgIfAQUqPGgxIGlkPSJwYWdlX3RpdGxlIj5TcGFuaXNoIFJlc291cmNlczwvaDE+ZAIKDxYCHwRoZGS4VmueUJmn9f3VcFT4ZhMjiWC+5Q=="
+        id="__VIEWSTATE"
+        name="__VIEWSTATE"
+        type="hidden"
+      />
+    </div>
+    <div
+      className="aspNetHidden"
+    >
+      <input
+        defaultValue="52DEDB11"
+        id="__VIEWSTATEGENERATOR"
+        name="__VIEWSTATEGENERATOR"
+        type="hidden"
+      />
+    </div>
+    <header>
+      <div
+        id="skip_to_content"
+      >
+        <a
+          href="#content"
+        >
+          Skip to main content
+        </a>
+      </div>
+      <section
+        className="body"
+        id="logo_name"
+      >
+        <a
+          href="https://www.loyola.edu/"
+          id="loyola_u"
+        >
+          Loyola University Maryland
+        </a>
+        <h1
+          id="site_name"
+        >
+          Language Learning Center
+        </h1>
+        <ul
+          id="utility_links"
+        >
+          <li>
+            <a
+              href="https://www.loyola.edu"
+            >
+              Loyola.edu
+            </a>
+          </li>
+        </ul>
+      </section>
+      <nav
+        id="main"
+      >
+        <div
+          id="mobile_menu"
+        >
+          <a
+            href="/department/language-learning-center"
+            id="body_0_lnkMobileHomeBtn"
+          >
+            Home
+          </a>
+           
+          <a
+            href="#"
+            id="show_menu"
+          >
+            <img
+              alt="Menu"
+              src="/images/new-dept-template/mobile_menu.png"
+            />
+          </a>
+        </div>
+         
+        <div
+          className="menu body"
+        >
+          <ul
+            className="sf-menu clearfix"
+          >
+            <li
+              id="home"
+            >
+              <a
+                href="/department/language-learning-center"
+                id="body_0_lnkHomeBtn"
+              >
+                Home
+                <img
+                  alt="Home Icon"
+                  src="/images/new-dept-template/home_btn.png"
+                />
+              </a>
+            </li>
+            <li>
+              <a
+                href="/department/language-learning-center/faculty"
+              >
+                Faculty Services
+              </a>
+            </li>
+            <li>
+              <a
+                href="/department/language-learning-center/students"
+              >
+                Student Services
+              </a>
+            </li>
+            <li>
+              <a
+                href="/department/language-learning-center/calendar"
+              >
+                Calendar & Events
+              </a>
+            </li>
+            <li>
+              <a
+                href="/department/language-learning-center/catalog"
+              >
+                LLC Materials Catalog
+              </a>
+            </li>
+            <li>
+              <a
+                href="/department/language-learning-center/resources"
+              >
+                Resources
+              </a>
+            </li>
+          </ul>
+        </div>
+         
+      </nav>
+    </header>
+    <div
+      className="clear"
+    />
+    <div
+      className="body"
+      id="breadcrumb_social"
+    >
+      <ul
+        id="breadcrumb"
+      >
+        <li>
+          <a
+            href="/department/language-learning-center"
+            id="body_0_breadcrumb_rptBreadcrumbs_lnkBreadcrumbLink_0"
+          >
+            Home
+          </a>
+        </li>
+        <li>
+          <a
+            href="/department/language-learning-center/resources"
+            id="body_0_breadcrumb_rptBreadcrumbs_lnkBreadcrumbLink_1"
+          >
+            Resources
+          </a>
+        </li>
+        <li
+          className="current_page"
+        >
+          Spanish Resources
+        </li>
+      </ul>
+      <ul
+        id="social"
+      >
+        <li>
+          <a
+            href="https://twitter.com/LoCo_LLC"
+            target="_blank"
+          >
+            <img
+              alt="Twitter"
+              src="/-/media/utility/images/common/social_media/sm_twitter_svg.ashx"
+            />
+          </a>
+        </li>
+      </ul>
+    </div>
+     
+    <div
+      className="body"
+      id="container"
+    >
+      <section
+        id="content"
+      >
+        <h1
+          id="page_title"
+        >
+          Spanish Resources
+        </h1>
+        <div
+          id="text"
+        >
+          <div
+            className="genContent"
+            id="ctl1"
+          >
+            <h2>
+              Print News Media in Spanish
+            </h2>
+            <img
+              alt=""
+              className="image_right"
+              src="/-/media/department/language-learning-center/images/resources/frida-kahlo.ashx?h=250&w=250&la=en&hash=BF592EB28EAF8F29EF8EBCF55F5D75D74A2056FB"
+              style={
+                Object {
+                  "height": "250px",
+                  "width": "250px",
+                }
+              }
+            />
+            <h3>
+              Europe 
+            </h3>
+            <ul>
+              <li>
+                <a
+                  href="http://elpais.com/?cp=1"
+                  target="_blank"
+                >
+                  El País-Portada “España”
+                </a>
+              </li>
+              <li>
+                <a
+                  href="http://www.abc.es/"
+                  target="_blank"
+                >
+                  ABC (Madrid)
+                </a>
+                     
+              </li>
+            </ul>
+            <h3>
+              Hispanic and Latin America 
+            </h3>
+            <ul>
+              <li>
+                <a
+                  href="http://elpais.com/elpais/portada_america.html"
+                  target="_blank"
+                >
+                  El País-Portada “América”
+                </a>
+              </li>
+              <li>
+                <a
+                  href="http://www.elespectador.com/noticias"
+                  target="_blank"
+                >
+                  El Espectador (Colombia)
+                </a>
+              </li>
+              <li>
+                <a
+                  href="http://larepublica.pe/"
+                  target="_blank"
+                >
+                  La República (el Perú)
+                </a>
+              </li>
+              <li>
+                <a
+                  href="http://kiosko.net/mx/np/mx_jornada.html"
+                  target="_blank"
+                >
+                  La Jornada (México)
+                </a>
+                           
+              </li>
+            </ul>
+            <h3>
+              Washington-Baltimore
+            </h3>
+            <ul>
+              <li>
+                <a
+                  href="http://eltiempolatino.com/"
+                  target="_blank"
+                >
+                  El tiempo latino (Washington Post)
+                </a>
+              </li>
+            </ul>
+            <h2>
+              Multimedia Spanish Resources
+            </h2>
+            <table>
+              <thead>
+                <tr>
+                  <th>
+                    Television and Radio News
+                  </th>
+                  <th>
+                    Music and Radio
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>
+                    <ul>
+                      <li>
+                        <a
+                          href="http://www.rtve.es/television/"
+                          target="_blank"
+                        >
+                          RTVE - Radio Televisión Español
+                        </a>
+                      </li>
+                      <li>
+                        <a
+                          href="https://rpp.pe/"
+                          target="_blank"
+                        >
+                          RPP Noticias Peruanas
+                        </a>
+                      </li>
+                      <li>
+                        <a
+                          href="http://caracol.com.co/"
+                          target="_blank"
+                        >
+                          Radio Caracol 
+                        </a>
+                        (Bogotá)
+                      </li>
+                      <li>
+                        <a
+                          href="http://www.mondolatino.eu/ocio/radio.php"
+                          target="_blank"
+                        >
+                          Mundo Latino
+                        </a>
+                         (Radio)
+                      </li>
+                    </ul>
+                    <p>
+                      Spanish-language News on Loyola TV:
+                    </p>
+                    <ul>
+                      <li>
+                        <a
+                          href="http://www.rtve.es/television/tve-internacional/"
+                          target="_blank"
+                        >
+                          RTVE
+                        </a>
+                         (Ch 122)
+                      </li>
+                      <li>
+                        <a
+                          href="http://cnnespanol.cnn.com/"
+                          target="_blank"
+                        >
+                          CNN en Espanol
+                        </a>
+                         (Ch 123)
+                      </li>
+                      <li>
+                        <a
+                          href="http://www.diariosur.es/"
+                          target="_blank"
+                        >
+                          SUR 
+                        </a>
+                        (Ch 125)
+                      </li>
+                    </ul>
+                  </td>
+                  <td>
+                    <ul>
+                      <li>
+                        <a
+                          href="http://www.filarmonia.org/radio.aspx"
+                          target="_blank"
+                        >
+                          Radio Filarmonia 
+                        </a>
+                        (Lima)
+                      </li>
+                      <li>
+                        <a
+                          href="http://tunein.com/radio/Flamenco-Radio-s137174/"
+                          target="_blank"
+                        >
+                          Radio Flamenco
+                        </a>
+                         (Sevilla)
+                      </li>
+                      <li>
+                        <a
+                          href="https://www.oxigeno.fm/"
+                          target="_blank"
+                        >
+                          Radio Oxígeno
+                        </a>
+                         (Bogotá)
+                      </li>
+                      <li>
+                        <a
+                          href="http://www.gooveo.org/"
+                          target="_blank"
+                        >
+                          GooVeo
+                        </a>
+                      </li>
+                      <li>
+                        <a
+                          href="http://www.lamusica.com/"
+                          target="_blank"
+                        >
+                          La Musica
+                        </a>
+                         (USA)
+                      </li>
+                    </ul>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <img
+              alt="Popcorn image linking to LCC Foreign Film Catalogue"
+              className="image_right"
+              src="/-/media/department/language-learning-center/images/resources/popcorn-film-catalog.ashx?h=166&w=250&la=en&hash=741503FC52DC9F2EF3E884FE013055F96E9F1BDE"
+              style={
+                Object {
+                  "height": "166px",
+                  "width": "250px",
+                }
+              }
+            />
+            <h2>
+              Spanish Film and Cinematography
+            </h2>
+            <ul>
+              <li>
+                <a
+                  href="http://cinefagos.net/index.php?option=com_content&view=category&id=95&Itemid=149&limitstart=0"
+                  target="_blank"
+                >
+                  Cinefagos.net
+                </a>
+                 (streaming films)
+              </li>
+              <li>
+                <a
+                  href="https://www.locoporelcine.com/"
+                  target="_blank"
+                >
+                  Loco Por el Cine
+                </a>
+                 (film reviews in Spanish)
+              </li>
+              <li>
+                <a
+                  href="https://www.academiadecine.com/"
+                >
+                  Academia de Cine
+                </a>
+                 (news and info about Spanish cinema)
+              </li>
+            </ul>
+            <h2>
+              Learn Spanish!
+            </h2>
+            <aside
+              className="feature blue left"
+            >
+              <article>
+                <h3>
+                  Spanish at Loyola University Maryland
+                </h3>
+                <li>
+                  <a
+                    href="/academics/modern-languages/faculty"
+                    target="_blank"
+                  >
+                    Spanish Faculty
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="/academics/modern-languages/curriculum/majors/spanish"
+                  >
+                    Spanish Major
+                  </a>
+                   
+                </li>
+                <li>
+                  <a
+                    href="/academics/modern-languages/curriculum/minors/spanish"
+                  >
+                    Spanish Minor
+                  </a>
+                   
+                </li>
+                <li>
+                  <a
+                    href="/academics/latino-studies"
+                  >
+                    Latin American and Latino Studies
+                  </a>
+                </li>
+                <li>
+                  Spanish Courses at Loyola (course listings website)
+                </li>
+                <li>
+                  <a
+                    href="/department/career-center/resources/majors/spanish"
+                  >
+                    Career Center Information on Spanish
+                  </a>
+                </li>
+              </article>
+            </aside>
+            <aside
+              className="feature green right"
+            >
+              <article>
+                <h3>
+                  Loyola University Maryland Intercambio
+                </h3>
+                <li>
+                  <a
+                    href="/department/international-programs"
+                  >
+                    Loyola International Programs Office
+                  </a>
+                   (more exchanges!)
+                </li>
+                <li>
+                  Study abroad in 
+                  <a
+                    href="/department/international-programs/locations/programs/alcala"
+                  >
+                    Alcalá, Spain
+                  </a>
+                </li>
+                <li>
+                  Study abroad in El Salvador
+                </li>
+                <li>
+                  Study abroad in Barcelona, Spain
+                </li>
+                <li>
+                  Study abroad in 
+                  <a
+                    href="/department/international-programs/locations/programs/buenos-aires"
+                  >
+                    Buenos Aires, Argentina
+                  </a>
+                </li>
+                <li>
+                  Study abroad in 
+                  <a
+                    href="/department/international-programs/locations/programs/santiago"
+                  >
+                    Santiago de Chile
+                  </a>
+                </li>
+              </article>
+            </aside>
+            <h3>
+              Dictionary (The best one!)
+            </h3>
+            <ul>
+              <li>
+                <a
+                  href="http://dle.rae.es/?w=diccionario"
+                  target="_blank"
+                >
+                  Diccionario de la Real Academia Española
+                </a>
+                 (in Spanish) 
+              </li>
+            </ul>
+            <h3>
+              Fun with Spanish
+            </h3>
+            <ul>
+              <li>
+                <em>
+                  <a
+                    href="http://personal.colby.edu/~bknelson/SLC/index.php"
+                    target="_blank"
+                  >
+                    Spanish Language and Culture
+                  </a>
+                </em>
+                 de Barbara Kuczun Nelson
+              </li>
+              <li>
+                <a
+                  href="http://www.trentu.ca/academic/modernlanguages/spanish/masarriba/"
+                  target="_blank"
+                >
+                  <em>
+                    Más arriba:
+                  </em>
+                   Spanish Language Exercises
+                </a>
+                 (Trent University)
+              </li>
+              <li>
+                <a
+                  href="http://www.patrimonionacional.es/"
+                  target="_blank"
+                >
+                  Patrimonio nacional de España
+                </a>
+              </li>
+              <li>
+                <a
+                  href="http://www.rae.es/"
+                  target="_blank"
+                >
+                  La Real Academia
+                </a>
+              </li>
+              <li>
+                <a
+                  href="http://www.asale.org/"
+                  target="_blank"
+                >
+                  La Asociación de las Academias de la Lengua Española
+                </a>
+              </li>
+              <li>
+                <a
+                  href="http://www.cervantes.es/default.htm"
+                  target="_blank"
+                >
+                  El Instituto Cervantes
+                </a>
+                 (con centros de difusión del español en todo el mundo)
+              </li>
+              <li>
+                <a
+                  href="https://www.museodelprado.es/"
+                  target="_blank"
+                >
+                  Museo del Prado
+                </a>
+              </li>
+              <li>
+                <a
+                  href="http://www.guiarepsol.com/es/"
+                  target="_blank"
+                >
+                  Guía Repsol de España
+                </a>
+                 (con turismo, cultura, y restaurantes)
+              </li>
+              <li>
+                <a
+                  href="http://www.somosbaltimorelatino.com/index.html"
+                  target="_blank"
+                >
+                  Somos Baltimore Latino
+                </a>
+                 (Baltimore Latino community and cultural information)
+              </li>
+            </ul>
+            <h2>
+              Spanish Literature & Linguistics (Resources for Majors and Minors)
+            </h2>
+            <ul>
+              <li>
+                <a
+                  href="/department/language-learning-center/resources/spanish/literature-linguistics"
+                >
+                  Spanish Linguistics Research Tools and Resources
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/department/language-learning-center/resources/spanish/old-resources"
+                >
+                  Archived Spanish Resources Website (for reference)
+                </a>
+              </li>
+            </ul>
+            <br />
+          </div>
+        </div>
+         
+      </section>
+       
+      <section
+        id="more_info"
+      >
+        <aside
+          className="feature green"
+        >
+          <article>
+            <h2>
+              Hours of Operation
+            </h2>
+            <p>
+              Monday - Thursday: 9am - 8pm
+            </p>
+            <p>
+              Friday: 9am - 5pm
+            </p>
+            <p>
+              Saturday: Closed
+            </p>
+            <p>
+              Sunday: 2pm - 6pm
+            </p>
+          </article>
+        </aside>
+        <aside
+          className="feature blue"
+        >
+          <article>
+            <h2>
+              Contact Us
+            </h2>
+            <p>
+              Maryland Hall 443
+              <br />
+              410-617-2674
+              <br />
+              <a
+                href="mailto:loyolallc@loyola.edu"
+              >
+                loyolallc@loyola.edu
+              </a>
+            </p>
+            <p>
+               
+            </p>
+            <p>
+              <strong>
+                Kelly Keenan
+                <br />
+              </strong>
+              Director, Language Learning Center
+              <br />
+              <a
+                href="mailto:kekeenan@loyola.edu"
+              >
+                kekeenan@loyola.edu
+              </a>
+            </p>
+            <p>
+               
+            </p>
+            <p>
+              <strong>
+                Student Supervisors (2022-2023)
+              </strong>
+               
+              <br />
+              Bill Bruno ('23)
+              <br />
+              Grace Potter ('23)
+            </p>
+          </article>
+        </aside>
+        <div
+          className="genPortlet"
+        >
+          <p>
+            <a
+              className="btn jade_green"
+              href="/academics/modern-languages"
+            >
+              Modern Languages Website
+            </a>
+          </p>
+        </div>
+        <div
+          className="genPortlet"
+        >
+          <a
+            className="twitter-timeline"
+            data-height={800}
+            data-width={390}
+            href="https://twitter.com/LoCo_LLC"
+          >
+            Tweets by LoCo_LLC
+          </a>
+        </div>
+      </section>
+       
+    </div>
+     
+    <footer>
+      <div
+        className="body"
+      >
+        <a
+          href="https://www.loyola.edu/"
+          id="loyola_logo"
+        >
+          <img
+            alt="Loyola logo"
+            src="/images/new-dept-template/loyola_logo.gif"
+          />
+        </a>
+        <address>
+          4501 N. Charles Street, Baltimore, MD 21210
+          <br />
+          410-617-2000 | Weather Line: 410-617-2223
+        </address>
+      </div>
+      <div
+        className="footer_bottom"
+      >
+        <div
+          className="body"
+        >
+          Copyright © 2023 Loyola University Maryland. All rights reserved. 
+          <a
+            href="/about/privacy-policy"
+          >
+            Privacy Policy
+          </a>
+          <a
+            href="/department/consumer-information"
+          >
+            Consumer Information
+          </a>
+          <a
+            href="/about/accessibility"
+          >
+            Accessibility
+          </a>
+        </div>
+      </div>
+    </footer>
+  </form>
 </div>
 `;

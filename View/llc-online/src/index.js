@@ -18,7 +18,8 @@ import FrenchResource from "./screens/FrenchResource";
 import GermanResource from "./screens/GermanResource";
 import ItalianResource from "./screens/ItalianResource";
 import SpanishResource from "./screens/SpanishResource";
-import ContactSheet from "./screens/ContactSheet"
+import ContactSheet from "./screens/ContactSheet";
+import Schedule from "./screens/Schedule";
 import axios from 'axios';
 
 var Airtable = require('airtable');
@@ -49,6 +50,7 @@ ReactDOM.render((
             <Route path="/italian" element={<ItalianResource />} />
             <Route path="/spanish" element={<SpanishResource />} />
             <Route path="/contact" element={<ContactSheet />} />
+            {/*<Route path="/schedule" element={<Schedule />} />*/}
         </Routes>
     </BrowserRouter>
     ), document.getElementById('root')

@@ -1,7 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { loginButtonStyles } from "../style/Login.style";
-import ContactStyle from "../style/ContactStyle.css"
 
 export default function Header_Nav() {
     return (
@@ -16,6 +15,7 @@ export default function Header_Nav() {
                 <li><a href="/calendar">Calendar</a></li>
                 <li><a className="nav-link scrollto " href="/inventory">Inventory</a></li>
                 <li><a href="/notesheet">Notesheet</a></li>
+                {/*<li><a href="/schedule">Schedule</a></li>*/}
                 <li className="dropdown"><a href="#"><span>Language Resources</span> <i className="bi bi-chevron-down" /></a>
                     <ul>
                     <li><a href="/arabic">Arabic</a></li>
