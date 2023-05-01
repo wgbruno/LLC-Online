@@ -2,6 +2,7 @@
   "name": "llc-online",
   "proxy": "http://localhost:3000/",
   "dependencies": {
+    "@babel/plugin-syntax-jsx": "^7.18.6",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -16,6 +17,8 @@
     "googleapis": "^113.0.0",
     "i": "^0.3.7",
     "jasmine": "^4.6.0",
+    "jest-fetch-mock": "^3.0.3",
+    "jest-mock": "^29.5.0",
     "memorystore": "^1.6.7",
     "mongoose": "^6.10.0",
     "react": "^18.2.0"
@@ -38,3 +41,4 @@
     "@babel/plugin-syntax-jsx": "^7.18.6"
   }
 }
+
