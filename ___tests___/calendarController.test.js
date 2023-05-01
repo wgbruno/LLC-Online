@@ -1,4 +1,4 @@
-import getEvents from './getEvents';
+import getEvents from '../controller/logic/calendarController';
 
 jest.mock('googleapis', () => {
   return {

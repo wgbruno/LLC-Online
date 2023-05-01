@@ -39,6 +39,12 @@
   },
   "plugins": {
     "@babel/plugin-syntax-jsx": "^7.18.6"
+  },
+  "jest":{
+    "moduleNameMapper": {
+     "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "../styleMock.js",
+     "\\.(css|less|scss|sass)$": "identity-obj-proxy"
+    }
   }
 }
 

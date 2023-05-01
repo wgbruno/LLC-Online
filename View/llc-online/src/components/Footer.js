@@ -40,13 +40,9 @@ export default function Footer(){
                 </div>*/}
                 <div className="col-lg-3 col-md-6 footer-links">
                   <h4>Our Social Networks</h4>
-                  {/*<p>Cras fermentum odio eu feugiat lide par naso tierra videa magna derita valies</p>*/}
                   <div className="social-links mt-3">
                     <SocialIcon url="https://twitter.com/LoCo_LLC" />
                     <SocialIcon url="https://www.instagram.com/loyolallc/" />
-                    {/*<a href="#" className="facebook"><i className="bx bxl-facebook" /></a>
-                    <a href="#" className="google-plus"><i className="bx bxl-skype" /></a>
-                    <a href="#" className="linkedin"><i className="bx bxl-linkedin" /></a>*/}
                   </div>
                 </div>
               </div>
