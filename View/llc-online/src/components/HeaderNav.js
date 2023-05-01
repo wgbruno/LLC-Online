@@ -26,7 +26,7 @@ export default function Header_Nav() {
                     <li><a href="/spanish">Spanish</a></li>
                     </ul>
                 </li>
-                <li><a className="nav-link scrollto" href="/contact">Contact</a></li>
+                <li><a className="nav-link scrollto" href="/contact">Contact Us</a></li>
                 </ul>
                 <Link to="/login"> <button style={ loginButtonStyles }>LOGIN</button> </Link>
                 <i className="bi bi-list mobile-nav-toggle" />

@@ -1,6 +1,34 @@
 var Airtable = require('airtable');
 var base = new Airtable({apiKey: 'pat7LAOx2G8o9KXjo.3b1b1b1b7f1439833170d2fbade502bb0d79d51cd0aec6cc7c33a2b5ca85fd00'}).base('app47HBb7xQ3Vk1uW');
 
+async function getInventory() {
+  const records = await base('LLC Catalog').select().all();
+  return records.map(record => {
+    return {
+        Title : record.get('Title'),
+        Alternate_title : record.get('Alternate Title'),
+        Call_number : record.get('Call Number'),
+        Language : record.get('Language'),
+        Author_director : record.get('Author/Director'),
+        Copyright : record.get('Copyright'),
+        Media_type : record.get('Media Type'),
+        Country : record.get('Country'),
+        Language_subtitles : record.get('Language of subtitles'),
+        Reserved : record.get('Reserved?'),
+        Checked : record.get('Checked out?'),
+        Description : record.get('Description'),
+        Length : record.get('Length')
+    }
+  });
+}
+
+module.exports = {
+  getInventory
+};
+
+
+
+/*
 export default async function getData() {
     inventory = []
     const records = await base('LLC Catalog').select().all();
@@ -16,6 +44,7 @@ getData()
     .then((res)=> console.log("DONE: ", res))
     .catch((err)=>{console.log("ERR: ", err)});
 
+*/
 /*
 function getBase() {
     let catalog = base('LLC Catalog').select({view: "Catalog Spreadsheet"})
