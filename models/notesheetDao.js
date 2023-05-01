@@ -1,8 +1,9 @@
 const mongoose = require('mongoose');
-// names will remain as strings
-const noteSchema = new mongoose.Schema({
+const moment = require('moment');
+
+const notesheetSchema = new mongoose.Schema({
   time: {
-    type: String,
+    type: Date,
     required: true
   },
   firstName: {
@@ -18,11 +19,26 @@ const noteSchema = new mongoose.Schema({
     required: true
   },
   reminder: {
-    type: String,
+    type: Date,
     required: false
   }
 });
 
-const Note = mongoose.model('Note', noteSchema);
+// Add a virtual property that will return the time of the reminder
+notesheetSchema.virtual('reminderTime').get(function() {
+  return moment(this.time).subtract(1, 'hour').toDate();
+});
+
+// Add an instance method to set the reminder
+notesheetSchema.methods.setReminder = function() {
+  this.reminder = this.reminderTime;
+};
+
+// Add a static method to get all notes with a reminder before a given date
+notesheetSchema.statics.getNotesWithReminderBefore = function(date) {
+  return this.find({ reminder: { $lte: date } });
+};
+
+const Note = mongoose.model('Note', notesheetSchema);
 
 module.exports = Note;

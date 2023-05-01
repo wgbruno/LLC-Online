@@ -3,7 +3,7 @@ const mongoose = require("mongoose");
 const AccountSchema = new mongoose.Schema({
     first_name: {type: String, required: true, maxLength: 100},
     last_name: {type: String, required: true, maxLength: 100},
-    account_type: {type: String, required: true, enum: ['admin', 'staff', 'faculty', 'student']},
+    account_type: {type: String, required: true, enum: ['Admin', 'Staff', 'Faculty', 'Student']},
     email: {type: String, required: true},
     password: {type: String, required: true}
 });
@@ -32,6 +32,6 @@ exports.delete = async function(id) {
 }
 
 exports.findByEmailAndPassword = async function(email, password) {
-    let foundAccount = await accountModel.findOne({ email: email, password: password });
+    let foundAccount = await AccountModel.findOne({ email: email, password: password });
     return foundAccount;
 }
