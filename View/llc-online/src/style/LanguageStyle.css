@@ -1,0 +1,30 @@
+/* Center all the text in the page */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: rgba(144, 238, 144, 0.3);
+  }
+  
+  /* Style the hyperlinks */
+  a {
+    color: green;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Style the images */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
