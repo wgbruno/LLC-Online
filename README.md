@@ -16,7 +16,7 @@ https://docs.google.com/document/d/1OzT9LpgdrSHTOypqF-QnckkMBld7rKaLN2_sMPCHfD4/
 ### Current Coverage Report
 
 <img src="https://github.com/wgbruno/LLC-Online/blob/main/frontendtesting.png" width="700" height="500">
-<img src="https://github.com/wgbruno/LLC-Online/blob/main/backendtesting.png" width="700" height="100">
+<img src="https://github.com/wgbruno/LLC-Online/blob/main/backendtesting.png" width="700" height="200">
 
 ## Node Express Instructions (Backend)
 ### 1.) Installing necessary components
